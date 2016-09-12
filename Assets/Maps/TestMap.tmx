@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="20" tilewidth="32" tileheight="32" nextobjectid="23">
+ <tileset firstgid="1" name="Jungle template 5" tilewidth="32" tileheight="32" tilecount="400">
+  <image source="../Spritesheets/Tilesets/Jungle template 5.png" width="640" height="640"/>
+  <tile id="320">
+   <objectgroup draworder="index">
+    <object id="0" x="0.181818" y="0.181818" width="31.6364" height="31.6364"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer name="Path" width="40" height="20">
+  <properties>
+   <property name="unity:sortingLayerName" value="Background"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztlksKhDAQBfUs/k+gzugJ/F9JnXtbGxEaQaPECZgHtcmiu3iLJLPrOLPhmBrrpxbpYv3UYv22jMz9CaaDXW/r70pHOvykxx0HHX5PvTln/UbR0R0/le6P/NZZ8lxXfx5zfAgghAhiSNx9v6eTsjuDHD7whQJKQ/wqdtfQQAsd9DAIP3lHmMK//50W/Sxh0ZgD
+  </data>
+ </layer>
+ <layer name="Grass" width="40" height="20">
+  <properties>
+   <property name="unity:sortingLayerName" value="Background"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt1UlSwlAUBdC4IEHFXifYI4pMALEFdUFuQUVdAbYrwHZLnqEj+DQVMsitOsNf7+bVTxJFUXQ9kVxJTdpt8CSxX9Lv3Ti7dZv5v1Nc/Qb5fsS9u353Mup+obsJnTlMv15nu93tOPr1M2eYc+N6d0P/raH9brjljhb3PPDIJBmyTDHNDDlmmWOeBRZZYpkVVgOeJSRtnnjmhVfeeCfPGutssMkW2+xQYJcie+xT4oBy2Pie6fDBJ19888MvFarUOKTOEceccMoZ5zRocsElVyPqlyZNXPkDU3ZXmQ==
+  </data>
+ </layer>
+ <objectgroup color="#ffa0a4" name="Colliders">
+  <object id="3" x="704" y="224" width="192" height="32.5"/>
+  <object id="5" x="769.333" y="384" width="157.333" height="33.3333"/>
+  <object id="6" x="481.333" y="290.667" width="189.333" height="29.3333"/>
+  <object id="7" x="290" y="322" width="156" height="126"/>
+  <object id="8" x="1120" y="98" width="30" height="314"/>
+  <object id="9" x="0" y="-3.0303" width="1278.79" height="36.3636"/>
+  <object id="11" x="160.5" y="383.5" width="62.5" height="61.5"/>
+  <object id="15" x="96.6667" y="416.667" width="62.6667" height="29.3333"/>
+  <object id="16" x="-33.3333" y="6.06061" width="63.6364" height="669.697"/>
+  <object id="19" x="1251.52" y="33.3333" width="78.7879" height="660.606"/>
+  <object id="21" x="32" y="511" width="1271.03" height="149.606"/>
+ </objectgroup>
+</map>

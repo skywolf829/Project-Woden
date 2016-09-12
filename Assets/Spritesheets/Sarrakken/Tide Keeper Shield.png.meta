@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 4f0a6bfa23c8049fe85354fe97adc3fb
+timeCreated: 1449118291
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tide Keeper Shield_0
+    21300002: Tide Keeper Shield_1
+    21300004: Tide Keeper Shield_2
+    21300006: Tide Keeper Shield_3
+    21300008: Tide Keeper Shield_4
+    21300010: Tide Keeper Shield_5
+    21300012: Tide Keeper Shield_6
+    21300014: Tide Keeper Shield_7
+    21300016: Tide Keeper Shield_8
+    21300018: Tide Keeper Shield_9
+    21300020: Tide Keeper Shield_10
+    21300022: Tide Keeper Shield_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tide Keeper Shield_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -12}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: -14}
+        - {x: 1, y: -10}
+        - {x: -2, y: -10}
+    - name: Tide Keeper Shield_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -12}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: -14}
+        - {x: 1, y: -10}
+        - {x: -2, y: -10}
+    - name: Tide Keeper Shield_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -2}
+        - {x: -3, y: -4}
+        - {x: -5, y: -16}
+        - {x: 4, y: -16}
+        - {x: 4, y: -3}
+        - {x: 2, y: -2}
+    - name: Tide Keeper Shield_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5, y: -11}
+        - {x: 2, y: 11}
+        - {x: -1, y: 12}
+        - {x: -4, y: 11}
+    - name: Tide Keeper Shield_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 3, y: 16}
+        - {x: -4, y: 16}
+        - {x: -6, y: -1}
+    - name: Tide Keeper Shield_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 3, y: 16}
+        - {x: -4, y: 16}
+        - {x: -6, y: -1}
+    - name: Tide Keeper Shield_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 16}
+        - {x: -4, y: 16}
+        - {x: -9, y: -2}
+        - {x: -9, y: -12}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: -7}
+        - {x: 5, y: 13}
+    - name: Tide Keeper Shield_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -8, y: 4}
+        - {x: -10, y: -3}
+        - {x: -10, y: -14}
+        - {x: -5, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: 10}
+        - {x: 3, y: 13}
+    - name: Tide Keeper Shield_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -2}
+        - {x: 1, y: -2}
+        - {x: 2, y: -2}
+        - {x: 5, y: -1}
+        - {x: 7, y: 3}
+        - {x: 2, y: 10}
+        - {x: -8, y: 10}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: -4}
+      - - {x: -9, y: -12}
+        - {x: -6, y: -11}
+        - {x: -6, y: -8}
+        - {x: -9, y: -7}
+        - {x: -11, y: -9}
+    - name: Tide Keeper Shield_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -15}
+        - {x: 5, y: -14}
+        - {x: 5, y: -11}
+        - {x: 2, y: -10}
+        - {x: 0, y: -12}
+      - - {x: -4, y: -11}
+        - {x: -1, y: -10}
+        - {x: -1, y: -7}
+        - {x: -4, y: -6}
+        - {x: -6, y: -8}
+      - - {x: 4, y: -3}
+        - {x: 7, y: -2}
+        - {x: 7, y: 1}
+        - {x: 4, y: 2}
+        - {x: 2, y: 0}
+      - - {x: -1, y: 0}
+        - {x: 2, y: 1}
+        - {x: 2, y: 4}
+        - {x: -1, y: 5}
+        - {x: -3, y: 3}
+    - name: Tide Keeper Shield_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -12}
+        - {x: 8, y: -11}
+        - {x: 8, y: -8}
+        - {x: 5, y: -7}
+        - {x: 3, y: -9}
+      - - {x: -5, y: -9}
+        - {x: -2, y: -8}
+        - {x: -2, y: -5}
+        - {x: -5, y: -4}
+        - {x: -7, y: -6}
+      - - {x: 0, y: -2}
+        - {x: 3, y: -1}
+        - {x: 3, y: 2}
+        - {x: 0, y: 3}
+        - {x: -2, y: 1}
+    - name: Tide Keeper Shield_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -6}
+        - {x: 1, y: -5}
+        - {x: 1, y: -2}
+        - {x: -2, y: -1}
+        - {x: -4, y: -3}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

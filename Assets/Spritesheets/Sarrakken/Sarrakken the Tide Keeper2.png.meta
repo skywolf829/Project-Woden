@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: d7a00b917f8cf45ed988d3e39e68a656
+timeCreated: 1449118230
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sarrakken the Tide Keeper2_0
+    21300002: Sarrakken the Tide Keeper2_1
+    21300004: Sarrakken the Tide Keeper2_2
+    21300006: Sarrakken the Tide Keeper2_3
+    21300008: Sarrakken the Tide Keeper2_4
+    21300010: Sarrakken the Tide Keeper2_5
+    21300012: Sarrakken the Tide Keeper2_6
+    21300014: Sarrakken the Tide Keeper2_7
+    21300016: Sarrakken the Tide Keeper2_8
+    21300018: Sarrakken the Tide Keeper2_9
+    21300020: Sarrakken the Tide Keeper2_10
+    21300022: Sarrakken the Tide Keeper2_11
+    21300024: Sarrakken the Tide Keeper2_12
+    21300026: Sarrakken the Tide Keeper2_13
+    21300028: Sarrakken the Tide Keeper2_14
+    21300030: Sarrakken the Tide Keeper2_15
+    21300032: Sarrakken the Tide Keeper2_16
+    21300034: Sarrakken the Tide Keeper2_17
+    21300036: Sarrakken the Tide Keeper2_18
+    21300038: Sarrakken the Tide Keeper2_19
+    21300040: Sarrakken the Tide Keeper2_20
+    21300042: Sarrakken the Tide Keeper2_21
+    21300044: Sarrakken the Tide Keeper2_22
+    21300046: Sarrakken the Tide Keeper2_23
+    21300048: Sarrakken the Tide Keeper2_24
+    21300050: Sarrakken the Tide Keeper2_25
+    21300052: Sarrakken the Tide Keeper2_26
+    21300054: Sarrakken the Tide Keeper2_27
+    21300056: Sarrakken the Tide Keeper2_28
+    21300058: Sarrakken the Tide Keeper2_29
+    21300060: Sarrakken the Tide Keeper2_30
+    21300062: Sarrakken the Tide Keeper2_31
+    21300064: Sarrakken the Tide Keeper2_32
+    21300066: Sarrakken the Tide Keeper2_33
+    21300068: Sarrakken the Tide Keeper2_34
+    21300070: Sarrakken the Tide Keeper2_35
+    21300072: Sarrakken the Tide Keeper2_36
+    21300074: Sarrakken the Tide Keeper2_37
+    21300076: Sarrakken the Tide Keeper2_38
+    21300078: Sarrakken the Tide Keeper2_39
+    21300080: Sarrakken the Tide Keeper2_40
+    21300082: Sarrakken the Tide Keeper2_41
+    21300084: Sarrakken the Tide Keeper2_42
+    21300086: Sarrakken the Tide Keeper2_43
+    21300088: Sarrakken the Tide Keeper2_44
+    21300090: Sarrakken the Tide Keeper2_45
+    21300092: Sarrakken the Tide Keeper2_46
+    21300094: Sarrakken the Tide Keeper2_47
+    21300096: Sarrakken the Tide Keeper2_48
+    21300098: Sarrakken the Tide Keeper2_49
+    21300100: Sarrakken the Tide Keeper2_50
+    21300102: Sarrakken the Tide Keeper2_51
+    21300104: Sarrakken the Tide Keeper2_52
+    21300106: Sarrakken the Tide Keeper2_53
+    21300108: Sarrakken the Tide Keeper2_54
+    21300110: Sarrakken the Tide Keeper2_55
+    21300112: Sarrakken the Tide Keeper2_56
+    21300114: Sarrakken the Tide Keeper2_57
+    21300116: Sarrakken the Tide Keeper2_58
+    21300118: Sarrakken the Tide Keeper2_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sarrakken the Tide Keeper2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -21}
+        - {x: 25, y: 27}
+        - {x: 12, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -30, y: -32}
+        - {x: 32, y: -32}
+    - name: Sarrakken the Tide Keeper2_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -10}
+        - {x: 29, y: 9}
+      - - {x: 25, y: 3}
+        - {x: 28, y: 4}
+        - {x: 28, y: 7}
+        - {x: 25, y: 8}
+        - {x: 23, y: 6}
+    - name: Sarrakken the Tide Keeper2_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -26}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 16}
+        - {x: 22, y: 30}
+      - - {x: 25, y: -5}
+        - {x: 28, y: -4}
+        - {x: 28, y: -1}
+        - {x: 25, y: 0}
+        - {x: 23, y: -2}
+      - - {x: 27, y: 1}
+        - {x: 30, y: 2}
+        - {x: 30, y: 5}
+        - {x: 27, y: 6}
+        - {x: 25, y: 4}
+    - name: Sarrakken the Tide Keeper2_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -23}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 14}
+        - {x: 14, y: 32}
+      - - {x: 29, y: 2}
+        - {x: 32, y: 3}
+        - {x: 32, y: 6}
+        - {x: 29, y: 7}
+        - {x: 27, y: 5}
+    - name: Sarrakken the Tide Keeper2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 18}
+        - {x: 21, y: 28}
+    - name: Sarrakken the Tide Keeper2_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 32}
+        - {x: -27, y: 32}
+        - {x: -32, y: 29}
+        - {x: -32, y: -22}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 12}
+        - {x: 21, y: 27}
+    - name: Sarrakken the Tide Keeper2_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -29}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 24}
+        - {x: 22, y: 32}
+    - name: Sarrakken the Tide Keeper2_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -29}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 22}
+        - {x: 30, y: 26}
+    - name: Sarrakken the Tide Keeper2_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 22}
+        - {x: 15, y: 32}
+    - name: Sarrakken the Tide Keeper2_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 9}
+        - {x: 27, y: 32}
+    - name: Sarrakken the Tide Keeper2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 32}
+        - {x: -27, y: 32}
+        - {x: -32, y: 29}
+        - {x: -32, y: -22}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 12}
+        - {x: 21, y: 27}
+    - name: Sarrakken the Tide Keeper2_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -23}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 14}
+        - {x: 14, y: 32}
+      - - {x: 29, y: 2}
+        - {x: 32, y: 3}
+        - {x: 32, y: 6}
+        - {x: 29, y: 7}
+        - {x: 27, y: 5}
+    - name: Sarrakken the Tide Keeper2_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -26}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 16}
+        - {x: 22, y: 30}
+      - - {x: 25, y: -5}
+        - {x: 28, y: -4}
+        - {x: 28, y: -1}
+        - {x: 25, y: 0}
+        - {x: 23, y: -2}
+      - - {x: 27, y: 1}
+        - {x: 30, y: 2}
+        - {x: 30, y: 5}
+        - {x: 27, y: 6}
+        - {x: 25, y: 4}
+    - name: Sarrakken the Tide Keeper2_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -22}
+        - {x: 23, y: 26}
+    - name: Sarrakken the Tide Keeper2_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -3}
+        - {x: 29, y: 20}
+        - {x: 8, y: 32}
+    - name: Sarrakken the Tide Keeper2_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -22}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 1}
+        - {x: 17, y: 32}
+    - name: Sarrakken the Tide Keeper2_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -26}
+        - {x: -31, y: -32}
+        - {x: 28, y: -32}
+        - {x: 32, y: -25}
+        - {x: 32, y: 5}
+        - {x: 14, y: 32}
+    - name: Sarrakken the Tide Keeper2_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 1}
+        - {x: 20, y: -8}
+        - {x: 17, y: -14}
+        - {x: 19, y: -6}
+        - {x: 21, y: 0}
+        - {x: 21, y: 14}
+        - {x: 19, y: 22}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -23}
+        - {x: -31, y: -32}
+        - {x: 20, y: -32}
+        - {x: 32, y: -28}
+        - {x: 32, y: 3}
+        - {x: 26, y: 3}
+    - name: Sarrakken the Tide Keeper2_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 19}
+        - {x: 16, y: 32}
+    - name: Sarrakken the Tide Keeper2_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 30, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: 8}
+        - {x: 24, y: 27}
+    - name: Sarrakken the Tide Keeper2_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 15}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -25}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -13}
+        - {x: 25, y: 27}
+        - {x: 5, y: 32}
+    - name: Sarrakken the Tide Keeper2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 15}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -25}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 15}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -25}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 15}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -25}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 15}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -25}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 15}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -25}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 15}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -25}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 15}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -25}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 15}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -25}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 15}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -25}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 15}
+        - {x: 13, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -25}
+        - {x: -31, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -25}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 30, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: 8}
+        - {x: 24, y: 27}
+    - name: Sarrakken the Tide Keeper2_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -26}
+        - {x: -31, y: -32}
+        - {x: 28, y: -32}
+        - {x: 32, y: -25}
+        - {x: 32, y: 5}
+        - {x: 14, y: 32}
+    - name: Sarrakken the Tide Keeper2_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -22}
+        - {x: -31, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 1}
+        - {x: 17, y: 32}
+    - name: Sarrakken the Tide Keeper2_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -28}
+        - {x: -31, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -1}
+    - name: Sarrakken the Tide Keeper2_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -21}
+        - {x: -30, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -3}
+        - {x: 17, y: 32}
+    - name: Sarrakken the Tide Keeper2_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -22}
+        - {x: 30, y: -14}
+        - {x: 23, y: -6}
+        - {x: 21, y: -4}
+        - {x: 19, y: -5}
+        - {x: 23, y: -3}
+        - {x: 29, y: -1}
+        - {x: 18, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -20}
+        - {x: -29, y: -32}
+        - {x: 32, y: -32}
+    - name: Sarrakken the Tide Keeper2_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -17}
+        - {x: 19, y: -17}
+        - {x: 26, y: -14}
+        - {x: 31, y: -5}
+        - {x: 31, y: 9}
+        - {x: 26, y: 10}
+        - {x: 24, y: 10}
+        - {x: 22, y: 9}
+        - {x: 23, y: 10}
+        - {x: 24, y: 10}
+        - {x: 32, y: 14}
+        - {x: 32, y: 21}
+        - {x: 7, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -22}
+      - - {x: 28, y: 9}
+        - {x: 30, y: 6}
+        - {x: 32, y: 7}
+        - {x: 32, y: 10}
+        - {x: 30, y: 11}
+    - name: Sarrakken the Tide Keeper2_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -17}
+        - {x: 26, y: -17}
+        - {x: 32, y: -15}
+        - {x: 32, y: 15}
+        - {x: 26, y: 27}
+        - {x: 20, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -22}
+        - {x: 27, y: -17}
+    - name: Sarrakken the Tide Keeper2_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -4}
+        - {x: 29, y: -4}
+        - {x: 32, y: -2}
+        - {x: 32, y: 29}
+        - {x: 29, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -21}
+        - {x: -30, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -15}
+        - {x: 27, y: -4}
+    - name: Sarrakken the Tide Keeper2_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 24}
+        - {x: 18, y: 21}
+        - {x: 12, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -21}
+        - {x: -30, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 26}
+        - {x: 18, y: 27}
+    - name: Sarrakken the Tide Keeper2_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 2}
+        - {x: 22, y: 0}
+        - {x: 19, y: -4}
+        - {x: 21, y: -7}
+        - {x: 18, y: -4}
+        - {x: 22, y: 0}
+        - {x: 23, y: 3}
+        - {x: 27, y: 4}
+        - {x: 31, y: 8}
+        - {x: 31, y: 10}
+        - {x: 28, y: 11}
+        - {x: 25, y: 10}
+        - {x: 27, y: 11}
+        - {x: 32, y: 15}
+        - {x: 32, y: 17}
+        - {x: 8, y: 31}
+        - {x: 2, y: 32}
+        - {x: -27, y: 32}
+        - {x: -32, y: 31}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -9}
+        - {x: 31, y: 2}
+    - name: Sarrakken the Tide Keeper2_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 12}
+        - {x: 30, y: 23}
+        - {x: 4, y: 32}
+      - - {x: 22, y: -10}
+        - {x: 25, y: -9}
+        - {x: 25, y: -6}
+        - {x: 22, y: -5}
+        - {x: 20, y: -7}
+      - - {x: 23, y: -1}
+        - {x: 24, y: -4}
+        - {x: 27, y: -4}
+        - {x: 29, y: -2}
+        - {x: 28, y: 1}
+        - {x: 25, y: 1}
+      - - {x: 24, y: 2}
+        - {x: 27, y: 3}
+        - {x: 27, y: 6}
+        - {x: 24, y: 7}
+        - {x: 22, y: 5}
+      - - {x: 21, y: 17}
+        - {x: 19, y: 13}
+        - {x: 19, y: 9}
+        - {x: 20, y: 7}
+        - {x: 22, y: 7}
+        - {x: 28, y: 10}
+        - {x: 30, y: 14}
+        - {x: 30, y: 17}
+    - name: Sarrakken the Tide Keeper2_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -21}
+        - {x: 30, y: -13}
+        - {x: 21, y: 18}
+        - {x: 17, y: 32}
+      - - {x: 23, y: -9}
+        - {x: 26, y: -8}
+        - {x: 26, y: -5}
+        - {x: 23, y: -4}
+        - {x: 21, y: -6}
+      - - {x: 26, y: -2}
+        - {x: 29, y: -1}
+        - {x: 29, y: 2}
+        - {x: 26, y: 3}
+        - {x: 24, y: 1}
+      - - {x: 14, y: 7}
+        - {x: 17, y: 2}
+        - {x: 20, y: 4}
+        - {x: 19, y: 8}
+        - {x: 17, y: 10}
+        - {x: 15, y: 10}
+      - - {x: 24, y: 9}
+        - {x: 27, y: 10}
+        - {x: 27, y: 13}
+        - {x: 24, y: 14}
+        - {x: 22, y: 12}
+    - name: Sarrakken the Tide Keeper2_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -21}
+        - {x: 30, y: -13}
+        - {x: 21, y: 18}
+        - {x: 17, y: 32}
+    - name: Sarrakken the Tide Keeper2_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -21}
+        - {x: 30, y: -13}
+        - {x: 21, y: 18}
+        - {x: 17, y: 32}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

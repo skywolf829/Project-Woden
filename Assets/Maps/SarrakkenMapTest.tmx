@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="20" tilewidth="32" tileheight="32" nextobjectid="23">
+ <tileset firstgid="1" name="Castle Template2 contrast" tilewidth="32" tileheight="32" tilecount="400">
+  <image source="Castle Template2 contrast.png" width="640" height="640"/>
+ </tileset>
+ <tileset firstgid="401" name="Jungle template 5" tilewidth="32" tileheight="32" tilecount="400">
+  <image source="Jungle template 5.png" width="640" height="640"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="40" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzzEOgCAMheF6YW/goARQT21N6oZpE8U25g3/QJPCRxqIEkIIdWgkf4Pmu/K2aL6IzpbvDa/lXsubT3aj+izWKL47a0Rfj796OzTf8lErl7nCVW7nNplXmWc5n83im9CvOwALSIgj
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="40" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20LL6AAAAA+BgyAAAE=
+  </data>
+ </layer>
+ <layer name="Door" width="40" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAIA6AZ3O6L4SEkIAEAYOd6AD8Uu7YAfw==
+  </data>
+ </layer>
+ <layer name="Door2" width="40" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzkENADAIBLDD8BzgHRMk49EqaAIAwHVdyfudgAUDnvUA7Q==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object id="22" x="0" y="1.33333">
+   <polyline points="0,0 2.66667,224 30.6667,222.667 28,246.667 90.6667,253.333 94.6667,280 122.667,290.667 152,312 220,338.667 336,366.667 473.333,392 572,410.667 678.667,425.333 756,438.667 862.667,420 969.333,416 973.333,468 830.667,502.667 574.667,506.667 421.333,500 177.333,477.333 26.6667,482.667 -22.6667,538.667 128,673.333 552,673.333 812,641.333 1069.33,569.333 1176,396 1217.33,266.667 1205.33,84 1116,46.6667 926.667,5.33333 514.667,-9.33333 254.667,-8 121.333,-6.66667 0,-1.33333"/>
+  </object>
+ </objectgroup>
+</map>

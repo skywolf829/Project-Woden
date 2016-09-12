@@ -1,0 +1,1061 @@
+fileFormatVersion: 2
+guid: 6b431849a1a7a444db6a87782bb17134
+timeCreated: 1449117334
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hellhound2_0
+    21300002: Hellhound2_1
+    21300004: Hellhound2_2
+    21300006: Hellhound2_3
+    21300008: Hellhound2_4
+    21300010: Hellhound2_5
+    21300012: Hellhound2_6
+    21300014: Hellhound2_7
+    21300016: Hellhound2_8
+    21300018: Hellhound2_9
+    21300020: Hellhound2_10
+    21300022: Hellhound2_11
+    21300024: Hellhound2_12
+    21300026: Hellhound2_13
+    21300028: Hellhound2_14
+    21300030: Hellhound2_15
+    21300032: Hellhound2_16
+    21300034: Hellhound2_17
+    21300036: Hellhound2_18
+    21300038: Hellhound2_19
+    21300040: Hellhound2_20
+    21300042: Hellhound2_21
+    21300044: Hellhound2_22
+    21300046: Hellhound2_23
+    21300048: Hellhound2_24
+    21300050: Hellhound2_25
+    21300052: Hellhound2_26
+    21300054: Hellhound2_27
+    21300056: Hellhound2_28
+    21300058: Hellhound2_29
+    21300060: Hellhound2_30
+    21300062: Hellhound2_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Hellhound2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -26, y: 5}
+        - {x: -26, y: -10}
+        - {x: -23, y: -16}
+        - {x: 29, y: -16}
+        - {x: 29, y: 1}
+        - {x: 21, y: 15}
+    - name: Hellhound2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -26, y: 2}
+        - {x: -26, y: -16}
+        - {x: 28, y: -16}
+        - {x: 29, y: -13}
+        - {x: 29, y: 1}
+        - {x: 22, y: 15}
+    - name: Hellhound2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -26, y: 5}
+        - {x: -26, y: -10}
+        - {x: -23, y: -16}
+        - {x: 29, y: -16}
+        - {x: 29, y: 1}
+        - {x: 21, y: 15}
+    - name: Hellhound2_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -26, y: 1}
+        - {x: -26, y: -10}
+        - {x: -25, y: -16}
+        - {x: 28, y: -16}
+        - {x: 29, y: -15}
+        - {x: 29, y: 2}
+        - {x: 23, y: 15}
+    - name: Hellhound2_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -26, y: 5}
+        - {x: -26, y: -10}
+        - {x: -23, y: -16}
+        - {x: 29, y: -16}
+        - {x: 29, y: 1}
+        - {x: 21, y: 15}
+    - name: Hellhound2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -26, y: 5}
+        - {x: -26, y: -10}
+        - {x: -23, y: -16}
+        - {x: 29, y: -16}
+        - {x: 29, y: 1}
+        - {x: 21, y: 15}
+    - name: Hellhound2_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 15}
+        - {x: -26, y: 13}
+        - {x: -26, y: -8}
+        - {x: -20, y: -16}
+        - {x: 22, y: -16}
+        - {x: 29, y: -14}
+        - {x: 29, y: 9}
+        - {x: 26, y: 15}
+    - name: Hellhound2_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -26, y: 1}
+        - {x: -26, y: -12}
+        - {x: -21, y: -16}
+        - {x: 29, y: -16}
+        - {x: 29, y: 7}
+        - {x: 25, y: 16}
+    - name: Hellhound2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -9, y: 16}
+        - {x: -27, y: 4}
+        - {x: -27, y: -11}
+        - {x: -24, y: -16}
+        - {x: 26, y: -16}
+        - {x: 28, y: -13}
+        - {x: 28, y: 1}
+        - {x: 18, y: 15}
+    - name: Hellhound2_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 16}
+        - {x: -11, y: 16}
+        - {x: -27, y: 3}
+        - {x: -27, y: -16}
+        - {x: 28, y: -16}
+        - {x: 28, y: -1}
+        - {x: 26, y: 11}
+      - - {x: -11, y: 10}
+        - {x: -8, y: 11}
+        - {x: -8, y: 14}
+        - {x: -11, y: 15}
+        - {x: -13, y: 13}
+    - name: Hellhound2_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 16}
+        - {x: -27, y: 10}
+        - {x: -27, y: -11}
+        - {x: -24, y: -16}
+        - {x: 27, y: -16}
+        - {x: 28, y: -13}
+        - {x: 28, y: 2}
+        - {x: 20, y: 16}
+      - - {x: -24, y: 6}
+        - {x: -21, y: 7}
+        - {x: -21, y: 10}
+        - {x: -24, y: 11}
+        - {x: -26, y: 9}
+    - name: Hellhound2_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: -16, y: 16}
+        - {x: -27, y: 6}
+        - {x: -27, y: -13}
+        - {x: -25, y: -16}
+        - {x: 27, y: -16}
+        - {x: 28, y: -14}
+        - {x: 28, y: 1}
+        - {x: 18, y: 15}
+      - - {x: -29, y: -1}
+        - {x: -26, y: 0}
+        - {x: -26, y: 3}
+        - {x: -29, y: 4}
+        - {x: -31, y: 2}
+      - - {x: -22, y: 4}
+        - {x: -19, y: 5}
+        - {x: -19, y: 8}
+        - {x: -22, y: 9}
+        - {x: -24, y: 7}
+      - - {x: -17, y: 11}
+        - {x: -14, y: 12}
+        - {x: -14, y: 15}
+        - {x: -17, y: 16}
+        - {x: -19, y: 14}
+    - name: Hellhound2_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+        - {x: -13, y: 16}
+        - {x: -19, y: 14}
+        - {x: -30, y: 9}
+        - {x: -30, y: -11}
+        - {x: -28, y: -16}
+        - {x: 27, y: -16}
+        - {x: 28, y: -13}
+        - {x: 28, y: 1}
+        - {x: 18, y: 14}
+      - - {x: -26, y: -1}
+        - {x: -23, y: 0}
+        - {x: -23, y: 3}
+        - {x: -26, y: 4}
+        - {x: -28, y: 2}
+      - - {x: -28, y: 9}
+        - {x: -25, y: 10}
+        - {x: -25, y: 13}
+        - {x: -28, y: 14}
+        - {x: -30, y: 12}
+    - name: Hellhound2_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 16}
+        - {x: -13, y: 16}
+        - {x: -28, y: 6}
+        - {x: -28, y: -11}
+        - {x: -22, y: -16}
+        - {x: 25, y: -16}
+        - {x: 27, y: -13}
+        - {x: 27, y: 0}
+        - {x: 17, y: 15}
+      - - {x: -28, y: -15}
+        - {x: -25, y: -14}
+        - {x: -25, y: -11}
+        - {x: -28, y: -10}
+        - {x: -30, y: -12}
+      - - {x: -32, y: -4}
+        - {x: -31, y: -5}
+        - {x: -28, y: -4}
+        - {x: -28, y: -1}
+        - {x: -31, y: 0}
+        - {x: -32, y: -1}
+      - - {x: -27, y: 2}
+        - {x: -24, y: 3}
+        - {x: -24, y: 6}
+        - {x: -27, y: 7}
+        - {x: -29, y: 5}
+      - - {x: -24, y: 9}
+        - {x: -21, y: 4}
+        - {x: -18, y: 6}
+        - {x: -19, y: 10}
+        - {x: -21, y: 12}
+        - {x: -23, y: 12}
+      - - {x: -27, y: 8}
+        - {x: -24, y: 9}
+        - {x: -24, y: 12}
+        - {x: -27, y: 13}
+        - {x: -29, y: 11}
+      - - {x: -12, y: 12}
+        - {x: -9, y: 13}
+        - {x: -9, y: 16}
+        - {x: -13, y: 16}
+        - {x: -14, y: 15}
+    - name: Hellhound2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 16}
+        - {x: -32, y: 5}
+        - {x: -32, y: -11}
+        - {x: -29, y: -15}
+        - {x: 27, y: -15}
+        - {x: 28, y: -13}
+        - {x: 28, y: 5}
+        - {x: 23, y: 16}
+      - - {x: -27, y: 8}
+        - {x: -24, y: 9}
+        - {x: -24, y: 12}
+        - {x: -27, y: 13}
+        - {x: -29, y: 11}
+      - - {x: -21, y: 8}
+        - {x: -18, y: 9}
+        - {x: -18, y: 12}
+        - {x: -21, y: 13}
+        - {x: -23, y: 11}
+    - name: Hellhound2_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 16}
+        - {x: -18, y: 16}
+        - {x: -29, y: 14}
+        - {x: -32, y: 9}
+        - {x: -32, y: -11}
+        - {x: -27, y: -15}
+        - {x: 28, y: -15}
+        - {x: 28, y: 5}
+      - - {x: -32, y: -9}
+        - {x: -31, y: -10}
+        - {x: -28, y: -9}
+        - {x: -28, y: -6}
+        - {x: -31, y: -5}
+        - {x: -32, y: -6}
+      - - {x: -32, y: 7}
+        - {x: -31, y: 6}
+        - {x: -28, y: 7}
+        - {x: -28, y: 10}
+        - {x: -31, y: 11}
+        - {x: -32, y: 10}
+      - - {x: -21, y: 10}
+        - {x: -18, y: 11}
+        - {x: -18, y: 14}
+        - {x: -21, y: 15}
+        - {x: -23, y: 13}
+    - name: Hellhound2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -23, y: 11}
+        - {x: -23, y: 6}
+        - {x: -21, y: 4}
+        - {x: -18, y: 5}
+        - {x: -20, y: 3}
+        - {x: -25, y: 4}
+        - {x: -31, y: 10}
+        - {x: -31, y: -15}
+        - {x: 28, y: -15}
+        - {x: 28, y: 6}
+        - {x: 26, y: 16}
+      - - {x: -32, y: -10}
+        - {x: -31, y: -11}
+        - {x: -28, y: -10}
+        - {x: -28, y: -7}
+        - {x: -31, y: -6}
+        - {x: -32, y: -7}
+      - - {x: -29, y: 8}
+        - {x: -26, y: 8}
+        - {x: -21, y: 10}
+        - {x: -21, y: 14}
+        - {x: -24, y: 15}
+        - {x: -30, y: 11}
+    - name: Hellhound2_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 16}
+        - {x: -13, y: 16}
+        - {x: -28, y: 3}
+        - {x: -29, y: 1}
+        - {x: -29, y: -8}
+        - {x: -26, y: -15}
+        - {x: 28, y: -15}
+        - {x: 28, y: 5}
+      - - {x: -32, y: -12}
+        - {x: -31, y: -13}
+        - {x: -28, y: -12}
+        - {x: -28, y: -9}
+        - {x: -31, y: -8}
+        - {x: -32, y: -9}
+      - - {x: -30, y: 2}
+        - {x: -27, y: 3}
+        - {x: -27, y: 6}
+        - {x: -30, y: 7}
+        - {x: -32, y: 5}
+      - - {x: -23, y: 5}
+        - {x: -21, y: 4}
+        - {x: -18, y: 5}
+        - {x: -18, y: 10}
+        - {x: -19, y: 13}
+        - {x: -22, y: 13}
+        - {x: -23, y: 11}
+      - - {x: -28, y: 9}
+        - {x: -25, y: 10}
+        - {x: -25, y: 13}
+        - {x: -28, y: 14}
+        - {x: -30, y: 12}
+    - name: Hellhound2_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 16}
+        - {x: -15, y: 16}
+        - {x: -19, y: 13}
+        - {x: -21, y: 8}
+        - {x: -20, y: 7}
+        - {x: -22, y: 5}
+        - {x: -22, y: 4}
+        - {x: -24, y: 5}
+        - {x: -21, y: 7}
+        - {x: -21, y: 9}
+        - {x: -24, y: 11}
+        - {x: -29, y: 6}
+        - {x: -29, y: -2}
+        - {x: -24, y: -15}
+        - {x: 28, y: -15}
+        - {x: 28, y: 5}
+      - - {x: -29, y: -12}
+        - {x: -26, y: -11}
+        - {x: -26, y: -8}
+        - {x: -29, y: -7}
+        - {x: -31, y: -9}
+      - - {x: -32, y: -1}
+        - {x: -31, y: -2}
+        - {x: -28, y: -1}
+        - {x: -28, y: 2}
+        - {x: -31, y: 3}
+        - {x: -32, y: 2}
+      - - {x: -28, y: 9}
+        - {x: -25, y: 10}
+        - {x: -25, y: 13}
+        - {x: -28, y: 14}
+        - {x: -30, y: 12}
+    - name: Hellhound2_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 16}
+        - {x: -32, y: 6}
+        - {x: -32, y: 2}
+        - {x: -28, y: -2}
+        - {x: -26, y: -5}
+        - {x: -27, y: -3}
+        - {x: -30, y: -2}
+        - {x: -32, y: -3}
+        - {x: -32, y: -15}
+        - {x: 27, y: -15}
+        - {x: 27, y: 4}
+        - {x: 24, y: 16}
+      - - {x: -24, y: 11}
+        - {x: -21, y: 12}
+        - {x: -21, y: 15}
+        - {x: -24, y: 16}
+        - {x: -26, y: 14}
+    - name: Hellhound2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -14}
+        - {x: 28, y: 0}
+        - {x: 20, y: 16}
+        - {x: -11, y: 16}
+        - {x: -27, y: 3}
+        - {x: -27, y: -9}
+        - {x: -25, y: -16}
+        - {x: 27, y: -16}
+      - - {x: -14, y: 11}
+        - {x: -11, y: 12}
+        - {x: -11, y: 15}
+        - {x: -14, y: 16}
+        - {x: -16, y: 14}
+    - name: Hellhound2_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 16}
+        - {x: -26, y: 9}
+        - {x: -26, y: -11}
+        - {x: -24, y: -16}
+        - {x: 29, y: -16}
+        - {x: 29, y: 8}
+        - {x: 23, y: 16}
+    - name: Hellhound2_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 16}
+        - {x: -26, y: 8}
+        - {x: -26, y: -10}
+        - {x: -23, y: -16}
+        - {x: 29, y: -16}
+        - {x: 29, y: 5}
+        - {x: 25, y: 16}
+    - name: Hellhound2_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 15}
+        - {x: -26, y: 9}
+        - {x: -26, y: -12}
+        - {x: -25, y: -16}
+        - {x: 29, y: -16}
+        - {x: 29, y: 1}
+        - {x: 21, y: 15}
+    - name: Hellhound2_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -26, y: 5}
+        - {x: -26, y: -10}
+        - {x: -23, y: -16}
+        - {x: 29, y: -16}
+        - {x: 29, y: 1}
+        - {x: 21, y: 15}
+    - name: Hellhound2_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 15}
+        - {x: -27, y: 5}
+        - {x: -27, y: -10}
+        - {x: -24, y: -16}
+        - {x: 28, y: -16}
+        - {x: 28, y: 1}
+        - {x: 20, y: 15}
+    - name: Hellhound2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -26, y: 5}
+        - {x: -26, y: -10}
+        - {x: -23, y: -16}
+        - {x: 29, y: -16}
+        - {x: 29, y: 1}
+        - {x: 21, y: 15}
+    - name: Hellhound2_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -11}
+        - {x: 22, y: -12}
+        - {x: 24, y: -9}
+        - {x: 24, y: -1}
+        - {x: 18, y: 9}
+        - {x: 12, y: 14}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: -8}
+        - {x: 16, y: -9}
+      - - {x: -18, y: -7}
+        - {x: -18, y: -14}
+        - {x: -13, y: -14}
+        - {x: -11, y: -13}
+        - {x: -11, y: -9}
+        - {x: -14, y: -7}
+      - - {x: -23, y: 8}
+        - {x: -23, y: 1}
+        - {x: -17, y: 1}
+        - {x: -17, y: 6}
+        - {x: -18, y: 8}
+      - - {x: 22, y: 15}
+        - {x: 21, y: 13}
+        - {x: 21, y: 9}
+        - {x: 23, y: 8}
+        - {x: 27, y: 8}
+        - {x: 28, y: 10}
+        - {x: 28, y: 14}
+        - {x: 25, y: 15}
+    - name: Hellhound2_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -6}
+        - {x: -15, y: -10}
+        - {x: -15, y: -13}
+        - {x: -13, y: -15}
+        - {x: -7, y: -15}
+        - {x: -6, y: -13}
+        - {x: -6, y: -8}
+        - {x: -9, y: -6}
+      - - {x: 9, y: -4}
+        - {x: 4, y: -6}
+        - {x: 4, y: -12}
+        - {x: 6, y: -14}
+        - {x: 13, y: -14}
+        - {x: 15, y: -10}
+        - {x: 15, y: -7}
+        - {x: 13, y: -4}
+      - - {x: -19, y: -6}
+        - {x: -22, y: -8}
+        - {x: -22, y: -11}
+        - {x: -20, y: -13}
+        - {x: -19, y: -13}
+        - {x: -16, y: -12}
+        - {x: -16, y: -6}
+      - - {x: 14, y: -1}
+        - {x: 14, y: -7}
+        - {x: 16, y: -8}
+        - {x: 18, y: -8}
+        - {x: 21, y: -7}
+        - {x: 21, y: -3}
+        - {x: 20, y: -1}
+      - - {x: 7, y: 11}
+        - {x: -9, y: 11}
+        - {x: -13, y: 10}
+        - {x: -13, y: -4}
+        - {x: -12, y: -7}
+        - {x: 2, y: -7}
+        - {x: 12, y: -3}
+        - {x: 12, y: 5}
+      - - {x: -25, y: 9}
+        - {x: -25, y: 3}
+        - {x: -23, y: 2}
+        - {x: -22, y: 2}
+        - {x: -19, y: 3}
+        - {x: -19, y: 7}
+        - {x: -20, y: 9}
+      - - {x: 19, y: 12}
+        - {x: 16, y: 10}
+        - {x: 16, y: 7}
+        - {x: 18, y: 5}
+        - {x: 20, y: 5}
+        - {x: 23, y: 6}
+        - {x: 23, y: 10}
+        - {x: 22, y: 12}
+    - name: Hellhound2_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -7}
+        - {x: -5, y: -9}
+        - {x: -5, y: -10}
+        - {x: -2, y: -13}
+        - {x: 1, y: -13}
+        - {x: 2, y: -11}
+        - {x: 2, y: -8}
+        - {x: 0, y: -7}
+      - - {x: -23, y: -9}
+        - {x: -21, y: -11}
+        - {x: -18, y: -10}
+        - {x: -18, y: -7}
+        - {x: -20, y: -5}
+        - {x: -23, y: -6}
+      - - {x: -13, y: -9}
+        - {x: -11, y: -11}
+        - {x: -8, y: -10}
+        - {x: -8, y: -6}
+        - {x: -10, y: -4}
+        - {x: -13, y: -5}
+      - - {x: 5, y: -8}
+        - {x: 6, y: -11}
+        - {x: 9, y: -11}
+        - {x: 11, y: -9}
+        - {x: 10, y: -6}
+        - {x: 7, y: -6}
+      - - {x: 19, y: -6}
+        - {x: 20, y: -9}
+        - {x: 23, y: -9}
+        - {x: 25, y: -7}
+        - {x: 24, y: -4}
+        - {x: 21, y: -4}
+      - - {x: 1, y: 8}
+        - {x: 0, y: 6}
+        - {x: 0, y: 0}
+        - {x: 3, y: -4}
+        - {x: 7, y: -6}
+        - {x: 10, y: -5}
+        - {x: 10, y: 4}
+        - {x: 7, y: 8}
+      - - {x: -6, y: 6}
+        - {x: -9, y: 4}
+        - {x: -9, y: 0}
+        - {x: -8, y: -3}
+        - {x: -3, y: -3}
+        - {x: -1, y: 1}
+        - {x: -1, y: 4}
+        - {x: -4, y: 6}
+      - - {x: -20, y: 1}
+        - {x: -19, y: -2}
+        - {x: -16, y: -2}
+        - {x: -14, y: 0}
+        - {x: -15, y: 3}
+        - {x: -18, y: 3}
+      - - {x: 16, y: 9}
+        - {x: 17, y: 6}
+        - {x: 20, y: 6}
+        - {x: 22, y: 8}
+        - {x: 21, y: 11}
+        - {x: 18, y: 11}
+      - - {x: -22, y: 13}
+        - {x: -22, y: 7}
+        - {x: -17, y: 7}
+        - {x: -16, y: 9}
+        - {x: -16, y: 12}
+        - {x: -18, y: 13}
+    - name: Hellhound2_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -13}
+        - {x: 12, y: -12}
+        - {x: 12, y: -9}
+        - {x: 9, y: -8}
+        - {x: 7, y: -10}
+      - - {x: -10, y: -8}
+        - {x: -10, y: -10}
+        - {x: -8, y: -12}
+        - {x: -5, y: -12}
+        - {x: -3, y: -10}
+        - {x: -4, y: -7}
+        - {x: -8, y: -6}
+      - - {x: 7, y: -5}
+        - {x: 8, y: -7}
+        - {x: 13, y: -7}
+        - {x: 13, y: -2}
+        - {x: 12, y: -1}
+        - {x: 9, y: -1}
+        - {x: 7, y: -2}
+      - - {x: -13, y: -6}
+        - {x: -10, y: -5}
+        - {x: -10, y: -2}
+        - {x: -13, y: -1}
+        - {x: -15, y: -3}
+      - - {x: 20, y: -6}
+        - {x: 23, y: -5}
+        - {x: 23, y: -2}
+        - {x: 20, y: -1}
+        - {x: 18, y: -3}
+      - - {x: -22, y: 0}
+        - {x: -19, y: 1}
+        - {x: -19, y: 4}
+        - {x: -22, y: 5}
+        - {x: -24, y: 3}
+      - - {x: -14, y: 9}
+        - {x: -16, y: 7}
+        - {x: -16, y: 5}
+        - {x: -14, y: 3}
+        - {x: -12, y: 3}
+        - {x: -10, y: 5}
+        - {x: -10, y: 6}
+        - {x: -13, y: 9}
+      - - {x: 14, y: 7}
+        - {x: 15, y: 4}
+        - {x: 18, y: 4}
+        - {x: 20, y: 6}
+        - {x: 19, y: 9}
+        - {x: 16, y: 9}
+      - - {x: 1, y: 8}
+        - {x: 3, y: 6}
+        - {x: 6, y: 7}
+        - {x: 6, y: 10}
+        - {x: 4, y: 12}
+        - {x: 1, y: 11}
+      - - {x: -7, y: 9}
+        - {x: -4, y: 10}
+        - {x: -4, y: 13}
+        - {x: -7, y: 14}
+        - {x: -9, y: 12}
+    - name: Hellhound2_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -10}
+        - {x: -13, y: -9}
+        - {x: -13, y: -6}
+        - {x: -16, y: -5}
+        - {x: -18, y: -7}
+      - - {x: 9, y: -10}
+        - {x: 12, y: -9}
+        - {x: 12, y: -6}
+        - {x: 9, y: -5}
+        - {x: 7, y: -7}
+      - - {x: -8, y: 0}
+        - {x: -5, y: 1}
+        - {x: -5, y: 4}
+        - {x: -8, y: 5}
+        - {x: -10, y: 3}
+      - - {x: 1, y: 2}
+        - {x: 4, y: 3}
+        - {x: 4, y: 6}
+        - {x: 1, y: 7}
+        - {x: -1, y: 5}
+      - - {x: -18, y: 3}
+        - {x: -15, y: 4}
+        - {x: -15, y: 7}
+        - {x: -18, y: 8}
+        - {x: -20, y: 6}
+      - - {x: 13, y: 3}
+        - {x: 16, y: 4}
+        - {x: 16, y: 7}
+        - {x: 13, y: 8}
+        - {x: 11, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

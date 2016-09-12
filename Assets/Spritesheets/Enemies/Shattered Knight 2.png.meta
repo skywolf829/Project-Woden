@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 679d1e3ea7db0f049bc9dc28da39d58b
+timeCreated: 1467062307
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Shattered Knight 2_0
+    21300002: Shattered Knight 2_1
+    21300004: Shattered Knight 2_2
+    21300006: Shattered Knight 2_3
+    21300008: Shattered Knight 2_4
+    21300010: Shattered Knight 2_5
+    21300012: Shattered Knight 2_6
+    21300014: Shattered Knight 2_7
+    21300016: Shattered Knight 2_8
+    21300018: Shattered Knight 2_9
+    21300020: Shattered Knight 2_10
+    21300022: Shattered Knight 2_11
+    21300024: Shattered Knight 2_12
+    21300026: Shattered Knight 2_13
+    21300028: Shattered Knight 2_14
+    21300030: Shattered Knight 2_15
+    21300032: Shattered Knight 2_16
+    21300034: Shattered Knight 2_17
+    21300036: Shattered Knight 2_18
+    21300038: Shattered Knight 2_19
+    21300040: Shattered Knight 2_20
+    21300042: Shattered Knight 2_21
+    21300044: Shattered Knight 2_22
+    21300046: Shattered Knight 2_23
+    21300048: Shattered Knight 2_24
+    21300050: Shattered Knight 2_25
+    21300052: Shattered Knight 2_26
+    21300054: Shattered Knight 2_27
+    21300056: Shattered Knight 2_28
+    21300058: Shattered Knight 2_29
+    21300060: Shattered Knight 2_30
+    21300062: Shattered Knight 2_31
+    21300064: Shattered Knight 2_32
+    21300066: Shattered Knight 2_33
+    21300068: Shattered Knight 2_34
+    21300070: Shattered Knight 2_35
+    21300072: Shattered Knight 2_36
+    21300074: Shattered Knight 2_37
+    21300076: Shattered Knight 2_38
+    21300078: Shattered Knight 2_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Shattered Knight 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -9, y: 3}
+        - {x: -11, y: 3}
+        - {x: -15, y: -1}
+        - {x: -11, y: 4}
+        - {x: -9, y: 9}
+        - {x: -18, y: 13}
+        - {x: -22, y: 8}
+        - {x: -25, y: 2}
+        - {x: -25, y: -19}
+        - {x: -19, y: -48}
+        - {x: 22, y: -48}
+        - {x: 22, y: 20}
+        - {x: 6, y: 24}
+    - name: Shattered Knight 2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -11, y: 3}
+        - {x: -11, y: 9}
+        - {x: -14, y: 12}
+        - {x: -25, y: 15}
+        - {x: -25, y: -48}
+        - {x: 15, y: -48}
+        - {x: 22, y: -30}
+        - {x: 22, y: 7}
+        - {x: 13, y: 24}
+    - name: Shattered Knight 2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 23}
+        - {x: -25, y: -37}
+        - {x: -23, y: -48}
+        - {x: 15, y: -48}
+        - {x: 22, y: -32}
+        - {x: 22, y: 16}
+        - {x: 16, y: 24}
+    - name: Shattered Knight 2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 23}
+        - {x: -25, y: -37}
+        - {x: -23, y: -48}
+        - {x: 15, y: -48}
+        - {x: 22, y: -32}
+        - {x: 22, y: 16}
+        - {x: 16, y: 24}
+    - name: Shattered Knight 2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 23}
+        - {x: -25, y: -37}
+        - {x: -23, y: -48}
+        - {x: 15, y: -48}
+        - {x: 22, y: -32}
+        - {x: 22, y: 16}
+        - {x: 16, y: 24}
+    - name: Shattered Knight 2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 23}
+        - {x: -25, y: -37}
+        - {x: -23, y: -48}
+        - {x: 15, y: -48}
+        - {x: 22, y: -32}
+        - {x: 22, y: 16}
+        - {x: 16, y: 24}
+    - name: Shattered Knight 2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 24}
+        - {x: -25, y: 23}
+        - {x: -25, y: -37}
+        - {x: -23, y: -48}
+        - {x: 15, y: -48}
+        - {x: 22, y: -32}
+        - {x: 22, y: 16}
+        - {x: 16, y: 24}
+    - name: Shattered Knight 2_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -11, y: 3}
+        - {x: -11, y: 9}
+        - {x: -14, y: 12}
+        - {x: -25, y: 15}
+        - {x: -25, y: -48}
+        - {x: 15, y: -48}
+        - {x: 22, y: -30}
+        - {x: 22, y: 7}
+        - {x: 13, y: 24}
+    - name: Shattered Knight 2_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -9, y: 3}
+        - {x: -11, y: 3}
+        - {x: -15, y: -1}
+        - {x: -11, y: 4}
+        - {x: -9, y: 9}
+        - {x: -18, y: 13}
+        - {x: -22, y: 8}
+        - {x: -25, y: 2}
+        - {x: -25, y: -19}
+        - {x: -19, y: -48}
+        - {x: 22, y: -48}
+        - {x: 22, y: 20}
+        - {x: 6, y: 24}
+    - name: Shattered Knight 2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -9, y: 3}
+        - {x: -11, y: 3}
+        - {x: -15, y: -1}
+        - {x: -11, y: 4}
+        - {x: -9, y: 9}
+        - {x: -18, y: 13}
+        - {x: -22, y: 8}
+        - {x: -25, y: 2}
+        - {x: -25, y: -19}
+        - {x: -19, y: -48}
+        - {x: 22, y: -48}
+        - {x: 22, y: 20}
+        - {x: 6, y: 24}
+    - name: Shattered Knight 2_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -9, y: 3}
+        - {x: -11, y: 3}
+        - {x: -15, y: -1}
+        - {x: -11, y: 4}
+        - {x: -9, y: 9}
+        - {x: -18, y: 13}
+        - {x: -22, y: 8}
+        - {x: -25, y: 2}
+        - {x: -25, y: -19}
+        - {x: -19, y: -48}
+        - {x: 22, y: -48}
+        - {x: 22, y: 20}
+        - {x: 6, y: 24}
+    - name: Shattered Knight 2_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -9, y: 3}
+        - {x: -11, y: 3}
+        - {x: -15, y: -1}
+        - {x: -11, y: 4}
+        - {x: -9, y: 9}
+        - {x: -18, y: 13}
+        - {x: -22, y: 8}
+        - {x: -25, y: 2}
+        - {x: -25, y: -19}
+        - {x: -19, y: -48}
+        - {x: 22, y: -48}
+        - {x: 22, y: 20}
+        - {x: 6, y: 24}
+    - name: Shattered Knight 2_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -9, y: 3}
+        - {x: -11, y: 3}
+        - {x: -15, y: -1}
+        - {x: -11, y: 4}
+        - {x: -9, y: 9}
+        - {x: -18, y: 13}
+        - {x: -22, y: 8}
+        - {x: -25, y: 2}
+        - {x: -25, y: -19}
+        - {x: -19, y: -48}
+        - {x: 22, y: -48}
+        - {x: 22, y: 20}
+        - {x: 6, y: 24}
+    - name: Shattered Knight 2_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -9, y: 3}
+        - {x: -11, y: 3}
+        - {x: -15, y: -1}
+        - {x: -11, y: 4}
+        - {x: -9, y: 9}
+        - {x: -18, y: 13}
+        - {x: -22, y: 8}
+        - {x: -25, y: 2}
+        - {x: -25, y: -19}
+        - {x: -19, y: -48}
+        - {x: 15, y: -48}
+        - {x: 22, y: -12}
+        - {x: 22, y: 9}
+        - {x: 13, y: 24}
+    - name: Shattered Knight 2_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -10}
+        - {x: 20, y: -10}
+        - {x: 22, y: -8}
+        - {x: 22, y: 7}
+        - {x: 10, y: 24}
+        - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -9, y: 3}
+        - {x: -11, y: 3}
+        - {x: -15, y: -1}
+        - {x: -11, y: 4}
+        - {x: -9, y: 9}
+        - {x: -18, y: 13}
+        - {x: -25, y: 5}
+        - {x: -25, y: -24}
+        - {x: -19, y: -48}
+        - {x: 15, y: -48}
+        - {x: 21, y: -14}
+        - {x: 17, y: -10}
+        - {x: 15, y: -11}
+    - name: Shattered Knight 2_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -25, y: 23}
+        - {x: -25, y: -45}
+        - {x: -24, y: -48}
+        - {x: 21, y: -48}
+        - {x: 25, y: -38}
+        - {x: 25, y: 13}
+        - {x: 7, y: 24}
+      - - {x: -21, y: -33}
+        - {x: -18, y: -32}
+        - {x: -18, y: -29}
+        - {x: -21, y: -28}
+        - {x: -23, y: -30}
+      - - {x: 23, y: -30}
+        - {x: 26, y: -29}
+        - {x: 26, y: -26}
+        - {x: 23, y: -25}
+        - {x: 21, y: -27}
+      - - {x: -21, y: -25}
+        - {x: -18, y: -24}
+        - {x: -18, y: -21}
+        - {x: -21, y: -20}
+        - {x: -23, y: -22}
+      - - {x: 20, y: -14}
+        - {x: 23, y: -17}
+        - {x: 26, y: -16}
+        - {x: 26, y: -14}
+        - {x: 23, y: -11}
+        - {x: 21, y: -11}
+      - - {x: 20, y: 2}
+        - {x: 23, y: 3}
+        - {x: 23, y: 6}
+        - {x: 20, y: 7}
+        - {x: 18, y: 5}
+    - name: Shattered Knight 2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -9, y: 3}
+        - {x: -11, y: 3}
+        - {x: -15, y: -1}
+        - {x: -11, y: 4}
+        - {x: -9, y: 9}
+        - {x: -18, y: 13}
+        - {x: -22, y: 8}
+        - {x: -25, y: 2}
+        - {x: -25, y: -19}
+        - {x: -19, y: -48}
+        - {x: 22, y: -48}
+        - {x: 22, y: 20}
+        - {x: 6, y: 24}
+    - name: Shattered Knight 2_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 15}
+        - {x: 6, y: 26}
+        - {x: -5, y: 26}
+        - {x: -12, y: 22}
+        - {x: -9, y: 13}
+        - {x: -9, y: 5}
+        - {x: -11, y: 5}
+        - {x: -15, y: 1}
+        - {x: -11, y: 6}
+        - {x: -9, y: 11}
+        - {x: -18, y: 16}
+        - {x: -25, y: 6}
+        - {x: -25, y: -29}
+        - {x: -20, y: -48}
+        - {x: 18, y: -48}
+        - {x: 22, y: -17}
+        - {x: 22, y: -2}
+    - name: Shattered Knight 2_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 28}
+        - {x: -5, y: 28}
+        - {x: -12, y: 24}
+        - {x: -9, y: 15}
+        - {x: -9, y: 7}
+        - {x: -11, y: 7}
+        - {x: -15, y: 3}
+        - {x: -11, y: 8}
+        - {x: -9, y: 13}
+        - {x: -18, y: 18}
+        - {x: -25, y: 8}
+        - {x: -25, y: -38}
+        - {x: -24, y: -47}
+        - {x: -21, y: -48}
+        - {x: 14, y: -48}
+        - {x: 15, y: -45}
+        - {x: 22, y: -28}
+        - {x: 22, y: 11}
+    - name: Shattered Knight 2_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 30}
+        - {x: -5, y: 30}
+        - {x: -12, y: 26}
+        - {x: -9, y: 9}
+        - {x: -11, y: 9}
+        - {x: -15, y: 5}
+        - {x: -11, y: 10}
+        - {x: -11, y: 14}
+        - {x: -13, y: 18}
+        - {x: -25, y: 21}
+        - {x: -25, y: -48}
+        - {x: 15, y: -48}
+        - {x: 22, y: -11}
+        - {x: 22, y: 9}
+        - {x: 19, y: 14}
+    - name: Shattered Knight 2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 32}
+        - {x: -5, y: 32}
+        - {x: -12, y: 28}
+        - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -15, y: 7}
+        - {x: -11, y: 12}
+        - {x: -11, y: 16}
+        - {x: -13, y: 20}
+        - {x: -23, y: 17}
+        - {x: -25, y: 13}
+        - {x: -25, y: -19}
+        - {x: -18, y: -48}
+        - {x: 10, y: -48}
+        - {x: 15, y: -44}
+        - {x: 22, y: -25}
+        - {x: 22, y: 15}
+    - name: Shattered Knight 2_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -46}
+        - {x: -5, y: -48}
+        - {x: -1, y: -48}
+        - {x: 0, y: -47}
+        - {x: -1, y: -44}
+        - {x: -4, y: -44}
+      - - {x: -5, y: 32}
+        - {x: -12, y: 28}
+        - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -15, y: 7}
+        - {x: -11, y: 12}
+        - {x: -11, y: 16}
+        - {x: -13, y: 20}
+        - {x: -23, y: 17}
+        - {x: -25, y: 15}
+        - {x: -25, y: -19}
+        - {x: -20, y: -41}
+        - {x: -18, y: -48}
+        - {x: 13, y: -48}
+        - {x: 18, y: -47}
+        - {x: 22, y: -33}
+        - {x: 22, y: 12}
+        - {x: 12, y: 32}
+    - name: Shattered Knight 2_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 28}
+        - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -15, y: 7}
+        - {x: -11, y: 12}
+        - {x: -11, y: 16}
+        - {x: -13, y: 20}
+        - {x: -24, y: 17}
+        - {x: -25, y: 15}
+        - {x: -25, y: -26}
+        - {x: -18, y: -48}
+        - {x: 22, y: -48}
+        - {x: 22, y: 12}
+        - {x: 12, y: 32}
+    - name: Shattered Knight 2_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 28}
+        - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -15, y: 7}
+        - {x: -11, y: 12}
+        - {x: -11, y: 16}
+        - {x: -13, y: 20}
+        - {x: -23, y: 17}
+        - {x: -25, y: 12}
+        - {x: -25, y: 3}
+        - {x: -23, y: -1}
+        - {x: -20, y: -40}
+        - {x: -15, y: -48}
+        - {x: 13, y: -48}
+        - {x: 22, y: -44}
+        - {x: 22, y: 15}
+        - {x: 13, y: 32}
+    - name: Shattered Knight 2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 32}
+        - {x: -5, y: 32}
+        - {x: -12, y: 28}
+        - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -15, y: 7}
+        - {x: -11, y: 12}
+        - {x: -11, y: 16}
+        - {x: -13, y: 20}
+        - {x: -23, y: 17}
+        - {x: -25, y: 13}
+        - {x: -25, y: -19}
+        - {x: -18, y: -48}
+        - {x: 10, y: -48}
+        - {x: 15, y: -44}
+        - {x: 22, y: -25}
+        - {x: 22, y: 15}
+    - name: Shattered Knight 2_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -46}
+        - {x: -5, y: -48}
+        - {x: -1, y: -48}
+        - {x: 0, y: -47}
+        - {x: -1, y: -44}
+        - {x: -4, y: -44}
+      - - {x: -5, y: 32}
+        - {x: -12, y: 28}
+        - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -15, y: 7}
+        - {x: -11, y: 12}
+        - {x: -11, y: 16}
+        - {x: -13, y: 20}
+        - {x: -23, y: 17}
+        - {x: -25, y: 15}
+        - {x: -25, y: -19}
+        - {x: -20, y: -41}
+        - {x: -18, y: -48}
+        - {x: 13, y: -48}
+        - {x: 18, y: -47}
+        - {x: 22, y: -33}
+        - {x: 22, y: 12}
+        - {x: 12, y: 32}
+    - name: Shattered Knight 2_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 28}
+        - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -15, y: 7}
+        - {x: -11, y: 12}
+        - {x: -11, y: 16}
+        - {x: -13, y: 20}
+        - {x: -24, y: 17}
+        - {x: -25, y: 15}
+        - {x: -25, y: -26}
+        - {x: -18, y: -48}
+        - {x: 22, y: -48}
+        - {x: 22, y: 12}
+        - {x: 12, y: 32}
+    - name: Shattered Knight 2_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 28}
+        - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -15, y: 7}
+        - {x: -11, y: 12}
+        - {x: -11, y: 16}
+        - {x: -13, y: 20}
+        - {x: -23, y: 17}
+        - {x: -25, y: 12}
+        - {x: -25, y: 3}
+        - {x: -23, y: -1}
+        - {x: -20, y: -40}
+        - {x: -15, y: -48}
+        - {x: 13, y: -48}
+        - {x: 22, y: -44}
+        - {x: 22, y: 15}
+        - {x: 13, y: 32}
+    - name: Shattered Knight 2_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 32}
+        - {x: -5, y: 32}
+        - {x: -12, y: 28}
+        - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -15, y: 7}
+        - {x: -11, y: 12}
+        - {x: -11, y: 16}
+        - {x: -13, y: 20}
+        - {x: -23, y: 17}
+        - {x: -25, y: 12}
+        - {x: -25, y: -12}
+        - {x: -20, y: -41}
+        - {x: -17, y: -47}
+        - {x: -13, y: -48}
+        - {x: 10, y: -48}
+        - {x: 15, y: -44}
+        - {x: 22, y: -15}
+        - {x: 22, y: 12}
+    - name: Shattered Knight 2_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -46}
+        - {x: -5, y: -48}
+        - {x: -1, y: -48}
+        - {x: 0, y: -47}
+        - {x: -1, y: -44}
+        - {x: -4, y: -44}
+      - - {x: 17, y: -2}
+        - {x: 15, y: -3}
+        - {x: 17, y: -2}
+        - {x: 22, y: -2}
+        - {x: 22, y: 8}
+        - {x: 18, y: 22}
+        - {x: 6, y: 32}
+        - {x: -5, y: 32}
+        - {x: -12, y: 28}
+        - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -15, y: 7}
+        - {x: -11, y: 12}
+        - {x: -11, y: 16}
+        - {x: -13, y: 20}
+        - {x: -23, y: 17}
+        - {x: -25, y: 15}
+        - {x: -25, y: -48}
+        - {x: 12, y: -48}
+        - {x: 15, y: -44}
+        - {x: 22, y: -7}
+        - {x: 22, y: -5}
+    - name: Shattered Knight 2_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 16}
+        - {x: 16, y: 32}
+        - {x: -12, y: 32}
+        - {x: -25, y: 27}
+        - {x: -25, y: -38}
+        - {x: -24, y: -43}
+        - {x: -15, y: -48}
+        - {x: 12, y: -48}
+        - {x: 22, y: -24}
+        - {x: 25, y: -12}
+      - - {x: -21, y: -25}
+        - {x: -18, y: -24}
+        - {x: -18, y: -21}
+        - {x: -21, y: -20}
+        - {x: -23, y: -22}
+      - - {x: 23, y: -22}
+        - {x: 26, y: -21}
+        - {x: 26, y: -18}
+        - {x: 23, y: -17}
+        - {x: 21, y: -19}
+      - - {x: -21, y: -17}
+        - {x: -18, y: -16}
+        - {x: -18, y: -13}
+        - {x: -21, y: -12}
+        - {x: -23, y: -14}
+      - - {x: 20, y: -6}
+        - {x: 23, y: -9}
+        - {x: 26, y: -8}
+        - {x: 26, y: -6}
+        - {x: 23, y: -3}
+        - {x: 21, y: -3}
+      - - {x: 20, y: 10}
+        - {x: 23, y: 11}
+        - {x: 23, y: 14}
+        - {x: 20, y: 15}
+        - {x: 18, y: 13}
+    - name: Shattered Knight 2_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 32}
+        - {x: -12, y: 28}
+        - {x: -9, y: 11}
+        - {x: -11, y: 11}
+        - {x: -15, y: 7}
+        - {x: -11, y: 12}
+        - {x: -11, y: 16}
+        - {x: -13, y: 20}
+        - {x: -23, y: 17}
+        - {x: -25, y: 12}
+        - {x: -25, y: 3}
+        - {x: -23, y: -1}
+        - {x: -20, y: -40}
+        - {x: -15, y: -48}
+        - {x: 13, y: -48}
+        - {x: 22, y: -44}
+        - {x: 22, y: 15}
+        - {x: 13, y: 32}
+    - name: Shattered Knight 2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 30}
+        - {x: -5, y: 30}
+        - {x: -12, y: 26}
+        - {x: -9, y: 9}
+        - {x: -11, y: 9}
+        - {x: -15, y: 5}
+        - {x: -11, y: 10}
+        - {x: -11, y: 14}
+        - {x: -13, y: 18}
+        - {x: -25, y: 21}
+        - {x: -25, y: -48}
+        - {x: 15, y: -48}
+        - {x: 22, y: -11}
+        - {x: 22, y: 9}
+        - {x: 19, y: 14}
+    - name: Shattered Knight 2_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 28}
+        - {x: -5, y: 28}
+        - {x: -12, y: 24}
+        - {x: -9, y: 15}
+        - {x: -9, y: 7}
+        - {x: -11, y: 7}
+        - {x: -15, y: 3}
+        - {x: -11, y: 8}
+        - {x: -9, y: 13}
+        - {x: -18, y: 18}
+        - {x: -25, y: 8}
+        - {x: -25, y: -38}
+        - {x: -24, y: -47}
+        - {x: -21, y: -48}
+        - {x: 14, y: -48}
+        - {x: 15, y: -45}
+        - {x: 22, y: -28}
+        - {x: 22, y: 11}
+    - name: Shattered Knight 2_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 15}
+        - {x: 6, y: 26}
+        - {x: -5, y: 26}
+        - {x: -12, y: 22}
+        - {x: -9, y: 13}
+        - {x: -9, y: 5}
+        - {x: -11, y: 5}
+        - {x: -15, y: 1}
+        - {x: -11, y: 6}
+        - {x: -9, y: 11}
+        - {x: -18, y: 16}
+        - {x: -25, y: 6}
+        - {x: -25, y: -29}
+        - {x: -20, y: -48}
+        - {x: 18, y: -48}
+        - {x: 22, y: -17}
+        - {x: 22, y: -2}
+    - name: Shattered Knight 2_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 24}
+        - {x: -12, y: 20}
+        - {x: -9, y: 11}
+        - {x: -9, y: 3}
+        - {x: -11, y: 3}
+        - {x: -15, y: -1}
+        - {x: -11, y: 4}
+        - {x: -9, y: 9}
+        - {x: -18, y: 13}
+        - {x: -22, y: 8}
+        - {x: -25, y: 2}
+        - {x: -25, y: -19}
+        - {x: -19, y: -48}
+        - {x: 22, y: -48}
+        - {x: 22, y: 20}
+        - {x: 6, y: 24}
+    - name: Shattered Knight 2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 23}
+        - {x: -28, y: 20}
+        - {x: -28, y: -38}
+        - {x: -3, y: -48}
+        - {x: 9, y: -48}
+        - {x: 20, y: -42}
+        - {x: 20, y: 13}
+        - {x: 10, y: 23}
+    - name: Shattered Knight 2_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -37}
+        - {x: 18, y: -37}
+        - {x: 25, y: -30}
+        - {x: 25, y: -14}
+        - {x: 22, y: 4}
+        - {x: 13, y: 17}
+        - {x: 5, y: 17}
+        - {x: -7, y: 14}
+        - {x: -18, y: 1}
+        - {x: -18, y: -26}
+        - {x: -12, y: -44}
+        - {x: 16, y: -44}
+        - {x: 18, y: -38}
+        - {x: 15, y: -37}
+        - {x: 11, y: -36}
+      - - {x: -15, y: 2}
+        - {x: -12, y: -1}
+        - {x: -9, y: 0}
+        - {x: -9, y: 3}
+        - {x: -12, y: 6}
+        - {x: -15, y: 5}
+    - name: Shattered Knight 2_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 5}
+        - {x: -19, y: 0}
+        - {x: -19, y: -31}
+        - {x: -17, y: -40}
+        - {x: -11, y: -41}
+        - {x: 22, y: -41}
+        - {x: 22, y: -5}
+        - {x: 12, y: 5}
+      - - {x: 18, y: -5}
+        - {x: 19, y: -8}
+        - {x: 22, y: -9}
+        - {x: 25, y: -8}
+        - {x: 25, y: -6}
+        - {x: 22, y: -3}
+        - {x: 20, y: -3}
+    - name: Shattered Knight 2_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -46}
+        - {x: 8, y: -45}
+        - {x: 8, y: -42}
+        - {x: 5, y: -41}
+        - {x: 3, y: -43}
+      - - {x: -9, y: -37}
+        - {x: -11, y: -40}
+        - {x: -9, y: -43}
+        - {x: -7, y: -44}
+        - {x: -3, y: -44}
+        - {x: -2, y: -42}
+        - {x: -2, y: -40}
+        - {x: -5, y: -38}
+      - - {x: 0, y: -42}
+        - {x: 3, y: -41}
+        - {x: 3, y: -38}
+        - {x: 0, y: -37}
+        - {x: -2, y: -39}
+      - - {x: 16, y: -42}
+        - {x: 19, y: -41}
+        - {x: 19, y: -38}
+        - {x: 16, y: -37}
+        - {x: 14, y: -39}
+      - - {x: 3, y: -38}
+        - {x: 4, y: -41}
+        - {x: 7, y: -41}
+        - {x: 9, y: -39}
+        - {x: 8, y: -36}
+        - {x: 5, y: -36}
+      - - {x: 4, y: -28}
+        - {x: 2, y: -30}
+        - {x: 3, y: -33}
+        - {x: 10, y: -36}
+        - {x: 13, y: -35}
+        - {x: 13, y: -31}
+        - {x: 9, y: -28}
+      - - {x: 15, y: -25}
+        - {x: 15, y: -27}
+        - {x: 18, y: -31}
+        - {x: 22, y: -31}
+        - {x: 24, y: -30}
+        - {x: 24, y: -28}
+        - {x: 19, y: -23}
+        - {x: 17, y: -23}
+      - - {x: 12, y: -29}
+        - {x: 15, y: -28}
+        - {x: 15, y: -25}
+        - {x: 12, y: -24}
+        - {x: 10, y: -26}
+      - - {x: -12, y: -18}
+        - {x: -14, y: -20}
+        - {x: -14, y: -23}
+        - {x: -7, y: -28}
+        - {x: -3, y: -28}
+        - {x: 0, y: -27}
+        - {x: 0, y: -23}
+        - {x: -7, y: -18}
+      - - {x: 4, y: -12}
+        - {x: 2, y: -14}
+        - {x: 2, y: -15}
+        - {x: 7, y: -19}
+        - {x: 10, y: -19}
+        - {x: 11, y: -17}
+        - {x: 11, y: -13}
+        - {x: 8, y: -12}
+      - - {x: -12, y: -9}
+        - {x: -14, y: -10}
+        - {x: -14, y: -15}
+        - {x: -12, y: -16}
+        - {x: -7, y: -16}
+        - {x: -7, y: -12}
+        - {x: -9, y: -9}
+      - - {x: 11, y: -3}
+        - {x: 10, y: -6}
+        - {x: 14, y: -11}
+        - {x: 18, y: -11}
+        - {x: 20, y: -10}
+        - {x: 20, y: -7}
+        - {x: 15, y: -3}
+      - - {x: -6, y: -5}
+        - {x: -1, y: -9}
+        - {x: 2, y: -7}
+        - {x: 1, y: -3}
+        - {x: -1, y: -1}
+        - {x: -6, y: -3}
+      - - {x: 0, y: 0}
+        - {x: 1, y: -2}
+        - {x: 5, y: -4}
+        - {x: 12, y: -4}
+        - {x: 12, y: 1}
+        - {x: 10, y: 5}
+        - {x: 4, y: 5}
+        - {x: 0, y: 2}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

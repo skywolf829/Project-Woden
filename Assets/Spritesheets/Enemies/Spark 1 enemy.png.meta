@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: 21847dbc16d483a4fb34d0f9545de111
+timeCreated: 1463067850
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spark 1 enemy_0
+    21300002: Spark 1 enemy_1
+    21300004: Spark 1 enemy_2
+    21300006: Spark 1 enemy_3
+    21300008: Spark 1 enemy_4
+    21300010: Spark 1 enemy_5
+    21300012: Spark 1 enemy_6
+    21300014: Spark 1 enemy_7
+    21300016: Spark 1 enemy_8
+    21300018: Spark 1 enemy_9
+    21300020: Spark 1 enemy_10
+    21300022: Spark 1 enemy_11
+    21300024: Spark 1 enemy_12
+    21300026: Spark 1 enemy_13
+    21300028: Spark 1 enemy_14
+    21300030: Spark 1 enemy_15
+    21300032: Spark 1 enemy_16
+    21300034: Spark 1 enemy_17
+    21300036: Spark 1 enemy_18
+    21300038: Spark 1 enemy_19
+    21300040: Spark 1 enemy_20
+    21300042: Spark 1 enemy_21
+    21300044: Spark 1 enemy_22
+    21300046: Spark 1 enemy_23
+    21300048: Spark 1 enemy_24
+    21300050: Spark 1 enemy_25
+    21300052: Spark 1 enemy_26
+    21300054: Spark 1 enemy_27
+    21300056: Spark 1 enemy_28
+    21300058: Spark 1 enemy_29
+    21300060: Spark 1 enemy_30
+    21300062: Spark 1 enemy_31
+    21300064: Spark 1 enemy_32
+    21300066: Spark 1 enemy_33
+    21300068: Spark 1 enemy_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Spark 1 enemy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -10, y: 7}
+        - {x: -10, y: -3}
+        - {x: -9, y: -6}
+        - {x: -4, y: -7}
+        - {x: 4, y: -7}
+        - {x: 9, y: -2}
+        - {x: 9, y: 10}
+        - {x: 3, y: 12}
+    - name: Spark 1 enemy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: 3}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: 11, y: -13}
+        - {x: 12, y: -11}
+        - {x: 12, y: 16}
+      - - {x: 12, y: -2}
+        - {x: 14, y: -5}
+        - {x: 16, y: -4}
+        - {x: 16, y: -1}
+        - {x: 14, y: 0}
+    - name: Spark 1 enemy_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 15}
+        - {x: -14, y: 14}
+        - {x: -14, y: -11}
+        - {x: -11, y: -14}
+        - {x: 8, y: -14}
+        - {x: 14, y: -10}
+        - {x: 15, y: 0}
+        - {x: 15, y: 12}
+        - {x: 12, y: 15}
+    - name: Spark 1 enemy_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -5}
+        - {x: -9, y: -12}
+        - {x: 10, y: -12}
+        - {x: 15, y: -10}
+        - {x: 15, y: 15}
+        - {x: 6, y: 16}
+    - name: Spark 1 enemy_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -7}
+        - {x: -8, y: -15}
+        - {x: 8, y: -15}
+        - {x: 15, y: -8}
+        - {x: 15, y: 10}
+        - {x: 12, y: 16}
+      - - {x: -16, y: -9}
+        - {x: -15, y: -10}
+        - {x: -12, y: -9}
+        - {x: -12, y: -6}
+        - {x: -15, y: -5}
+        - {x: -16, y: -6}
+    - name: Spark 1 enemy_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -2}
+        - {x: -9, y: -11}
+        - {x: 8, y: -11}
+        - {x: 12, y: -10}
+        - {x: 12, y: 16}
+    - name: Spark 1 enemy_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -12}
+        - {x: -9, y: -14}
+        - {x: 10, y: -14}
+        - {x: 14, y: -10}
+        - {x: 14, y: 10}
+        - {x: 12, y: 16}
+        - {x: -14, y: 16}
+        - {x: -16, y: 15}
+    - name: Spark 1 enemy_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: 3}
+        - {x: -14, y: -9}
+        - {x: -10, y: -13}
+        - {x: 11, y: -13}
+        - {x: 12, y: -11}
+        - {x: 12, y: 16}
+      - - {x: 12, y: -2}
+        - {x: 14, y: -5}
+        - {x: 16, y: -4}
+        - {x: 16, y: -1}
+        - {x: 14, y: 0}
+    - name: Spark 1 enemy_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -14, y: 13}
+        - {x: -14, y: -5}
+        - {x: -11, y: -12}
+        - {x: -8, y: -12}
+        - {x: -7, y: -9}
+        - {x: -8, y: -14}
+        - {x: 4, y: -14}
+        - {x: 10, y: -8}
+        - {x: 15, y: 1}
+        - {x: 15, y: 15}
+      - - {x: 11, y: -9}
+        - {x: 14, y: -8}
+        - {x: 14, y: -5}
+        - {x: 11, y: -4}
+        - {x: 9, y: -6}
+    - name: Spark 1 enemy_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 13}
+        - {x: 11, y: 11}
+        - {x: 9, y: 11}
+        - {x: 10, y: 12}
+        - {x: 9, y: 15}
+        - {x: 4, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 14}
+        - {x: -16, y: 8}
+        - {x: -16, y: -5}
+        - {x: -10, y: -12}
+        - {x: 10, y: -12}
+        - {x: 15, y: -8}
+        - {x: 15, y: 14}
+        - {x: 12, y: 15}
+    - name: Spark 1 enemy_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 2}
+        - {x: 6, y: 16}
+        - {x: -1, y: 16}
+        - {x: -16, y: 1}
+        - {x: -16, y: -8}
+        - {x: -10, y: -15}
+        - {x: -7, y: -15}
+        - {x: -5, y: -14}
+        - {x: 11, y: -7}
+        - {x: 14, y: -5}
+        - {x: 15, y: -2}
+      - - {x: -16, y: -9}
+        - {x: -15, y: -10}
+        - {x: -12, y: -9}
+        - {x: -12, y: -6}
+        - {x: -15, y: -5}
+        - {x: -16, y: -6}
+      - - {x: 8, y: 11}
+        - {x: 11, y: 12}
+        - {x: 11, y: 15}
+        - {x: 8, y: 16}
+        - {x: 6, y: 14}
+      - - {x: -10, y: 12}
+        - {x: -7, y: 13}
+        - {x: -7, y: 16}
+        - {x: -11, y: 16}
+        - {x: -12, y: 15}
+    - name: Spark 1 enemy_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 12}
+        - {x: -3, y: 12}
+        - {x: -9, y: 10}
+        - {x: -9, y: -1}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 10, y: -4}
+        - {x: 10, y: 9}
+    - name: Spark 1 enemy_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 9}
+        - {x: -8, y: -4}
+        - {x: 4, y: -4}
+        - {x: 8, y: -3}
+        - {x: 10, y: -2}
+        - {x: 10, y: 9}
+        - {x: 4, y: 12}
+    - name: Spark 1 enemy_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 7}
+        - {x: -5, y: 5}
+        - {x: -5, y: -2}
+        - {x: -2, y: -3}
+        - {x: 5, y: -3}
+        - {x: 6, y: 0}
+        - {x: 6, y: 4}
+        - {x: 3, y: 7}
+    - name: Spark 1 enemy_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 3}
+        - {x: -5, y: 1}
+        - {x: -5, y: -6}
+        - {x: -2, y: -7}
+        - {x: 5, y: -7}
+        - {x: 6, y: -4}
+        - {x: 6, y: 0}
+        - {x: 3, y: 3}
+    - name: Spark 1 enemy_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -3}
+        - {x: -5, y: -6}
+        - {x: -5, y: -13}
+        - {x: 4, y: -13}
+        - {x: 6, y: -12}
+        - {x: 6, y: -6}
+        - {x: 3, y: -3}
+    - name: Spark 1 enemy_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -8}
+        - {x: -5, y: -11}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: -10}
+        - {x: 3, y: -8}
+    - name: Spark 1 enemy_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -8}
+        - {x: -5, y: -11}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: -10}
+        - {x: 3, y: -8}
+    - name: Spark 1 enemy_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -5}
+        - {x: -7, y: -6}
+        - {x: -7, y: -12}
+        - {x: -6, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -14}
+        - {x: 6, y: -5}
+    - name: Spark 1 enemy_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 1}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 1}
+      - - {x: 9, y: -9}
+        - {x: 12, y: -8}
+        - {x: 12, y: -5}
+        - {x: 9, y: -4}
+        - {x: 7, y: -6}
+    - name: Spark 1 enemy_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 1}
+        - {x: 2, y: 0}
+        - {x: -9, y: -6}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -14}
+        - {x: 10, y: -13}
+        - {x: 10, y: 1}
+      - - {x: -4, y: -4}
+        - {x: -1, y: -3}
+        - {x: -1, y: 0}
+        - {x: -4, y: 1}
+        - {x: -6, y: -1}
+    - name: Spark 1 enemy_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 3}
+        - {x: -15, y: 2}
+        - {x: -15, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -1}
+        - {x: -2, y: 3}
+      - - {x: 2, y: 6}
+        - {x: 2, y: -3}
+        - {x: 5, y: -4}
+        - {x: 6, y: -4}
+        - {x: 9, y: -1}
+        - {x: 9, y: 4}
+        - {x: 7, y: 6}
+    - name: Spark 1 enemy_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 7}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: -8, y: -16}
+        - {x: 11, y: -16}
+        - {x: 11, y: -10}
+        - {x: -3, y: 7}
+      - - {x: 5, y: -7}
+        - {x: 7, y: -9}
+        - {x: 10, y: -8}
+        - {x: 10, y: -5}
+        - {x: 8, y: -3}
+        - {x: 5, y: -4}
+      - - {x: 1, y: 1}
+        - {x: 5, y: -1}
+        - {x: 8, y: 1}
+        - {x: 7, y: 4}
+        - {x: 2, y: 6}
+        - {x: 0, y: 4}
+    - name: Spark 1 enemy_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -16}
+        - {x: 6, y: -15}
+        - {x: 6, y: -12}
+        - {x: 3, y: -11}
+        - {x: 1, y: -13}
+      - - {x: -8, y: -1}
+        - {x: -9, y: -4}
+        - {x: -9, y: -5}
+        - {x: -7, y: -10}
+        - {x: -5, y: -10}
+        - {x: -3, y: -9}
+        - {x: -3, y: -3}
+        - {x: -5, y: -1}
+      - - {x: 0, y: -10}
+        - {x: 3, y: -9}
+        - {x: 3, y: -6}
+        - {x: 0, y: -5}
+        - {x: -2, y: -7}
+      - - {x: 4, y: -7}
+        - {x: 7, y: -6}
+        - {x: 7, y: -3}
+        - {x: 4, y: -2}
+        - {x: 2, y: -4}
+      - - {x: -1, y: 1}
+        - {x: 2, y: 2}
+        - {x: 2, y: 5}
+        - {x: -1, y: 6}
+        - {x: -3, y: 4}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

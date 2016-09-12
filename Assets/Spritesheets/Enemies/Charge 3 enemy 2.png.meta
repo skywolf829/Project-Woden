@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 8d721ceb7a36fe34e9d30b5ea19c7874
+timeCreated: 1463068031
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Charge 3 enemy 2_0
+    21300002: Charge 3 enemy 2_1
+    21300004: Charge 3 enemy 2_2
+    21300006: Charge 3 enemy 2_3
+    21300008: Charge 3 enemy 2_4
+    21300010: Charge 3 enemy 2_5
+    21300012: Charge 3 enemy 2_6
+    21300014: Charge 3 enemy 2_7
+    21300016: Charge 3 enemy 2_8
+    21300018: Charge 3 enemy 2_9
+    21300020: Charge 3 enemy 2_10
+    21300022: Charge 3 enemy 2_11
+    21300024: Charge 3 enemy 2_12
+    21300026: Charge 3 enemy 2_13
+    21300028: Charge 3 enemy 2_14
+    21300030: Charge 3 enemy 2_15
+    21300032: Charge 3 enemy 2_16
+    21300034: Charge 3 enemy 2_17
+    21300036: Charge 3 enemy 2_18
+    21300038: Charge 3 enemy 2_19
+    21300040: Charge 3 enemy 2_20
+    21300042: Charge 3 enemy 2_21
+    21300044: Charge 3 enemy 2_22
+    21300046: Charge 3 enemy 2_23
+    21300048: Charge 3 enemy 2_24
+    21300050: Charge 3 enemy 2_25
+    21300052: Charge 3 enemy 2_26
+    21300054: Charge 3 enemy 2_27
+    21300056: Charge 3 enemy 2_28
+    21300058: Charge 3 enemy 2_29
+    21300060: Charge 3 enemy 2_30
+    21300062: Charge 3 enemy 2_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Charge 3 enemy 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -17, y: 8}
+        - {x: -17, y: -20}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 17, y: -17}
+        - {x: 17, y: 7}
+        - {x: 16, y: 11}
+        - {x: 1, y: 30}
+    - name: Charge 3 enemy 2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -17, y: 8}
+        - {x: -17, y: -20}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 17, y: -17}
+        - {x: 17, y: 7}
+        - {x: 16, y: 11}
+        - {x: 1, y: 30}
+    - name: Charge 3 enemy 2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -17, y: 8}
+        - {x: -17, y: -20}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 17, y: -17}
+        - {x: 17, y: 7}
+        - {x: 16, y: 11}
+        - {x: 1, y: 30}
+    - name: Charge 3 enemy 2_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -17, y: 8}
+        - {x: -17, y: -20}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 17, y: -17}
+        - {x: 17, y: 7}
+        - {x: 16, y: 11}
+        - {x: 1, y: 30}
+    - name: Charge 3 enemy 2_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -17, y: 8}
+        - {x: -17, y: -20}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 17, y: -17}
+        - {x: 17, y: 7}
+        - {x: 16, y: 11}
+        - {x: 1, y: 30}
+    - name: Charge 3 enemy 2_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -17, y: 8}
+        - {x: -17, y: -20}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 17, y: -17}
+        - {x: 17, y: 7}
+        - {x: 16, y: 11}
+        - {x: 1, y: 30}
+    - name: Charge 3 enemy 2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30}
+        - {x: -6, y: 30}
+        - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: -12, y: -27}
+        - {x: 7, y: -27}
+        - {x: 20, y: -18}
+        - {x: 20, y: 5}
+        - {x: 15, y: 26}
+    - name: Charge 3 enemy 2_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 30}
+        - {x: -18, y: 16}
+        - {x: -18, y: -6}
+        - {x: -16, y: -25}
+        - {x: -9, y: -27}
+        - {x: 8, y: -27}
+        - {x: 25, y: -14}
+        - {x: 25, y: 18}
+        - {x: 3, y: 30}
+    - name: Charge 3 enemy 2_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 8}
+        - {x: -15, y: 6}
+        - {x: -15, y: 3}
+        - {x: -16, y: 7}
+        - {x: -18, y: 7}
+        - {x: -21, y: 6}
+        - {x: -21, y: -8}
+        - {x: -18, y: -21}
+        - {x: -10, y: -27}
+        - {x: 5, y: -27}
+        - {x: 25, y: -16}
+        - {x: 25, y: 13}
+        - {x: 15, y: 31}
+        - {x: -5, y: 31}
+        - {x: -17, y: 9}
+      - - {x: -23, y: 2}
+        - {x: -25, y: 0}
+        - {x: -25, y: -3}
+        - {x: -22, y: -6}
+        - {x: -20, y: -6}
+        - {x: -18, y: -5}
+        - {x: -18, y: -2}
+        - {x: -20, y: 2}
+      - - {x: -18, y: 19}
+        - {x: -18, y: 18}
+        - {x: -16, y: 16}
+        - {x: -14, y: 16}
+        - {x: -10, y: 20}
+        - {x: -11, y: 23}
+        - {x: -14, y: 23}
+      - - {x: 14, y: 17}
+        - {x: 17, y: 18}
+        - {x: 17, y: 21}
+        - {x: 14, y: 22}
+        - {x: 12, y: 20}
+    - name: Charge 3 enemy 2_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 24}
+        - {x: 14, y: 21}
+        - {x: 0, y: 30}
+        - {x: -6, y: 30}
+        - {x: -23, y: 20}
+        - {x: -23, y: 3}
+        - {x: -13, y: -27}
+        - {x: 5, y: -27}
+        - {x: 26, y: -11}
+        - {x: 26, y: 22}
+        - {x: 22, y: 24}
+    - name: Charge 3 enemy 2_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 30}
+        - {x: -22, y: 24}
+        - {x: -22, y: -15}
+        - {x: -19, y: -27}
+        - {x: 12, y: -27}
+        - {x: 25, y: -13}
+        - {x: 25, y: 9}
+        - {x: 18, y: 30}
+    - name: Charge 3 enemy 2_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 30}
+        - {x: -27, y: 22}
+        - {x: -28, y: 17}
+        - {x: -28, y: -14}
+        - {x: -24, y: -23}
+        - {x: -20, y: -21}
+        - {x: -17, y: -18}
+        - {x: -14, y: -14}
+        - {x: -14, y: -12}
+        - {x: -14, y: -13}
+        - {x: -12, y: -21}
+        - {x: -2, y: -27}
+        - {x: 6, y: -27}
+        - {x: 25, y: -12}
+        - {x: 25, y: 23}
+        - {x: 9, y: 30}
+    - name: Charge 3 enemy 2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 30}
+        - {x: -9, y: 30}
+        - {x: -22, y: 13}
+        - {x: -22, y: -17}
+        - {x: -7, y: -27}
+        - {x: 12, y: -27}
+        - {x: 25, y: -8}
+        - {x: 25, y: 17}
+        - {x: 22, y: 27}
+    - name: Charge 3 enemy 2_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 12}
+        - {x: 23, y: 17}
+        - {x: 13, y: 23}
+        - {x: 7, y: 30}
+        - {x: -8, y: 30}
+        - {x: -21, y: 22}
+        - {x: -22, y: 14}
+        - {x: -22, y: 6}
+        - {x: -19, y: 3}
+        - {x: -17, y: 3}
+        - {x: -19, y: -1}
+        - {x: -18, y: -19}
+        - {x: -9, y: -27}
+        - {x: 2, y: -27}
+        - {x: 25, y: -10}
+        - {x: 25, y: -3}
+        - {x: 22, y: 0}
+        - {x: 25, y: 8}
+      - - {x: -18, y: -8}
+        - {x: -24, y: -12}
+        - {x: -24, y: -17}
+        - {x: -22, y: -18}
+        - {x: -18, y: -18}
+        - {x: -15, y: -13}
+        - {x: -15, y: -8}
+      - - {x: -24, y: -4}
+        - {x: -24, y: -5}
+        - {x: -22, y: -7}
+        - {x: -21, y: -7}
+        - {x: -18, y: -4}
+        - {x: -18, y: -2}
+        - {x: -21, y: -1}
+    - name: Charge 3 enemy 2_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 30}
+        - {x: -23, y: 18}
+        - {x: -21, y: 15}
+        - {x: -17, y: 15}
+        - {x: -12, y: 19}
+        - {x: -15, y: 8}
+        - {x: -16, y: 13}
+        - {x: -19, y: 14}
+        - {x: -23, y: 13}
+        - {x: -26, y: 9}
+        - {x: -27, y: 4}
+        - {x: -27, y: -4}
+        - {x: -8, y: -27}
+        - {x: 5, y: -27}
+        - {x: 28, y: -16}
+        - {x: 28, y: 24}
+        - {x: 23, y: 30}
+    - name: Charge 3 enemy 2_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 30}
+        - {x: -13, y: 27}
+        - {x: -17, y: 22}
+        - {x: -16, y: 18}
+        - {x: -14, y: 16}
+        - {x: -11, y: 17}
+        - {x: -9, y: 20}
+        - {x: -11, y: 19}
+        - {x: -13, y: 14}
+        - {x: -15, y: 8}
+        - {x: -15, y: 3}
+        - {x: -16, y: 2}
+        - {x: -15, y: 7}
+        - {x: -15, y: 14}
+        - {x: -24, y: 21}
+        - {x: -28, y: 19}
+        - {x: -28, y: -22}
+        - {x: -10, y: -27}
+        - {x: 7, y: -27}
+        - {x: 25, y: -12}
+        - {x: 25, y: 25}
+        - {x: 10, y: 30}
+    - name: Charge 3 enemy 2_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 16}
+        - {x: 14, y: 16}
+        - {x: 12, y: 15}
+        - {x: 11, y: 15}
+        - {x: 25, y: 21}
+        - {x: 25, y: 25}
+        - {x: 13, y: 30}
+        - {x: -9, y: 30}
+        - {x: -27, y: 19}
+        - {x: -27, y: -1}
+        - {x: -20, y: -24}
+        - {x: -12, y: -27}
+        - {x: 5, y: -27}
+        - {x: 20, y: -20}
+        - {x: 25, y: -5}
+        - {x: 25, y: 3}
+        - {x: 23, y: 14}
+    - name: Charge 3 enemy 2_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 30}
+        - {x: -21, y: 30}
+        - {x: -24, y: 29}
+        - {x: -22, y: 20}
+        - {x: -20, y: 18}
+        - {x: -24, y: 12}
+        - {x: -23, y: 9}
+        - {x: -17, y: 7}
+        - {x: -17, y: 9}
+        - {x: -22, y: 0}
+        - {x: -24, y: -1}
+        - {x: -24, y: -15}
+        - {x: -22, y: -25}
+        - {x: -5, y: -27}
+        - {x: 3, y: -27}
+        - {x: 20, y: -12}
+        - {x: 25, y: -5}
+        - {x: 25, y: 25}
+    - name: Charge 3 enemy 2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 30}
+        - {x: -6, y: 30}
+        - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: -12, y: -27}
+        - {x: 7, y: -27}
+        - {x: 20, y: -18}
+        - {x: 20, y: 5}
+        - {x: 15, y: 26}
+    - name: Charge 3 enemy 2_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -17, y: 8}
+        - {x: -17, y: -20}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 17, y: -17}
+        - {x: 17, y: 7}
+        - {x: 16, y: 11}
+        - {x: 1, y: 30}
+    - name: Charge 3 enemy 2_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -17, y: 8}
+        - {x: -17, y: -20}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 17, y: -17}
+        - {x: 17, y: 7}
+        - {x: 16, y: 11}
+        - {x: 1, y: 30}
+    - name: Charge 3 enemy 2_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -17, y: 8}
+        - {x: -17, y: -20}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 17, y: -17}
+        - {x: 17, y: 7}
+        - {x: 16, y: 11}
+        - {x: 1, y: 30}
+    - name: Charge 3 enemy 2_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -17, y: 8}
+        - {x: -17, y: -20}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 17, y: -17}
+        - {x: 17, y: 7}
+        - {x: 16, y: 11}
+        - {x: 1, y: 30}
+    - name: Charge 3 enemy 2_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -17, y: 8}
+        - {x: -17, y: -20}
+        - {x: -9, y: -27}
+        - {x: 3, y: -27}
+        - {x: 17, y: -17}
+        - {x: 17, y: 7}
+        - {x: 16, y: 11}
+        - {x: 1, y: 30}
+    - name: Charge 3 enemy 2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 29}
+        - {x: -17, y: 7}
+        - {x: -17, y: -21}
+        - {x: -9, y: -28}
+        - {x: 2, y: -28}
+        - {x: 17, y: -17}
+        - {x: 17, y: 5}
+        - {x: 16, y: 10}
+        - {x: 8, y: 20}
+        - {x: 1, y: 29}
+    - name: Charge 3 enemy 2_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 27}
+        - {x: -17, y: 14}
+        - {x: -17, y: -19}
+        - {x: -10, y: -30}
+        - {x: 3, y: -30}
+        - {x: 17, y: -15}
+        - {x: 17, y: 11}
+        - {x: 1, y: 27}
+    - name: Charge 3 enemy 2_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24}
+        - {x: -17, y: 9}
+        - {x: -17, y: -22}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -31}
+        - {x: 17, y: -18}
+        - {x: 17, y: 15}
+        - {x: 10, y: 24}
+    - name: Charge 3 enemy 2_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -15}
+        - {x: -4, y: -20}
+        - {x: -3, y: -23}
+        - {x: 8, y: -24}
+        - {x: 15, y: -11}
+        - {x: 15, y: 7}
+        - {x: 8, y: 11}
+        - {x: -12, y: 11}
+        - {x: -17, y: 7}
+        - {x: -17, y: -23}
+        - {x: -7, y: -32}
+        - {x: 6, y: -32}
+        - {x: 3, y: -26}
+        - {x: -3, y: -23}
+        - {x: -5, y: -20}
+      - - {x: -11, y: 4}
+        - {x: -8, y: 5}
+        - {x: -8, y: 8}
+        - {x: -11, y: 9}
+        - {x: -13, y: 7}
+      - - {x: -7, y: 19}
+        - {x: -8, y: 14}
+        - {x: -6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -2, y: 14}
+        - {x: -2, y: 18}
+        - {x: -4, y: 20}
+    - name: Charge 3 enemy 2_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -32}
+        - {x: -4, y: -29}
+        - {x: -8, y: -29}
+        - {x: -9, y: -32}
+      - - {x: -1, y: -27}
+        - {x: 0, y: -30}
+        - {x: 3, y: -30}
+        - {x: 5, y: -28}
+        - {x: 4, y: -25}
+        - {x: 1, y: -25}
+      - - {x: -15, y: -27}
+        - {x: -13, y: -29}
+        - {x: -10, y: -28}
+        - {x: -10, y: -24}
+        - {x: -12, y: -22}
+        - {x: -15, y: -23}
+      - - {x: -9, y: 2}
+        - {x: -15, y: -5}
+        - {x: -15, y: -14}
+        - {x: -13, y: -17}
+        - {x: 9, y: -17}
+        - {x: 15, y: -15}
+        - {x: 15, y: -7}
+        - {x: 11, y: 2}
+      - - {x: -5, y: 22}
+        - {x: -2, y: 23}
+        - {x: -2, y: 26}
+        - {x: -5, y: 27}
+        - {x: -7, y: 25}
+    - name: Charge 3 enemy 2_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -15}
+        - {x: -17, y: -18}
+        - {x: -17, y: -22}
+        - {x: -14, y: -25}
+        - {x: -9, y: -25}
+        - {x: -6, y: -22}
+        - {x: -6, y: -18}
+        - {x: -9, y: -15}
+      - - {x: 7, y: -15}
+        - {x: 4, y: -18}
+        - {x: 4, y: -22}
+        - {x: 7, y: -25}
+        - {x: 12, y: -25}
+        - {x: 15, y: -22}
+        - {x: 15, y: -18}
+        - {x: 12, y: -15}
+      - - {x: -3, y: -6}
+        - {x: -6, y: -9}
+        - {x: -6, y: -13}
+        - {x: -3, y: -16}
+        - {x: 2, y: -16}
+        - {x: 5, y: -13}
+        - {x: 5, y: -9}
+        - {x: 2, y: -6}
+    - name: Charge 3 enemy 2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -24}
+        - {x: -17, y: -27}
+        - {x: -17, y: -31}
+        - {x: -16, y: -32}
+        - {x: -7, y: -32}
+        - {x: -6, y: -31}
+        - {x: -6, y: -27}
+        - {x: -9, y: -24}
+      - - {x: -5, y: -24}
+        - {x: -6, y: -25}
+        - {x: -6, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: -25}
+        - {x: 14, y: -24}
+    - name: Charge 3 enemy 2_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -15}
+        - {x: -25, y: -24}
+        - {x: -19, y: -27}
+        - {x: -9, y: -27}
+        - {x: -4, y: -22}
+        - {x: -4, y: -16}
+        - {x: -7, y: -15}
+      - - {x: 3, y: -19}
+        - {x: 3, y: -25}
+        - {x: 10, y: -25}
+        - {x: 18, y: -23}
+        - {x: 18, y: -16}
+        - {x: 16, y: -13}
+        - {x: 5, y: -13}
+        - {x: 4, y: -14}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

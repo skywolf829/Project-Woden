@@ -1,0 +1,28 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Skylar\Documents\project-woden\Project Woden_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Skylar\Documents\project-woden\Project Woden_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Skylar\Documents\project-woden\Project Woden_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Skylar\Documents\project-woden\Project Woden_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Skylar\Documents\project-woden\Project Woden_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Skylar\Documents\project-woden\Project Woden_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Skylar\Documents\project-woden\Project Woden_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Skylar\Documents\project-woden\Project Woden_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: C:\Users\Skylar\Documents\project-woden\Project Woden_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Skylar\Documents\project-woden\Project Woden_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 8640x2409 at 0,0
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
