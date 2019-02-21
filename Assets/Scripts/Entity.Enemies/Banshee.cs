@@ -36,6 +36,7 @@ public class Banshee : Enemy {
 		range = 10;
         weakness = "light";
         strength = "dark";
+
     }	
 
     protected override void AI()
