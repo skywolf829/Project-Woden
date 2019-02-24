@@ -19,7 +19,7 @@ public class EnemyProjectile : MonoBehaviour {
     protected Rigidbody2D rb;
     protected Animator anim;
     	
-	protected virtual void Update () {
+	public virtual void Update () {
         if (!facingCorrectSide)
         {
             rb = gameObject.GetComponent<Rigidbody2D>();
