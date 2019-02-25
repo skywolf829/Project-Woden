@@ -835,13 +835,13 @@ public class Player : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D c)
     {
-
+        print(c.gameObject.layer);
         if (c.gameObject.tag.Equals("Boundary"))
         {
             tran.position = new Vector2(spawnx, spawny);
         }
         //handdle wall grabbing
-        else if(c.gameObject.name == "RectangleObject")
+        else if(c.gameObject.layer == 10 || c.gameObject.name == "RectangleObject")
         {
             Vector2 mapCollisionPos = c.gameObject.GetComponent<Transform>().position;
             Vector2 mapCollisionSize = c.gameObject.GetComponent<BoxCollider2D>().size;
