@@ -28,6 +28,7 @@ public class PlayerPhysics : MonoBehaviour
 
     public IEnumerator UpdatePhysics()
     {
+        UpdateVerticalMovement();
         UpdateHorizontalMovement();
 
         yield return null;
@@ -38,8 +39,8 @@ public class PlayerPhysics : MonoBehaviour
         if (p.crouching) return;
         float dx = rb.velocity.x;
         int xInput = 0;
-        xInput += Input.GetButton("Right") ? 1:0;
-        xInput -= Input.GetButton("Left")  ? 1:0;
+        xInput += p.controls.Intents.Contains(PlayerControls.IntentType.RIGHT) ? 1:0;
+        xInput -= p.controls.Intents.Contains(PlayerControls.IntentType.LEFT) ? 1:0;
 
         if (p.wallGrabbing)
         {
@@ -88,6 +89,35 @@ public class PlayerPhysics : MonoBehaviour
     }
 
     void UpdateVerticalMovement()
+    {
+        if (p.crouching)
+        {
+
+        }
+        if (p.jumping)
+        {
+
+        }
+        if (p.wallGrabbing)
+        {
+
+        }
+        if (p.falling)
+        {
+
+        }
+        if(p.crouching && p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH))
+        {
+
+        }
+    }
+
+    public void StartJump()
+    {
+
+    }
+
+    public void StartCrouch()
     {
 
     }

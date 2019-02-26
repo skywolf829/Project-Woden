@@ -3716,6 +3716,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebc076f591098404192f4625c5759133, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  jumpKey: 32
+  crouchKey: 274
+  ability1Key: 97
+  ability2Key: 115
+  ability3Key: 100
+  ability4Key: 102
+  specialAbilityModifierKey: 304
 --- !u!114 &6519134232233946404
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3731,7 +3738,7 @@ MonoBehaviour:
   jumpMaxSpeed: 7.5
   moveSpeed: 100
   airMoveSpeed: 0.6
-  slowingSpeed: 0.3
+  slowingSpeed: 2
   maxMoveSpeed: 7
   maxFallSpeed: 10
 --- !u!114 &6519134232233946405
