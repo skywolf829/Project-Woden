@@ -11,32 +11,65 @@ public class PlayerPhysics : MonoBehaviour
     Rigidbody2D rb;
     PlayerV2 p;
 
+    public bool DEBUG = false;
+
     //different max speeds and scalars
     public float jumpMaxSpeed = 7.5f;
     public float moveSpeed = 1.0f;
     public float airMoveSpeed = 0.6f;
+    public float airResistance = 0.15f;
     public float slowingSpeed = 0.3f;
     public float maxMoveSpeed = 7.0f;
     public float maxFallSpeed = 10.0f;
+    public float jumpHoldLength = 0.1f;
+
+    float jumpStartTime = 0;
+    public bool touchingBottom, touchingTop, touchingLeft, touchingRight;
+
+    ContactPoint2D[] currentContactPoints;
+    List<GameObject> contactPointObjects;
 
     public void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         box = GetComponent<BoxCollider2D>();
         p = GetComponent<PlayerV2>();
+
+        currentContactPoints = new ContactPoint2D[0];
+        contactPointObjects = new List<GameObject>();
     }
 
     public IEnumerator UpdatePhysics()
-    {
+    {        
         UpdateVerticalMovement();
         UpdateHorizontalMovement();
 
+        if (DEBUG)
+        {
+            while (contactPointObjects.Count < currentContactPoints.Length)
+            {
+                GameObject g = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+                g.transform.localScale = Vector3.one * 0.1f;
+                g.GetComponent<Renderer>().material.color = Color.yellow;
+                g.name = "Contact Point Visual";
+                contactPointObjects.Add(g);
+            }
+            while(contactPointObjects.Count > currentContactPoints.Length)
+            {
+                GameObject g = contactPointObjects[contactPointObjects.Count - 1];
+                contactPointObjects.RemoveAt(contactPointObjects.Count - 1);
+                Destroy(g);
+            }
+            for(int i = 0; i < currentContactPoints.Length; i++)
+            {
+                contactPointObjects[i].transform.position = currentContactPoints[i].point;
+            }
+        }
         yield return null;
     }
 
     void UpdateHorizontalMovement()
     {
-        if (p.crouching) return;
         float dx = rb.velocity.x;
         int xInput = 0;
         xInput += p.controls.Intents.Contains(PlayerControls.IntentType.RIGHT) ? 1:0;
@@ -60,6 +93,18 @@ public class PlayerPhysics : MonoBehaviour
         else if(p.falling || p.jumping)
         {
             dx += xInput * airMoveSpeed * (Time.time - p.lastUpdateTime);
+            if (xInput == 0)
+            {
+                dx *= (1 - airResistance);
+                if(Mathf.Abs(dx) < 0.1f)
+                {
+                    dx = 0;
+                }
+            }
+        }
+        else if (p.crouching)
+        {
+            dx = 0;
         }
         else
         {
@@ -84,41 +129,182 @@ public class PlayerPhysics : MonoBehaviour
                 dx += xInput * moveSpeed * (Time.time - p.lastUpdateTime);
             }
         }
+        if (xInput > 0) { p.anim.FaceRight(); }
+        else if (xInput < 0) { p.anim.FaceLeft(); }
         dx = Mathf.Clamp(dx, -maxMoveSpeed, maxMoveSpeed);
         rb.velocity = new Vector2(dx, rb.velocity.y);
     }
 
     void UpdateVerticalMovement()
     {
+        float dy = rb.velocity.y;
+
         if (p.crouching)
         {
-
+            if (!p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH))
+            {
+                p.crouching = false;
+            }
+            if (p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH))
+            {
+                p.crouching = true;
+            }
         }
-        if (p.jumping)
+        else if (p.jumping)
+        {
+            if(Time.time - jumpStartTime < jumpHoldLength)
+            {
+                if (p.controls.Intents.Contains(PlayerControls.IntentType.JUMP))
+                {
+                    dy = jumpMaxSpeed;
+                }
+            }
+            else
+            {
+                p.jumping = false;
+                p.falling = true;
+            }
+        }
+        else if (p.wallGrabbing)
         {
 
         }
-        if (p.wallGrabbing)
+        else if (p.falling)
         {
 
         }
-        if (p.falling)
+        else
         {
-
+            if (p.controls.Intents.Contains(PlayerControls.IntentType.JUMP))
+            {
+                p.jumping = true;
+                jumpStartTime = Time.time;
+                dy = jumpMaxSpeed;
+            }
+            if (p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH))
+            {
+                p.crouching = true;
+            }
         }
-        if(p.crouching && p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH))
-        {
-
-        }
+        dy = Mathf.Clamp(dy, -maxFallSpeed, jumpMaxSpeed);
+        rb.velocity = new Vector2(rb.velocity.x, dy);
     }
 
-    public void StartJump()
+    ContactPoint2D[] cleanContactPoints(ContactPoint2D[] contacts)
     {
-
+        List<ContactPoint2D> cleanContactList = new List<ContactPoint2D>();
+        for(int i = 0; i < contacts.Length; i++)
+        {
+            bool hasDuplicate = false;
+            for(int j = i + 1; j < contacts.Length; j++)
+            {
+                if(contacts[i].point == contacts[j].point)
+                {
+                    hasDuplicate = true;
+                }
+                if(Vector2.Distance(contacts[i].point, contacts[j].point) < 0.1f){
+                    hasDuplicate = true;
+                }
+            }
+            if (!hasDuplicate)
+            {
+                cleanContactList.Add(contacts[i]);
+            }
+        }
+        return cleanContactList.ToArray();
     }
 
-    public void StartCrouch()
+    public void OnCollisionEnter2D(Collision2D collision)
     {
+        ContactPoint2D[] contactPoints = new ContactPoint2D[collision.contactCount];
+        collision.GetContacts(contactPoints);
+        contactPoints = cleanContactPoints(contactPoints);
+        currentContactPoints = contactPoints;
+        touchingBottom = isBottomCollision(contactPoints);
+        touchingTop = isTopCollision(contactPoints);
+        touchingLeft = isLeftCollision(contactPoints);
+        touchingRight = isRightCollision(contactPoints);
 
+        if (collision.transform.tag == "Map")
+        {
+            if(p.falling && touchingBottom)
+            {
+                p.falling = false;
+            }
+            if (p.jumping && touchingTop)
+            {
+                p.jumping = false;
+                rb.velocity = new Vector2(rb.velocity.x, 0);
+                p.falling = true;
+            }
+        }        
+    }
+
+    public void OnCollisionStay2D(Collision2D collision)
+    {
+        OnCollisionEnter2D(collision);
+    }
+    public void OnCollisionExit2D(Collision2D collision)
+    {
+        currentContactPoints = new ContactPoint2D[0];
+        touchingBottom = isBottomCollision(currentContactPoints);
+        touchingTop = isTopCollision(currentContactPoints);
+        touchingLeft = isLeftCollision(currentContactPoints);
+        touchingRight = isRightCollision(currentContactPoints);
+    }
+    void printContacts(ContactPoint2D[] contacts)
+    {
+        for (int i = 0; i < contacts.Length; i++)
+        {
+            print(contacts[i].point);
+        }
+    }
+    bool isBottomCollision(ContactPoint2D[] contacts)
+    {
+        int numBelow = 0;
+        for(int i = 0; i < contacts.Length; i++)
+        {
+            if(contacts[i].point.y <= transform.position.y - box.size.y / 2f)
+            {
+                numBelow++;
+            }
+        }
+        return numBelow >= 2;
+    }
+    bool isTopCollision(ContactPoint2D[] contacts)
+    {
+        int numAbove = 0;
+        for (int i = 0; i < contacts.Length; i++)
+        {
+            if (contacts[i].point.y >= transform.position.y + box.size.y / 2f)
+            {
+                numAbove++;
+            }
+        }
+        return numAbove >= 2;
+    }
+    bool isLeftCollision(ContactPoint2D[] contacts)
+    {
+        int numLeft = 0;
+        for (int i = 0; i < contacts.Length; i++)
+        {
+            if (contacts[i].point.x <= transform.position.x - box.size.x / 2f)
+            {
+                numLeft++;
+            }
+        }
+        return numLeft >= 2;
+    }
+    bool isRightCollision(ContactPoint2D[] contacts)
+    {
+        int numRight = 0;
+        for (int i = 0; i < contacts.Length; i++)
+        {
+            if (contacts[i].point.x >= transform.position.x + box.size.x / 2f)
+            {
+                numRight++;
+            }
+        }
+        return numRight >= 2;
     }
 }

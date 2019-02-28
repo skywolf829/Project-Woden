@@ -31,6 +31,7 @@ public class PlayerControls : MonoBehaviour
     }
 
     public List<IntentType> Intents = new List<IntentType>();
+    public List<IntentType> PreviousIntents = new List<IntentType>();
 
     private void Awake()
     {
@@ -38,6 +39,12 @@ public class PlayerControls : MonoBehaviour
     }
     public IEnumerator UpdateControls()
     {
+        PreviousIntents = new List<IntentType>();
+        for(int i = 0; i < Intents.Count; i++)
+        {
+            PreviousIntents.Add(Intents[i]);
+        }
+
         Intents = new List<IntentType>();
 
         if (Input.GetKey(leftKey)) Intents.Add(IntentType.LEFT);

@@ -112,6 +112,75 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &9002962
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9002964}
+  - component: {fileID: 9002963}
+  m_Layer: 0
+  m_Name: Directional Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!108 &9002963
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9002962}
+  m_Enabled: 1
+  serializedVersion: 8
+  m_Type: 1
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Intensity: 1
+  m_Range: 10
+  m_SpotAngle: 30
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 0
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 1
+    m_Bias: 0.05
+    m_NormalBias: 0.4
+    m_NearPlane: 0.2
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_Lightmapping: 4
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+--- !u!4 &9002964
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9002962}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.689376, y: -11.918722, z: -3.81}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &627299259
 GameObject:
   m_ObjectHideFlags: 0
@@ -125,7 +194,7 @@ GameObject:
   - component: {fileID: 627299261}
   m_Layer: 0
   m_Name: Foreground
-  m_TagString: Untagged
+  m_TagString: Map
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -948,7 +1017,7 @@ GameObject:
   - component: {fileID: 993199675}
   m_Layer: 0
   m_Name: Grid
-  m_TagString: Untagged
+  m_TagString: Map
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1010,7 +1079,7 @@ GameObject:
   - component: {fileID: 1567211512}
   m_Layer: 0
   m_Name: Map
-  m_TagString: Untagged
+  m_TagString: Map
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1869,7 +1938,7 @@ GameObject:
   - component: {fileID: 1881011251}
   m_Layer: 10
   m_Name: Collisions
-  m_TagString: Untagged
+  m_TagString: Map
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3012,7 +3081,7 @@ GameObject:
   - component: {fileID: 2090333919}
   m_Layer: 0
   m_Name: Background1
-  m_TagString: Untagged
+  m_TagString: Map
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3632,7 +3701,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0
-  m_GravityScale: 1
+  m_GravityScale: 2.85
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -3716,13 +3785,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebc076f591098404192f4625c5759133, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpKey: 32
+  leftKey: 276
+  rightKey: 275
+  jumpKey: 273
   crouchKey: 274
   ability1Key: 97
   ability2Key: 115
   ability3Key: 100
   ability4Key: 102
   specialAbilityModifierKey: 304
+  Intents: 
+  PreviousIntents: 
 --- !u!114 &6519134232233946404
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3735,12 +3808,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 891bedf5ebdd8864c99d1a4b1796d435, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpMaxSpeed: 7.5
+  DEBUG: 1
+  jumpMaxSpeed: 10
   moveSpeed: 100
-  airMoveSpeed: 0.6
-  slowingSpeed: 2
+  airMoveSpeed: 150
+  slowingSpeed: 50
   maxMoveSpeed: 7
   maxFallSpeed: 10
+  jumpHoldLength: 0.075
+  touchingBottom: 0
+  touchingTop: 0
+  touchingLeft: 0
+  touchingRight: 0
 --- !u!114 &6519134232233946405
 MonoBehaviour:
   m_ObjectHideFlags: 0

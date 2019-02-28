@@ -19,4 +19,14 @@ public class PlayerAnimation : MonoBehaviour
 
         yield return null;
     }
+    public void FaceLeft()
+    {
+        transform.localScale = new Vector3(transform.localScale.x < 0 ? transform.localScale.x : -1 * transform.localScale.x, 
+            transform.localScale.y, transform.localScale.z);
+    }
+    public void FaceRight()
+    {
+        transform.localScale = new Vector3(transform.localScale.x > 0 ? transform.localScale.x : -1 * transform.localScale.x,
+            transform.localScale.y, transform.localScale.z);
+    }
 }

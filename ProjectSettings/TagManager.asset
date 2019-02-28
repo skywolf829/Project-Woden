@@ -15,6 +15,7 @@ TagManager:
   - Boss
   - EnemyProjectile
   - Projectile
+  - Map
   layers:
   - Default
   - TransparentFX
