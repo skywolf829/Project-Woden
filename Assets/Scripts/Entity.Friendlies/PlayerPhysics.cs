@@ -22,8 +22,16 @@ public class PlayerPhysics : MonoBehaviour
     public float maxMoveSpeed = 7.0f;
     public float maxFallSpeed = 10.0f;
     public float jumpHoldLength = 0.1f;
+    public float jumpGracePeriod = 0.1f;
+   
+
+    public float normalGravity = 2.8f;
+    public float wallGrabGravity = 0.2f;
+
 
     float jumpStartTime = 0;
+    float wallLeaveTime = 0;
+    bool justLeftWallLeft, justLeftWallRight;
     public bool touchingBottom, touchingTop, touchingLeft, touchingRight;
 
     ContactPoint2D[] currentContactPoints;
@@ -43,6 +51,7 @@ public class PlayerPhysics : MonoBehaviour
     {        
         UpdateVerticalMovement();
         UpdateHorizontalMovement();
+        
 
         if (DEBUG)
         {
@@ -72,21 +81,30 @@ public class PlayerPhysics : MonoBehaviour
     {
         float dx = rb.velocity.x;
         int xInput = 0;
+        int lastXInput = 0;
         xInput += p.controls.Intents.Contains(PlayerControls.IntentType.RIGHT) ? 1:0;
         xInput -= p.controls.Intents.Contains(PlayerControls.IntentType.LEFT) ? 1:0;
+        lastXInput += p.controls.PreviousIntents.Contains(PlayerControls.IntentType.RIGHT) ? 1 : 0;
+        lastXInput -= p.controls.PreviousIntents.Contains(PlayerControls.IntentType.LEFT) ? 1 : 0;
 
         if (p.wallGrabbing)
         {
-            if(p.wallGrabLeft && xInput > 0)
+            if(p.wallGrabLeft && xInput > 0 && lastXInput <= 0)
             {
                 p.wallGrabbing = false;
                 p.wallGrabLeft = false;
+                justLeftWallLeft = true;
+                wallLeaveTime = Time.time;
+                rb.gravityScale = normalGravity;
                 dx += xInput * moveSpeed * (Time.time - p.lastUpdateTime);
             }
-            else if (p.wallGrabRight && xInput < 0)
+            else if (p.wallGrabRight && xInput < 0 && lastXInput >= 0)
             {
                 p.wallGrabbing = false;
                 p.wallGrabRight = false;
+                justLeftWallRight = true;
+                wallLeaveTime = Time.time;
+                rb.gravityScale = normalGravity;
                 dx += xInput * moveSpeed * (Time.time - p.lastUpdateTime);
             }
         }
@@ -100,6 +118,30 @@ public class PlayerPhysics : MonoBehaviour
                 {
                     dx = 0;
                 }
+            }
+            if(touchingLeft && xInput < 0 
+                && (!justLeftWallLeft || (justLeftWallLeft && lastXInput >= 0))) 
+               //&& (lastXInput >= 0  || Mathf.Abs(rb.velocity.x) > 0.05f))
+            {
+                p.wallGrabbing = true;
+                p.wallGrabLeft = true;
+                justLeftWallLeft = false;
+                justLeftWallRight = false;
+                dx = 0;
+                rb.velocity = new Vector2(rb.velocity.x, 0);
+                rb.gravityScale = wallGrabGravity;
+            }
+            if (touchingRight && xInput > 0 
+                && (!justLeftWallRight || (justLeftWallRight && lastXInput <= 0)))
+                //&& (lastXInput <= 0 || Mathf.Abs(rb.velocity.x) > 0.05f))
+            {
+                p.wallGrabbing = true;
+                p.wallGrabRight = true;
+                justLeftWallRight = false;
+                justLeftWallLeft = false;
+                dx = 0;
+                rb.velocity = new Vector2(rb.velocity.x, 0);
+                rb.gravityScale = wallGrabGravity;
             }
         }
         else if (p.crouching)
@@ -129,8 +171,8 @@ public class PlayerPhysics : MonoBehaviour
                 dx += xInput * moveSpeed * (Time.time - p.lastUpdateTime);
             }
         }
-        if (xInput > 0) { p.anim.FaceRight(); }
-        else if (xInput < 0) { p.anim.FaceLeft(); }
+        if (xInput > 0 && !p.wallGrabbing) { p.anim.FaceRight(); }
+        else if (xInput < 0 && !p.wallGrabbing) { p.anim.FaceLeft(); }
         dx = Mathf.Clamp(dx, -maxMoveSpeed, maxMoveSpeed);
         rb.velocity = new Vector2(dx, rb.velocity.y);
     }
@@ -167,23 +209,78 @@ public class PlayerPhysics : MonoBehaviour
         }
         else if (p.wallGrabbing)
         {
-
+            if(p.wallGrabLeft && !touchingLeft)
+            {
+                p.wallGrabbing = false;
+                p.wallGrabLeft = false;
+                wallLeaveTime = Time.time;
+                rb.gravityScale = normalGravity;
+            }
+            else if(p.wallGrabRight && !touchingRight)
+            {
+                p.wallGrabbing = false;
+                p.wallGrabRight = false;
+                wallLeaveTime = Time.time;
+                rb.gravityScale = normalGravity;
+            }
+            else if (p.controls.Intents.Contains(PlayerControls.IntentType.JUMP) &&
+                !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.JUMP))
+            {
+                justLeftWallLeft = p.wallGrabLeft;
+                justLeftWallRight = p.wallGrabRight;
+                p.wallGrabbing = false;
+                p.wallGrabLeft = false;
+                p.wallGrabRight = false;
+                wallLeaveTime = Time.time;
+                rb.gravityScale = normalGravity;
+                p.jumping = true;
+                dy = jumpMaxSpeed;
+            }
+            else if (p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH) &&
+                !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.CROUCH))
+            {
+                justLeftWallLeft = p.wallGrabLeft;
+                justLeftWallRight = p.wallGrabRight;
+                p.wallGrabbing = false;
+                p.wallGrabLeft = false;
+                p.wallGrabRight = false;
+                wallLeaveTime = Time.time;
+                p.falling = true;
+                rb.gravityScale = normalGravity;
+            }
+            else
+            {
+                
+            }
         }
         else if (p.falling)
         {
-
-        }
-        else
-        {
-            if (p.controls.Intents.Contains(PlayerControls.IntentType.JUMP))
+            if(p.controls.Intents.Contains(PlayerControls.IntentType.JUMP) && 
+                !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.JUMP) &&
+                Time.time - wallLeaveTime < jumpGracePeriod)
             {
                 p.jumping = true;
                 jumpStartTime = Time.time;
                 dy = jumpMaxSpeed;
             }
-            if (p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH))
+        }
+        else
+        {
+            if (touchingBottom && p.controls.Intents.Contains(PlayerControls.IntentType.JUMP) && 
+                !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.JUMP))
+            {
+                p.jumping = true;
+                jumpStartTime = Time.time;
+                dy = jumpMaxSpeed;
+            }
+            if (touchingBottom && p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH) &&
+                !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.CROUCH))
             {
                 p.crouching = true;
+            }
+            if(!touchingBottom && !touchingTop && !touchingLeft && !touchingRight)
+            {
+                p.falling = true;
             }
         }
         dy = Mathf.Clamp(dy, -maxFallSpeed, jumpMaxSpeed);
@@ -213,7 +310,6 @@ public class PlayerPhysics : MonoBehaviour
         }
         return cleanContactList.ToArray();
     }
-
     public void OnCollisionEnter2D(Collision2D collision)
     {
         ContactPoint2D[] contactPoints = new ContactPoint2D[collision.contactCount];
@@ -224,7 +320,11 @@ public class PlayerPhysics : MonoBehaviour
         touchingTop = isTopCollision(contactPoints);
         touchingLeft = isLeftCollision(contactPoints);
         touchingRight = isRightCollision(contactPoints);
-
+        if (touchingBottom)
+        {
+            justLeftWallLeft = false;
+            justLeftWallRight = false;
+        }
         if (collision.transform.tag == "Map")
         {
             if(p.falling && touchingBottom)
@@ -237,9 +337,17 @@ public class PlayerPhysics : MonoBehaviour
                 rb.velocity = new Vector2(rb.velocity.x, 0);
                 p.falling = true;
             }
+            if(p.wallGrabbing && touchingBottom)
+            {
+                if (p.wallGrabLeft) p.anim.FaceRight();
+                if (p.wallGrabRight) p.anim.FaceLeft();
+                p.wallGrabbing = false;
+                p.wallGrabLeft = false;
+                p.wallGrabRight = false;
+                rb.gravityScale = normalGravity;
+            }
         }        
     }
-
     public void OnCollisionStay2D(Collision2D collision)
     {
         OnCollisionEnter2D(collision);
@@ -251,6 +359,7 @@ public class PlayerPhysics : MonoBehaviour
         touchingTop = isTopCollision(currentContactPoints);
         touchingLeft = isLeftCollision(currentContactPoints);
         touchingRight = isRightCollision(currentContactPoints);
+        
     }
     void printContacts(ContactPoint2D[] contacts)
     {

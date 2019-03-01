@@ -7,32 +7,28 @@ public class PlayerControls : MonoBehaviour
 {
 
     PlayerV2 p;
-
-    public KeyCode leftKey, rightKey;
-    public KeyCode jumpKey;
-    public KeyCode crouchKey;
-    public KeyCode ability1Key, ability2Key, ability3Key, ability4Key;
-    public KeyCode specialAbilityModifierKey;
-
+    public float movementDeadzone = 0.1f;
+    public float crouchDeadzone = 0.9f;
+    public float jumpDeadzone = 0.9f;
     public enum IntentType
     {
         LEFT, 
         RIGHT,
         JUMP,
         CROUCH,
-        ABILITY1,
-        ABILITY2,
-        ABILITY3,
-        ABILITY4,
-        SPECIALABILITY1,
-        SPECIALABILITY2,
-        SPECIALABILITY3,
-        SPECIALABILITY4
+        ELEMENT1,
+        ELEMENT2,
+        ELEMENT3,
+        ELEMENT4,
+        DEFENSEMODIFIER,
+        CHANNELMODIFIER,
+        CHARGEMODIFIER,
+        PAUSE
     }
 
     public List<IntentType> Intents = new List<IntentType>();
     public List<IntentType> PreviousIntents = new List<IntentType>();
-
+    List<IntentType> modifiersActive = new List<IntentType>();
     private void Awake()
     {
         p = GetComponent<PlayerV2>();
@@ -46,26 +42,24 @@ public class PlayerControls : MonoBehaviour
         }
 
         Intents = new List<IntentType>();
+        if (Input.GetAxisRaw("Horizontal") < -movementDeadzone || Input.GetButton("HorizontalButtonLeft")) Intents.Add(IntentType.LEFT);
+        if (Input.GetAxisRaw("Horizontal") > movementDeadzone || Input.GetButton("HorizontalButtonRight")) Intents.Add(IntentType.RIGHT);
+        if (Input.GetAxisRaw("Vertical") > jumpDeadzone || Input.GetButton("VerticalButtonUp")) Intents.Add(IntentType.JUMP);
+        if (Input.GetAxisRaw("Vertical") < -crouchDeadzone || Input.GetButton("VerticalButtonDown")) Intents.Add(IntentType.CROUCH);
 
-        if (Input.GetKey(leftKey)) Intents.Add(IntentType.LEFT);
-        if (Input.GetKey(rightKey)) Intents.Add(IntentType.RIGHT);
-        if (Input.GetKey(jumpKey)) Intents.Add(IntentType.JUMP);
-        if (Input.GetKey(crouchKey)) Intents.Add(IntentType.CROUCH);
-        if (Input.GetKey(specialAbilityModifierKey))
-        {
-            if (Input.GetKey(ability1Key)) Intents.Add(IntentType.SPECIALABILITY1);
-            if (Input.GetKey(ability2Key)) Intents.Add(IntentType.SPECIALABILITY2);
-            if (Input.GetKey(ability3Key)) Intents.Add(IntentType.SPECIALABILITY3);
-            if (Input.GetKey(ability4Key)) Intents.Add(IntentType.SPECIALABILITY4);
-        }
-        else
-        {
-            if (Input.GetKey(ability1Key)) Intents.Add(IntentType.ABILITY1);
-            if (Input.GetKey(ability2Key)) Intents.Add(IntentType.ABILITY2);
-            if (Input.GetKey(ability3Key)) Intents.Add(IntentType.ABILITY3);
-            if (Input.GetKey(ability4Key)) Intents.Add(IntentType.ABILITY4);
-        }
+        if ((Input.GetButton("DefenseModifierButton") || Input.GetAxisRaw("DefenseModifier") > 0) && !modifiersActive.Contains(IntentType.DEFENSEMODIFIER)) modifiersActive.Add(IntentType.DEFENSEMODIFIER);
+        if (!(Input.GetButton("DefenseModifierButton") || Input.GetAxisRaw("DefenseModifier") > 0) && modifiersActive.Contains(IntentType.DEFENSEMODIFIER)) modifiersActive.Remove(IntentType.DEFENSEMODIFIER);
+        if (Input.GetButton("ChannelModifier") && !modifiersActive.Contains(IntentType.CHANNELMODIFIER)) modifiersActive.Add(IntentType.CHANNELMODIFIER);
+        if (!Input.GetButton("ChannelModifier") && modifiersActive.Contains(IntentType.CHANNELMODIFIER)) modifiersActive.Remove(IntentType.CHANNELMODIFIER);
+        if ((Input.GetButton("ChargeModifierButton") || Input.GetAxisRaw("ChargeModifier") > 0)  && !modifiersActive.Contains(IntentType.CHARGEMODIFIER)) modifiersActive.Add(IntentType.CHARGEMODIFIER);
+        if (!(Input.GetButton("ChargeModifierButton") || Input.GetAxisRaw("ChargeModifier") > 0) && modifiersActive.Contains(IntentType.CHARGEMODIFIER)) modifiersActive.Remove(IntentType.CHARGEMODIFIER);
 
+        if(modifiersActive.Count > 0) Intents.Add(modifiersActive[modifiersActive.Count - 1]);
+        if (Input.GetButton("Element1")) Intents.Add(IntentType.ELEMENT1);
+        if (Input.GetButton("Element2")) Intents.Add(IntentType.ELEMENT2);
+        if (Input.GetButton("Element3")) Intents.Add(IntentType.ELEMENT3);
+        if (Input.GetButton("Element4")) Intents.Add(IntentType.ELEMENT4);
+        if (Input.GetButton("Pause")) Intents.Add(IntentType.PAUSE);
         yield return null;
     }
 }
