@@ -19,10 +19,10 @@ public class PlayerAnimation : MonoBehaviour
     }
     public IEnumerator UpdateAnimation()
     {
-        anim.SetFloat("speed", GetComponent<Rigidbody2D>().velocity.x);
+        anim.SetFloat("speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
         anim.SetBool("falling", p.falling && GetComponent<Rigidbody2D>().velocity.y < 0);
         anim.SetBool("crouching", p.crouching);
-        anim.SetBool("jumping", p.jumping);
+        anim.SetBool("jumping", p.jumping || GetComponent<Rigidbody2D>().velocity.y > 0);
         anim.SetBool("wallGrabbing", p.wallGrabbing);
         anim.SetBool("shooting", p.shooting);
         sr.flipX = p.wallGrabbing;

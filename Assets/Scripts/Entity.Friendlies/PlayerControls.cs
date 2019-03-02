@@ -125,7 +125,8 @@ public class PlayerControls : MonoBehaviour
         DEFENSEMODIFIER,
         CHANNELMODIFIER,
         CHARGEMODIFIER,
-        PAUSE
+        PAUSE,
+        SELECT
     }
 
     public List<IntentType> Intents = new List<IntentType>();

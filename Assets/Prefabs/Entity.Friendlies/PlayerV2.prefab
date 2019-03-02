@@ -242,10 +242,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DEBUG: 1
   jumpMaxSpeed: 10
-  moveSpeed: 150
-  airMoveSpeed: 135
-  airResistance: 0.15
-  slowingSpeed: 100
+  moveSpeed: 300
+  airMoveSpeed: 300
+  airResistance: 0.25
+  slowingSpeed: 300
   maxMoveSpeed: 7
   maxFallSpeed: 10
   jumpHoldLength: 0.075
