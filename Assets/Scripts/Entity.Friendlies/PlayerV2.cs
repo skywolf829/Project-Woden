@@ -62,6 +62,7 @@ public class PlayerV2 : MonoBehaviour
             if (!GameStateController.paused)
             {
                 yield return StartCoroutine(physics.UpdatePhysics());
+                yield return StartCoroutine(abilities.UpdateAbilities());
                 yield return StartCoroutine(anim.UpdateAnimation());
                 yield return StartCoroutine(controls.UpdateControls());
                 lastUpdateTime = Time.time;

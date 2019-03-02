@@ -24,6 +24,7 @@ public class PlayerAnimation : MonoBehaviour
         anim.SetBool("crouching", p.crouching);
         anim.SetBool("jumping", p.jumping);
         anim.SetBool("wallGrabbing", p.wallGrabbing);
+        anim.SetBool("shooting", p.shooting);
         sr.flipX = p.wallGrabbing;
         yield return null;
     }
