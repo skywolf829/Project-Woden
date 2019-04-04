@@ -1,0 +1,4225 @@
+fileFormatVersion: 2
+guid: f042e33e73286734d9f20de15bd24e04
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Undead Hulk 0
+    21300002: Undead Hulk 1
+    21300004: Undead Hulk 2
+    21300006: Undead Hulk 3
+    21300008: Undead Hulk 4
+    21300010: Undead Hulk 5
+    21300012: Undead Hulk 6
+    21300014: Undead Hulk 7
+    21300016: Undead Hulk 8
+    21300018: Undead Hulk 9
+    21300020: Undead Hulk 10
+    21300022: Undead Hulk 11
+    21300024: Undead Hulk 12
+    21300026: Undead Hulk 13
+    21300028: Undead Hulk 14
+    21300030: Undead Hulk 15
+    21300032: Undead Hulk 16
+    21300034: Undead Hulk 17
+    21300036: Undead Hulk 18
+    21300038: Undead Hulk 19
+    21300040: Undead Hulk 20
+    21300042: Undead Hulk 21
+    21300044: Undead Hulk 22
+    21300046: Undead Hulk 23
+    21300048: Undead Hulk 24
+    21300050: Undead Hulk 25
+    21300052: Undead Hulk 26
+    21300054: Undead Hulk 27
+    21300056: Undead Hulk 28
+    21300058: Undead Hulk 29
+    21300060: Undead Hulk 30
+    21300062: Undead Hulk 31
+    21300064: Undead Hulk 32
+    21300066: Undead Hulk 33
+    21300068: Undead Hulk 34
+    21300070: Undead Hulk 35
+    21300072: Undead Hulk 36
+    21300074: Undead Hulk 37
+    21300076: Undead Hulk 38
+    21300078: Undead Hulk 39
+    21300080: Undead Hulk 40
+    21300082: Undead Hulk 41
+    21300084: Undead Hulk 42
+    21300086: Undead Hulk 43
+    21300088: Undead Hulk 44
+    21300090: Undead Hulk 45
+    21300092: Undead Hulk 46
+    21300094: Undead Hulk 47
+    21300096: Undead Hulk 48
+    21300098: Undead Hulk 49
+    21300100: Undead Hulk 50
+    21300102: Undead Hulk 51
+    21300104: Undead Hulk 52
+    21300106: Undead Hulk 53
+    21300108: Undead Hulk 54
+    21300110: Undead Hulk 55
+    21300112: Undead Hulk 56
+    21300114: Undead Hulk 57
+    21300116: Undead Hulk 58
+    21300118: Undead Hulk 59
+    21300120: Undead Hulk 60
+    21300122: Undead Hulk 61
+    21300124: Undead Hulk 62
+    21300126: Undead Hulk 63
+    21300128: Undead Hulk 64
+    21300130: Undead Hulk 65
+    21300132: Undead Hulk 66
+    21300134: Undead Hulk 67
+    21300136: Undead Hulk 68
+    21300138: Undead Hulk 69
+    21300140: Undead Hulk 70
+    21300142: Undead Hulk 71
+    21300144: Undead Hulk 72
+    21300146: Undead Hulk 73
+    21300148: Undead Hulk 74
+    21300150: Undead Hulk 75
+    21300152: Undead Hulk 76
+    21300154: Undead Hulk 77
+    21300156: Undead Hulk 78
+    21300158: Undead Hulk 79
+    21300160: Undead Hulk 80
+    21300162: Undead Hulk 81
+    21300164: Undead Hulk 82
+    21300166: Undead Hulk 83
+    21300168: Undead Hulk 84
+    21300170: Undead Hulk 85
+    21300172: Undead Hulk 86
+    21300174: Undead Hulk 87
+    21300176: Undead Hulk 88
+    21300178: Undead Hulk 89
+    21300180: Undead Hulk 90
+    21300182: Undead Hulk 91
+    21300184: Undead Hulk 92
+    21300186: Undead Hulk 93
+    21300188: Undead Hulk 94
+    21300190: Undead Hulk 95
+    21300192: Undead Hulk 96
+    21300194: Undead Hulk 97
+    21300196: Undead Hulk 98
+    21300198: Undead Hulk 99
+    21300200: Undead Hulk 100
+    21300202: Undead Hulk 101
+    21300204: Undead Hulk 102
+    21300206: Undead Hulk 103
+    21300208: Undead Hulk 104
+    21300210: Undead Hulk 105
+    21300212: Undead Hulk 106
+    21300214: Undead Hulk 107
+    21300216: Undead Hulk 108
+    21300218: Undead Hulk 109
+    21300220: Undead Hulk 110
+    21300222: Undead Hulk 111
+    21300224: Undead Hulk 112
+    21300226: Undead Hulk 113
+    21300228: Undead Hulk 114
+    21300230: Undead Hulk 115
+    21300232: Undead Hulk 116
+    21300234: Undead Hulk 117
+    21300236: Undead Hulk 118
+    21300238: Undead Hulk 119
+    21300240: Undead Hulk 120
+    21300242: Undead Hulk 121
+    21300244: Undead Hulk 122
+    21300246: Undead Hulk 123
+    21300248: Undead Hulk 124
+    21300250: Undead Hulk 125
+    21300252: Undead Hulk 126
+    21300254: Undead Hulk 127
+    21300256: Undead Hulk 128
+    21300258: Undead Hulk 129
+    21300260: Undead Hulk 130
+    21300262: Undead Hulk 131
+    21300264: Undead Hulk 132
+    21300266: Undead Hulk 133
+    21300268: Undead Hulk 134
+    21300270: Undead Hulk 135
+    21300272: Undead Hulk 136
+    21300274: Undead Hulk 137
+    21300276: Undead Hulk 138
+    21300278: Undead Hulk 139
+    21300280: Undead Hulk 140
+    21300282: Undead Hulk 141
+    21300284: Undead Hulk 142
+    21300286: Undead Hulk 143
+    21300288: Undead Hulk 144
+    21300290: Undead Hulk 145
+    21300292: Undead Hulk 146
+    21300294: Undead Hulk 147
+    21300296: Undead Hulk 148
+    21300298: Undead Hulk 149
+    21300300: Undead Hulk 150
+    21300302: Undead Hulk 151
+    21300304: Undead Hulk 152
+    21300306: Undead Hulk 153
+    21300308: Undead Hulk 154
+    21300310: Undead Hulk 155
+    21300312: Undead Hulk 156
+    21300314: Undead Hulk 157
+    21300316: Undead Hulk 158
+    21300318: Undead Hulk 159
+    21300320: Undead Hulk 160
+    21300322: Undead Hulk 161
+    21300324: Undead Hulk 162
+    21300326: Undead Hulk 163
+    21300328: Undead Hulk 164
+    21300330: Undead Hulk 165
+    21300332: Undead Hulk 166
+    21300334: Undead Hulk 167
+    21300336: Undead Hulk 168
+    21300338: Undead Hulk 169
+    21300340: Undead Hulk 170
+    21300342: Undead Hulk 171
+    21300344: Undead Hulk 172
+    21300346: Undead Hulk 173
+    21300348: Undead Hulk 174
+    21300350: Undead Hulk 175
+    21300352: Undead Hulk 176
+    21300354: Undead Hulk 177
+    21300356: Undead Hulk 178
+    21300358: Undead Hulk 179
+    21300360: Undead Hulk 180
+    21300362: Undead Hulk 181
+    21300364: Undead Hulk 182
+    21300366: Undead Hulk 183
+    21300368: Undead Hulk 184
+    21300370: Undead Hulk 185
+    21300372: Undead Hulk 186
+    21300374: Undead Hulk 187
+    21300376: Undead Hulk 188
+    21300378: Undead Hulk 189
+    21300380: Undead Hulk 190
+    21300382: Undead Hulk 191
+    21300384: Undead Hulk 192
+    21300386: Undead Hulk 193
+    21300388: Undead Hulk 194
+    21300390: Undead Hulk 195
+    21300392: Undead Hulk 196
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Undead Hulk 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3a1b43b74b5314eb38598b5b3924e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e8383590766984ab1846d02b944413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe44b44d906a544887dafa29aa829f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87465e841ef1a83478d482437331a75c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8ddecd804e8f24b9dbcf1dc1aa1c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e67c86387eafd4469353fedfd28ea37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e2d0ead3a1ade4695e6599efa21d7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 7
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25da5addb5a36f4cbae7704efb37786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 8
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd28d7117ad137e41aef6360ee5c105c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 9
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d747cb1d5b87fcd42a63e6981f9154eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 10
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d929c5158b2e9d4f848aad8d7bde040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 11
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249fe4ff90a0aaf44b3b16316cb71163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 12
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23742f5675bbf85408b5db3a8e30f750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 13
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dd353cf80ccbd4d968f69580f73666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 14
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1973c6ea862c6c9478c27320f495430a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 15
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5342f428d268394eba12c03255f2846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 16
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684e6dcc0de5e564c9ab4bff3d511cc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 17
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888faabb9071d854d9c68efad6075afb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c743ebc202bd5f840a644893d9274dfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6a69637049ec94eb1256c74ad3b8d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24861b24034fc6941800e2f302b87948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f1734a32fcede47b56fbaae2dfeb1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2180a9e693d3b14a92a5a6b7632a48c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 23
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cb1e1877874d04baec1fe11758baa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 24
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f64d563faaa6b34cb5ccf0270ffffbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 25
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f6dd486fd9ac943849ae3a01a04a36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 26
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71942a8c481bf2e4c84651763c984817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 27
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9770aecf542d3d14db6bc563a1951919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 28
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c5980a302afa6468f10f197f11df7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 29
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e3d1d929b717344969b4f45ede7e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 30
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0b06c14f7b6de47acd615fbaba7083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 31
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ab2b1d9b2d055498a4104099c69fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 32
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ec1b21be5d8234a88cf2f5816db36f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 33
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da51cc0044d5ab746a8946f3113a1123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 34
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2100ef9b567d16b48a3d2c48c7fdf550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 35
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6fea0fa77aac345a458de43615c355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb1cf11428e81a4db95606d3122fbb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8704a2c47b6394e8b8f597203039e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae74a5d4b83cd5147a6571604666740d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 39
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bea5809c0bc96448a051c182d4e30ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 40
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c11fd7105783e4d9dc7daa666d92f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 41
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb38ad2badcf8924b8002d5a90ebc72e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 42
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b23971a51763f4fb32184979ffd20f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 43
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2117e8440659f44bb98ff6891c30bea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 44
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446246d3d73c77e4986cb554f3f6128a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 45
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ef1fd28729d4e48b93354e9b48b3af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 46
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddef66b2d1929a64b8c0cef00cf9c1ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 47
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da9728ba68c14843add0a04dd74205b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 48
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097d63d7cfd43ca4b87050d71bb2d9f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 49
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a41931e2f19b448aa70f63e4913e9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 50
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae2e99ea8f9538498e376d5d2b61179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 51
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c934732923cb42badb961d5c6c693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 52
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a56cd277cae30e4f81613e61dfb6f0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 53
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1664
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea4743e56040374f85cdf9a817b52d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db86f8a98dd1c34bb1d492545dca680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e092ea5596bd94089fb0c438b2ccee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a9b7a24be7c2c43a7a16cc53216436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 57
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aea31de85232e4fa10c2f72545b6f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 58
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789a48e9e8c237043832fdac6c1da345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 59
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267648ad44c6a804197da8dc506f3f86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 60
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17706c74943db44db002d030e13fad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 61
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40c140fd3090ac4eb879d436a815bd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975a90888f122864baaf7dded9e4ffc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 63
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f62231a55684af48a04d63e3cc73999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 64
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1ff88bd496722409c9bad1dc2d0b34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 65
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98b2d9703b213443b6fd3caac7f1ddb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 66
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89de5ee65ad42b246a31cb74df1a1656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 67
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c089d22b6a7d33b47949ed27fe39b94b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 68
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553f062b7e0306e4384bd9d5f1e53b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 69
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c803c035ecb90f4a8ddb3cbf0a2e84b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 70
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c026ec73aaf8fe04991e609490e4fc89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 71
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1536
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e874d337afd78448c6074ecb0a03f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f3cfb0219f5e44694267093831b662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265f781f0629ffd43ab1733bd254cdd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c59b4598598bc4896ffb74f0ad6f5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 75
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b92d654eb50b0740b20e71a7c61ee46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 76
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9474d039b3beb34e881f4f07f8a4cc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 77
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc2773bd526f624cbae7c9c985c2a9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 78
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88814213dc8f4dd4384e5aa76d63eb4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 79
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfca5033d333f449a29c1b7d2ce3627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 80
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb8f24105ebaf54b9a30cc4b44fd0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 81
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f54d6e18db124429a0f08c0514a0a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 82
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccd512882dea1f46b5e1e079b20301c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 83
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64718e4d0543a2d4eb21ec8ea66c7bbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 84
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0862283b3ffffbd4e94ddaf8d8fb19d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 85
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2defa7a5f18d52d4dbce469fe01a1359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 86
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695fd77fab3c83b4e8a45f6f92d7bb95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 87
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e326b8cf81b6b4480f31edf0fc1c35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 88
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70904e410e3f2e04791b7b649501ba2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 89
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1408
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee8a4b5163973849836baafe3fc5a8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ed7da0cdcf3014686e07ffa4065669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cf14ee6ed384d4f8edd6d8481cdca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f032d2ee80ddb10489c9974426fa2d59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbb099a321107c4daea1276fdea7e8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6896ba099b964e14394f206c9004c866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 95
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16b318a8e3d50846ae383146965e98e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 96
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d366277374d31e46b05774dd2c8e7f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 97
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8057603245d1a4f80e4196d4587108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 98
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179d2382fb6dd3e4f960de55f2d8895c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 99
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beadf8ed3f75f341858077d8e34fc55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 100
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace7845e13bd9734495a2b0d1819e789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 101
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c7fe2e85cc01942b6d648ce88d3a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 102
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee02bc429f80de4294a5bce8587868f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 103
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d468b21ac978a41a511d86cccd841e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 104
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab94086b74b69a459bb2671126ddf84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 105
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc610ea06cea38c4a8e7f43d755ea411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 106
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a517e94acf812b48a4425dcdf6da28d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 107
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1280
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d85de30b577ce4fb058782762401b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b3d2e2a3e44814191898f60adb321c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f8df437ca783942b24df4b3f137a42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd612ef3afbb7543aeedd13866850ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 111
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6141265ba7e0ce40a9e80f9a2b71673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 112
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351d5929aa139245b92f585ef396506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 113
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42328e1b7ed558a4d9b853222ed2bd29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 114
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf41569b923e384b9f87bacdf40eeee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 115
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0e36a86019e464b82244d8792f396d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 116
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba2fcf6a0bc42c49833ccafca62c462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 117
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937e813379bcebd438d820ce9bbc8ee4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 118
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d80b6c6c0e5364b8c1b74bc426bab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 119
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a05c40c8f7da104a94b8f766f06a279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 120
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470dd645e2442774aa16e864566cee32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 121
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41abcc5c1c975174e8f58b768451b1dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 122
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78028fc8af2a91349b33064b0e5d86b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 123
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac6d47a9580f3043a99eb825d6206cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 124
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83f883415d4758439d5ceaf359a41fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 125
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1152
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de1dfe11de630443a40f31560d001ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1969d82c2319793428e2e8f739e3ee23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc718ce4021575e4d889290bef148daa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 128
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d0504a4d19a2e40b71f3c6aa2fd719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 129
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d7b722106c5d846acc3e14da7d2d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 130
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468b474e04fada648aae2460b84fe4a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 131
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20f48dedc3bcd54fbac56b591c45e83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 132
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79aa95e678049f34fb0346f99ee652cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 133
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5744a21b4b32845b6954c756b78c2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 134
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947236a52a733a841a4f045c881ac90b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 135
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273b122abca0a07479eb2a9877624d19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 136
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466a947928fced54096b9ef84b626450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 137
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4223e2284d04a7a44be4cf3551403f5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 138
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf62447f03b68e4fa5ac736aa15bba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 139
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d9e460429fec849b21967a5c72b7ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 140
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f1feb53b03f4846845a08b6eb1a5c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 141
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907439c989997524088260f7edcfe529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 142
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3abfc1fc1e339049ab3e049efbb2602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 143
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1024
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7b060675173224d89e7414f2147163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fba72d5722bbbc43b78745ac9114b39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bd3521f6215a140a273fa87ec00719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 146
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693e5d7c754c31c4aa01a5d823751916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 147
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401408d1eb6f4f642a6c8b377ea527a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 148
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995648fd197b22944bb8cca51bd274e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 149
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482766e7a9bcbe04590b5e33af3ac1a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 150
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bc58612c117434990bb12e89aeb06f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 151
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd934038ae803ae4b95bcd8c8779d970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 152
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6157054927235294aab8ab64b8ddfbb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 153
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72811940e7547a74586acfcb4594c12f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 154
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50249d51144f0a40b7d7a720b58f43c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 155
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37af69635f9b2394b8a87d3a2ea173a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 156
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7b6d4774247244d89fcf6d985d5fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 157
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7d8dd98aab9544291750f828b3ebe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 158
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92307e7d0584dcc47abbe67269e89b44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 159
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1ee411cb46d05419952922eb9c76b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 160
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e445b853ac6b88c4095308fdbede37c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 161
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 896
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e48f2746949f24d817d538c4d79802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919532d4779d4604c875e935892657e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 163
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb62156efa1e72478fac30a74f2e870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 164
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a141abf9942cfce4f967304666fa859c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 165
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c38dc1fd150fe0438d477d6e1f78d31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 166
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7163386db5bb040945c40497073c69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 167
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58be1c7e1a401648a7bcf708366454a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 168
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3bc20173f03484a9a2fb9c8e2e08dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 169
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab19e00be3887741aa7e00f7de0cfcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 170
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10554d1579236c74db9e54f08f266540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 171
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c2d4727014b0348b36f84e7ee24908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 172
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc77144606a09b4088ef0db78822a61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 173
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dc6f92eff9d744c9f6b1b99f43a45b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 174
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7cec937e719d54cbd083a17996a9af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 175
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff1de1925e760e4f81443726c7435c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 176
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e76b3429ccdc54a87475274ba99f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 177
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d7af1598a55ff4fa9672a67ff76f5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 178
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a8d80f36eb774cab4fe2dcd93c406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 179
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 768
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe36c689b06e848a45d8aea066f405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa05195903628eb498ceab622afb237f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6256486cbbff944fa7ecf96276b9ed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 182
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ebe059ab02a7a4b891e0ca8815afea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 183
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3c66bb51588aa41a32a4aaab250b56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 184
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381e6b047459a4d45995a9397ba04d7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 185
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3045c7f2a86a943ba95d47f420ee0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 186
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0d6013639e0a745bc224229e87b2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 187
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7ed9a8df300af4d84d21a0c1c35874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 188
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ba1f5bee8816c4f8b1f0e1e07aafd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 189
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22dd41adba702d438c8bf22bade47b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 190
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1446c30495dd6374084e732be4cc5ce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 191
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033242016c5c393479c97f69837ed848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 192
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae59d0562b90eb3439ab52adb21e3515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 193
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7c234dfcf11a74f92e662b7036a10a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 194
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee71bd5e866234595a225654e9a4b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 195
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3188164c64f3fa47a781b719727f394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undead Hulk 196
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 640
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee49ef43f1144fc42a539b3366ea4ed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1e0f88cf4c7e63d418b5c707defc0057
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
