@@ -204,6 +204,7 @@ public class PlayerPhysics : MonoBehaviour
             else
             {
                 p.jumping = false;
+                if (!p.falling) p.anim.StartFalling();
                 p.falling = true;
             }
         }
@@ -215,6 +216,7 @@ public class PlayerPhysics : MonoBehaviour
                 p.wallGrabLeft = false;
                 wallLeaveTime = Time.time;
                 rb.gravityScale = normalGravity;
+                p.anim.StartFalling();
             }
             else if(p.wallGrabRight && !touchingRight)
             {
@@ -222,6 +224,7 @@ public class PlayerPhysics : MonoBehaviour
                 p.wallGrabRight = false;
                 wallLeaveTime = Time.time;
                 rb.gravityScale = normalGravity;
+                p.anim.StartFalling();
             }
             else if (p.controls.Intents.Contains(PlayerControls.IntentType.JUMP) &&
                 !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.JUMP))
@@ -235,6 +238,7 @@ public class PlayerPhysics : MonoBehaviour
                 rb.gravityScale = normalGravity;
                 p.jumping = true;
                 dy = jumpMaxSpeed;
+                p.anim.StartJump();
             }
             else if (p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH) &&
                 !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.CROUCH))
@@ -247,6 +251,7 @@ public class PlayerPhysics : MonoBehaviour
                 wallLeaveTime = Time.time;
                 p.falling = true;
                 rb.gravityScale = normalGravity;
+                p.anim.StartFalling();
             }
             else
             {
@@ -262,6 +267,7 @@ public class PlayerPhysics : MonoBehaviour
                 p.jumping = true;
                 jumpStartTime = Time.time;
                 dy = jumpMaxSpeed;
+                p.anim.StartJump();
             }
         }
         else
@@ -272,14 +278,17 @@ public class PlayerPhysics : MonoBehaviour
                 p.jumping = true;
                 jumpStartTime = Time.time;
                 dy = jumpMaxSpeed;
+                p.anim.StartJump();
             }
             if (touchingBottom && p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH) &&
                 !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.CROUCH))
             {
                 p.crouching = true;
+                p.anim.StartCrouch();
             }
             if(!touchingBottom && !touchingTop && !touchingLeft && !touchingRight)
             {
+                if (!p.falling) p.anim.StartFalling();
                 p.falling = true;
             }
         }
