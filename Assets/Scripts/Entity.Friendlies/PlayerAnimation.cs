@@ -47,6 +47,10 @@ public class PlayerAnimation : MonoBehaviour
     {
         anim.SetTrigger("startFalling");
     }
+    public void StartWallGrab()
+    {
+        anim.SetTrigger("startWallGrab");
+    }
     public void FaceLeft()
     {
         transform.localScale = new Vector3(transform.localScale.x < 0 ? transform.localScale.x : -1 * transform.localScale.x, 

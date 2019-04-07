@@ -393,7 +393,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Player4_0
+      name: Player4 0
       rect:
         serializedVersion: 2
         x: 0
@@ -405,15 +405,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6e664654853a79142bbdd00e3e67a949
+      spriteID: e7d390fc89682044c9fa3f62d865a361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_1
+      name: Player4 1
       rect:
         serializedVersion: 2
         x: 64
@@ -425,15 +425,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5d6847086e053df4082dd884293464be
+      spriteID: dc569b4ffd8743447900c37fdb8da869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_2
+      name: Player4 2
       rect:
         serializedVersion: 2
         x: 128
@@ -445,15 +445,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bf7dc34394aacc347aa14233cd94eee3
+      spriteID: a2cf07e38a3fb764682cf6c0169f7c8f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_3
+      name: Player4 3
       rect:
         serializedVersion: 2
         x: 192
@@ -465,15 +465,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f7bfef35e772e2a479f71156a1df4cd6
+      spriteID: 25d5ffc5e8f9e6d4d9feb3dde2340666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_4
+      name: Player4 4
       rect:
         serializedVersion: 2
         x: 256
@@ -485,15 +485,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8825565aa85439b418b98411fa6c7987
+      spriteID: 3477fee5d33ab524a855a02189fd3368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_5
+      name: Player4 5
       rect:
         serializedVersion: 2
         x: 320
@@ -505,15 +505,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 44bd50801c95e9b44b6cb234b4123748
+      spriteID: 758b164fca8fc4a4197977a21820b082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_6
+      name: Player4 6
       rect:
         serializedVersion: 2
         x: 384
@@ -525,15 +525,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8d1ea924005a1ef4688211662e4057fe
+      spriteID: 2c7002f5dc6e3b54796231e7b24a66a4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_7
+      name: Player4 7
       rect:
         serializedVersion: 2
         x: 448
@@ -545,15 +545,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8095aafda3fca5048950b1c91f376f42
+      spriteID: 050f677ad38eac747818f3266410ad83
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_8
+      name: Player4 8
       rect:
         serializedVersion: 2
         x: 512
@@ -565,15 +565,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: be7028eb311e09f469441a5d0ae2e340
+      spriteID: 80de4134977f1fb47b749eb70b856d5b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_9
+      name: Player4 9
       rect:
         serializedVersion: 2
         x: 576
@@ -585,15 +585,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 52138219d6605d04696cef50e46ce1d8
+      spriteID: a92bc8cba3984514c90fbabc4e4725c0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_10
+      name: Player4 10
       rect:
         serializedVersion: 2
         x: 640
@@ -605,15 +605,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 662c43842218acf4793080c3b3b48194
+      spriteID: a5e6bb4b9e4ee0f41b447719a33c4e14
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_11
+      name: Player4 11
       rect:
         serializedVersion: 2
         x: 704
@@ -625,15 +625,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 46d742534b05d5945b4b40aa064ebcc2
+      spriteID: 71fdc430a7ebda646b2de368047bb6f8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_12
+      name: Player4 12
       rect:
         serializedVersion: 2
         x: 768
@@ -645,15 +645,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5af3f027c1fa1b140b4a5f4caeaa449d
+      spriteID: d2f58449bc4b8254293e08a61f34e404
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_13
+      name: Player4 13
       rect:
         serializedVersion: 2
         x: 832
@@ -665,15 +665,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 56dd8613bea1ee741abbc00b7bd91599
+      spriteID: a594fc86f806ef549bc2e195a192d1e2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_14
+      name: Player4 14
       rect:
         serializedVersion: 2
         x: 896
@@ -685,15 +685,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0a813408fc25f1e41bdde17eaeca8465
+      spriteID: 88e69d2cf2713f149b2f625ad2acf565
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_15
+      name: Player4 15
       rect:
         serializedVersion: 2
         x: 960
@@ -705,15 +705,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3a10831f571ee9042ad118e78df7fc23
+      spriteID: 8c34c7eca2bf330499b7193a0106eb4b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_16
+      name: Player4 16
       rect:
         serializedVersion: 2
         x: 0
@@ -725,15 +725,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d012c86a77ecfb248bc83600bf8ae7c6
+      spriteID: b54a950c6dc0b124fa61bd5dbb36a909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_17
+      name: Player4 17
       rect:
         serializedVersion: 2
         x: 64
@@ -745,15 +745,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 583f350eabd23d348ab72812e4e92527
+      spriteID: ca7a851929976e14fbf8f2cf02cc2798
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_18
+      name: Player4 18
       rect:
         serializedVersion: 2
         x: 128
@@ -765,15 +765,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ec824679eea8d0f4199447f2f5091ec1
+      spriteID: edfea32d6ba44f9468a0be3bc852a122
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_19
+      name: Player4 19
       rect:
         serializedVersion: 2
         x: 192
@@ -785,15 +785,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9ec2f24ca3e19cf4d8d75945069b0c65
+      spriteID: 01b124c026d24f14e8322f890dbc4089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_20
+      name: Player4 20
       rect:
         serializedVersion: 2
         x: 256
@@ -805,15 +805,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: df6aca560b7efde41bd02e50ac9ed684
+      spriteID: c9e2b9dadd5d8b54d808fe80bb0d48d4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_21
+      name: Player4 21
       rect:
         serializedVersion: 2
         x: 320
@@ -825,15 +825,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: dad0506a1bdec2341ad8e52f13e82591
+      spriteID: 84d80b7d300415b43a315534103b22ad
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_22
+      name: Player4 22
       rect:
         serializedVersion: 2
         x: 384
@@ -845,15 +845,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d6982ede719a98d4b96ab621a39533c3
+      spriteID: b446ea0d5a66e85498ca5305a821501a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_23
+      name: Player4 23
       rect:
         serializedVersion: 2
         x: 448
@@ -865,15 +865,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 30452737f32b0b84cb9ab4520871f077
+      spriteID: 68109a69cff076648a303627dc7aa46c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_24
+      name: Player4 24
       rect:
         serializedVersion: 2
         x: 512
@@ -885,15 +885,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5d43a28b3c99df440ae2f88915ebbeaa
+      spriteID: 73db43244a0642140865277be7bc2c45
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_25
+      name: Player4 25
       rect:
         serializedVersion: 2
         x: 576
@@ -905,15 +905,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8e60c97fce9131c429a8136676535fc0
+      spriteID: 1a7437f1ecae81e40b170d4f53f94382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_26
+      name: Player4 26
       rect:
         serializedVersion: 2
         x: 640
@@ -925,15 +925,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9912f4764f295fb4badf06586fefa182
+      spriteID: d846b1334f2e5d8478d450084dda42da
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_27
+      name: Player4 27
       rect:
         serializedVersion: 2
         x: 704
@@ -945,15 +945,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 40118a8509f2b47498bfb0539549a9d5
+      spriteID: 1b8942f2e1102854aa9885097a5471f1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_28
+      name: Player4 28
       rect:
         serializedVersion: 2
         x: 768
@@ -965,15 +965,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: dd3c5ab469d3d2b4aae3e99ac325b8d3
+      spriteID: 3ad668c1da78c2b4f89539a95d8118c3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_29
+      name: Player4 29
       rect:
         serializedVersion: 2
         x: 832
@@ -985,15 +985,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 1ac2ac28cf868e844a3aa6806e135239
+      spriteID: b8a89acfb28e2874c939191be8d4e34a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_30
+      name: Player4 30
       rect:
         serializedVersion: 2
         x: 896
@@ -1005,15 +1005,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 41119c339096fde4b907e0b02e98671d
+      spriteID: db7675c629e9a124e8e3aafbb946ee9e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_31
+      name: Player4 31
       rect:
         serializedVersion: 2
         x: 960
@@ -1025,15 +1025,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 1a53a6f3a69796e438013bcc3b544e69
+      spriteID: fc0af59b2ba7f1848baba4006f8b8c6c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_32
+      name: Player4 32
       rect:
         serializedVersion: 2
         x: 0
@@ -1045,15 +1045,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6f95c9eccda3eb9468328447742ab192
+      spriteID: bc4bf4e1988929f419646c802bec8782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_33
+      name: Player4 33
       rect:
         serializedVersion: 2
         x: 64
@@ -1065,15 +1065,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 59503ee3a3331ba45969b52b1e0e3a6e
+      spriteID: ef2c6a2f7c70f1e48b6e6d10f00dc064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_34
+      name: Player4 34
       rect:
         serializedVersion: 2
         x: 128
@@ -1085,15 +1085,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d83a01c067cf6e2438e509bbc6bf66cc
+      spriteID: c336d9d1ba484734c9b53c0b6bad401c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_35
+      name: Player4 35
       rect:
         serializedVersion: 2
         x: 192
@@ -1105,15 +1105,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: be4d43ad6a7d32b4f81365b507f54998
+      spriteID: 085e54149217cbd459586d2ecc6956f6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_36
+      name: Player4 36
       rect:
         serializedVersion: 2
         x: 256
@@ -1125,15 +1125,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8da3cc9150aa7b44e9b4368d42101734
+      spriteID: 698008eb45cf2384ab5c6f57f80f75e5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_37
+      name: Player4 37
       rect:
         serializedVersion: 2
         x: 320
@@ -1145,15 +1145,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3be34c06c2bb40140a2890116fa0acbb
+      spriteID: 31adff689175d644d9dba27825b22e11
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_38
+      name: Player4 38
       rect:
         serializedVersion: 2
         x: 384
@@ -1165,15 +1165,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4a16af6703f2eee47a8c9e370cecd9c9
+      spriteID: 72b1546d675c9b243b7995849d4b42c7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_39
+      name: Player4 39
       rect:
         serializedVersion: 2
         x: 448
@@ -1185,15 +1185,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ed4aa2522b54e784f86a590d3e7f1bbb
+      spriteID: 1ed00570561c25445982239284ddb340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_40
+      name: Player4 40
       rect:
         serializedVersion: 2
         x: 512
@@ -1205,15 +1205,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6be7d01639604ac438087fcab40a140e
+      spriteID: 4eacf2bdc7d7843469147561b8c8ef46
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_41
+      name: Player4 41
       rect:
         serializedVersion: 2
         x: 576
@@ -1225,15 +1225,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 327b45e02b1c70f498aeefc55b7750af
+      spriteID: ec3f488990400df429924419e789427b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_42
+      name: Player4 42
       rect:
         serializedVersion: 2
         x: 640
@@ -1245,15 +1245,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3d84ab57bb82972409d736d4a2d17f51
+      spriteID: a027c4328fb117e46abe1250eace376f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_43
+      name: Player4 43
       rect:
         serializedVersion: 2
         x: 704
@@ -1265,15 +1265,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4af94f66be8715b4f8bfc63fade9a46c
+      spriteID: 4a7a1dd7a904e6843968b0eeb063ac3d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_44
+      name: Player4 44
       rect:
         serializedVersion: 2
         x: 768
@@ -1285,15 +1285,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 21c99ea1a3c40eb44a80fc9fac30a401
+      spriteID: c01e4dae29abe5b4d843e7658c2d66fb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_45
+      name: Player4 45
       rect:
         serializedVersion: 2
         x: 832
@@ -1305,15 +1305,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 96ff8226f8215e44893f0d0e22050737
+      spriteID: 6e3e31437ba58624bb3bc85dc85ad6cf
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_46
+      name: Player4 46
       rect:
         serializedVersion: 2
         x: 896
@@ -1325,15 +1325,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e14d35b06f09e154e96b7b36094f2242
+      spriteID: 2afb9e5c1136d60499e2a07a7ddbc53a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_47
+      name: Player4 47
       rect:
         serializedVersion: 2
         x: 960
@@ -1345,15 +1345,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 1462890d0050fb3409375dff3f4b1793
+      spriteID: e82bca251f4b82845a8ccaf13685fd13
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_48
+      name: Player4 48
       rect:
         serializedVersion: 2
         x: 0
@@ -1365,15 +1365,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 01b3b31f4743e2f478e89fcfbe97dd60
+      spriteID: 4b475a54279ede445ad3dafb840798e6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_49
+      name: Player4 49
       rect:
         serializedVersion: 2
         x: 64
@@ -1385,15 +1385,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: eb084dc0013e1e14fb9c4e18224286e1
+      spriteID: 9981c401fb0990e408302228a88dae0d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_50
+      name: Player4 50
       rect:
         serializedVersion: 2
         x: 128
@@ -1405,15 +1405,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d19560b8ab82a094491e525177bc7e15
+      spriteID: 82c7058fc06516046b8623dbf3a363a7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_51
+      name: Player4 51
       rect:
         serializedVersion: 2
         x: 192
@@ -1425,15 +1425,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a995218d33e4d654f870069ec53c8d63
+      spriteID: 110eb296b8b1c294a9313876bbc275c2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_52
+      name: Player4 52
       rect:
         serializedVersion: 2
         x: 256
@@ -1445,15 +1445,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e6acbf02b3f997240a1f14882d793aca
+      spriteID: 54dc3eb50cb35bf498183b7458561937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_53
+      name: Player4 53
       rect:
         serializedVersion: 2
         x: 320
@@ -1465,15 +1465,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a2ecf3938b749f54dbe2b99c97c63421
+      spriteID: b79821bfe14820c4f8267f2174c0a730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_54
+      name: Player4 54
       rect:
         serializedVersion: 2
         x: 384
@@ -1485,15 +1485,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9b14de317c0d9894b948aa923fbf3647
+      spriteID: 50aab3472da15574c912b517d549b51b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_55
+      name: Player4 55
       rect:
         serializedVersion: 2
         x: 448
@@ -1505,15 +1505,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f217823777af577438c26cb4365636b8
+      spriteID: 4e3dd14315af7a84db84b60be3284c9c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_56
+      name: Player4 56
       rect:
         serializedVersion: 2
         x: 512
@@ -1525,15 +1525,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 18cc34303d327e841aa0f9b87412990a
+      spriteID: 7c7663150f8346542a3efbaa11af953e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_57
+      name: Player4 57
       rect:
         serializedVersion: 2
         x: 576
@@ -1545,15 +1545,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 82196fc7da9749d4996a8349341e6538
+      spriteID: 55f3e076508a7c749961f846605c7594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_58
+      name: Player4 58
       rect:
         serializedVersion: 2
         x: 640
@@ -1565,15 +1565,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6d4e1fd6f36dd6047a57ba850bacae91
+      spriteID: 3a24e74c8c5156b4b8d52dd8a88ef320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_59
+      name: Player4 59
       rect:
         serializedVersion: 2
         x: 704
@@ -1585,15 +1585,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9401accf79372334295bb0cb160d17f5
+      spriteID: 400c2e22af6b3a347b1cdc68b91d07dc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_60
+      name: Player4 60
       rect:
         serializedVersion: 2
         x: 768
@@ -1605,15 +1605,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3f24938df54b00a43823b830592399b6
+      spriteID: c7780962fc2419b499c22cf928c8d6da
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_61
+      name: Player4 61
       rect:
         serializedVersion: 2
         x: 832
@@ -1625,15 +1625,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 860c9c275a23ab94ea21899bd624d323
+      spriteID: 34f11b9b39abb9845942fb2f3acae119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_62
+      name: Player4 62
       rect:
         serializedVersion: 2
         x: 896
@@ -1645,15 +1645,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ef0721fb9e198d7439185176dba4c163
+      spriteID: 075de35095b2f27409c1b1b2de829da0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_63
+      name: Player4 63
       rect:
         serializedVersion: 2
         x: 960
@@ -1665,15 +1665,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7bb163bc5bd12074e9b0cabab9f784a4
+      spriteID: 9d377b6eaf157d74098cfc0f2087f84e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_64
+      name: Player4 64
       rect:
         serializedVersion: 2
         x: 0
@@ -1685,15 +1685,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 57d9e6a21b497234693dabc322a4e80d
+      spriteID: e3539698c43235d4dbec86f3b5e70988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_65
+      name: Player4 65
       rect:
         serializedVersion: 2
         x: 64
@@ -1705,15 +1705,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7ab77b7fe21838343ab8f08537f8aa16
+      spriteID: 965c8cab4e3892148812a5483fbc2488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_66
+      name: Player4 66
       rect:
         serializedVersion: 2
         x: 128
@@ -1725,15 +1725,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c4d9e9712e289084289269adf2c13ee3
+      spriteID: 25eb5ec96760284459f08e0bff4ee308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_67
+      name: Player4 67
       rect:
         serializedVersion: 2
         x: 192
@@ -1745,15 +1745,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 880567db69243e84d8eabb7ca61c124e
+      spriteID: a74b19de4ea15f545a47045b0062a5da
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_68
+      name: Player4 68
       rect:
         serializedVersion: 2
         x: 256
@@ -1765,15 +1765,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a5ac7b62a3904a2409ed3563cc9393e8
+      spriteID: 05d3ce2f53ee6f8409914dca4a068b53
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_69
+      name: Player4 69
       rect:
         serializedVersion: 2
         x: 320
@@ -1785,15 +1785,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8dda9f08f0960b0458934f79a0a7ff61
+      spriteID: 6d709325e624b50489e8cb3e66369886
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_70
+      name: Player4 70
       rect:
         serializedVersion: 2
         x: 384
@@ -1805,15 +1805,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 300c0d940df630f4dad7d9d52f489071
+      spriteID: 453cdd9ce6ed4c6448599a9fd8eb1955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_71
+      name: Player4 71
       rect:
         serializedVersion: 2
         x: 448
@@ -1825,15 +1825,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 81a525081b5c5c14792da9dbc5a9e599
+      spriteID: eb2519bafd808be4d8f33320f31fc259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_72
+      name: Player4 72
       rect:
         serializedVersion: 2
         x: 512
@@ -1845,15 +1845,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bceeaeb20a5dfb6438aadd11bc3d7778
+      spriteID: 70bc13b1ed5382a449ded4fc8befa9ad
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_73
+      name: Player4 73
       rect:
         serializedVersion: 2
         x: 576
@@ -1865,15 +1865,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7bc1161a336da1047a4a65012cb417f4
+      spriteID: 448d6336c415d6544b817d1510e18496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_74
+      name: Player4 74
       rect:
         serializedVersion: 2
         x: 640
@@ -1885,15 +1885,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 490251ca4f488d6468b13f7f2e183110
+      spriteID: 6cd46f7e899faea42b79cde3ff77352f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_75
+      name: Player4 75
       rect:
         serializedVersion: 2
         x: 704
@@ -1905,15 +1905,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: af8d1453e02c6224387fc03617a7a1e2
+      spriteID: c28b7a88e529a874c8b725b5e8bc53db
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_76
+      name: Player4 76
       rect:
         serializedVersion: 2
         x: 768
@@ -1925,15 +1925,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d6255f0ae86f9b742b4a95f8fd6116c3
+      spriteID: 52ec7f69dc86f2c4dbdacfba064aad33
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_77
+      name: Player4 77
       rect:
         serializedVersion: 2
         x: 832
@@ -1945,15 +1945,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 518116e2d489ff142a271e4b502909d8
+      spriteID: 218e4e34523ad054cb153c7823dc8897
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_78
+      name: Player4 78
       rect:
         serializedVersion: 2
         x: 896
@@ -1965,15 +1965,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: db53ecc91ab1d014c9315d56223d44fe
+      spriteID: 4736d968ee38b3845b1a5cff06be32cc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_79
+      name: Player4 79
       rect:
         serializedVersion: 2
         x: 960
@@ -1985,15 +1985,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cc6b4feabe37fb84d918a782aa0d3e6a
+      spriteID: c968183dd15b93a408e703fb5c4fd930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_80
+      name: Player4 80
       rect:
         serializedVersion: 2
         x: 0
@@ -2005,15 +2005,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3531dbaf7c03bf447ad30fc8492a4c6c
+      spriteID: 351095edd59ab994caaf27eb420f9064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_81
+      name: Player4 81
       rect:
         serializedVersion: 2
         x: 64
@@ -2025,15 +2025,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 07f204e9e72f2ab4587f483b873fd248
+      spriteID: 6822db87b8fc2444dacbadf17895708a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_82
+      name: Player4 82
       rect:
         serializedVersion: 2
         x: 128
@@ -2045,15 +2045,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bce66bfb947489a4b96f4bfcb700e18a
+      spriteID: 8c365c1d0080a6a47be4269d12b1c14c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_83
+      name: Player4 83
       rect:
         serializedVersion: 2
         x: 192
@@ -2065,15 +2065,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5699b071a93e5ac4c833de62912ead7c
+      spriteID: 5ce47652b0946194b8bc12fab751c178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_84
+      name: Player4 84
       rect:
         serializedVersion: 2
         x: 256
@@ -2085,15 +2085,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4927a58dc3c8bb3409bfc5a8f6e1f007
+      spriteID: b002cc1ae3e16c94793383d49e85b9fa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_85
+      name: Player4 85
       rect:
         serializedVersion: 2
         x: 320
@@ -2105,15 +2105,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5be58f59f80aca042bd82c3c360220a8
+      spriteID: d30020d79f3cb44409152a7c9ea3a7b7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_86
+      name: Player4 86
       rect:
         serializedVersion: 2
         x: 384
@@ -2125,15 +2125,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 678ed25383af78f48943909585221102
+      spriteID: 3df47b378af1a704fa7c991c74dd1f92
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_87
+      name: Player4 87
       rect:
         serializedVersion: 2
         x: 448
@@ -2145,15 +2145,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9b6ccbac3bf884b4897961999532a8d8
+      spriteID: 1cce35cb03b00cd42a98f3b03fe8cca8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_88
+      name: Player4 88
       rect:
         serializedVersion: 2
         x: 512
@@ -2165,15 +2165,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 32dbc764c2596274e877bfaf4ba59714
+      spriteID: 4e3065c01bd2d6d488d845bcdbe7c7f4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_89
+      name: Player4 89
       rect:
         serializedVersion: 2
         x: 576
@@ -2185,15 +2185,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 81eba6321caf8cf42b566548604bff18
+      spriteID: 58b578d3393aea346ab24abf200a7744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_90
+      name: Player4 90
       rect:
         serializedVersion: 2
         x: 640
@@ -2205,15 +2205,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fd5b5c6d50ae8884cb4d2336156e5e96
+      spriteID: 03462ac99f878ee4fa87f70455324f94
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_91
+      name: Player4 91
       rect:
         serializedVersion: 2
         x: 704
@@ -2225,15 +2225,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 999cbb3190a54d84ea202afbfc247e5e
+      spriteID: c4b9d1e16464b2f478cf998365cfb4c5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_92
+      name: Player4 92
       rect:
         serializedVersion: 2
         x: 768
@@ -2245,15 +2245,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 004a9d0270cf4b541a34715d4d6dc312
+      spriteID: 1c88da6378e31474692c724d9c9307f1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_93
+      name: Player4 93
       rect:
         serializedVersion: 2
         x: 832
@@ -2265,15 +2265,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c127f676aac4df541b17b96aa108ffcb
+      spriteID: 682fe5ffc77d81849ae4676baec75405
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_94
+      name: Player4 94
       rect:
         serializedVersion: 2
         x: 896
@@ -2285,15 +2285,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: adee54bf8e69f3544972f05892ba3028
+      spriteID: acc87bf03a76c6140bf36fe07a129375
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_95
+      name: Player4 95
       rect:
         serializedVersion: 2
         x: 960
@@ -2305,15 +2305,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 83fc4147b775cbe498762f7ed7f00203
+      spriteID: b9be50ccb88a8874eb3cca16031508d0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_96
+      name: Player4 96
       rect:
         serializedVersion: 2
         x: 0
@@ -2325,15 +2325,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 196851648122118408cfe35270ed66a3
+      spriteID: 87c1bc6ede8046c448c128e0bb753a95
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_97
+      name: Player4 97
       rect:
         serializedVersion: 2
         x: 64
@@ -2345,15 +2345,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c4f19b0986624cd4d976b804660d6873
+      spriteID: 94d382a06fa1e9040bc72c3afae252df
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_98
+      name: Player4 98
       rect:
         serializedVersion: 2
         x: 128
@@ -2365,15 +2365,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: eb3b4f217fae3e54bad42319a0bbdeb1
+      spriteID: 2428b1aca2f88f942a104be69137f43c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_99
+      name: Player4 99
       rect:
         serializedVersion: 2
         x: 192
@@ -2385,15 +2385,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7172c8923221f88468a4228d71d59590
+      spriteID: 604683f8bb18628428c43f979ae4da1f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_100
+      name: Player4 100
       rect:
         serializedVersion: 2
         x: 256
@@ -2405,15 +2405,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fc10999360b72fb4bb221a8a5b00fbb3
+      spriteID: bc92e692f412fe248b8eeed600c7892d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_101
+      name: Player4 101
       rect:
         serializedVersion: 2
         x: 320
@@ -2425,15 +2425,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2284a1c0b819f034a88a5e9880000154
+      spriteID: 383b444e685df534bb7e86f5cdc95cd1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_102
+      name: Player4 102
       rect:
         serializedVersion: 2
         x: 384
@@ -2445,15 +2445,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ed69695c73082714b902c6ef2d6f6ddc
+      spriteID: f819b045eea441849bddfb0ef6a19cea
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_103
+      name: Player4 103
       rect:
         serializedVersion: 2
         x: 448
@@ -2465,15 +2465,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8f6d4249f42d34c40bdb81aaea388bf7
+      spriteID: 65bc662b61ca1864cbbe4c8b38c1d576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_104
+      name: Player4 104
       rect:
         serializedVersion: 2
         x: 512
@@ -2485,15 +2485,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c258060b62a2bb64db3a872c4578a43c
+      spriteID: e2076f94ea6f9924296ace5aca9c93ef
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_105
+      name: Player4 105
       rect:
         serializedVersion: 2
         x: 576
@@ -2505,15 +2505,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 37e07eff521e0684682e8ef9abef9dcd
+      spriteID: c13b5902aa9adda4dae742cd0ebcba73
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_106
+      name: Player4 106
       rect:
         serializedVersion: 2
         x: 640
@@ -2525,15 +2525,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 226ef320aebbee647b84fd89612e0212
+      spriteID: bb71a7f18b33f5d4994bbb7e0d86bbbf
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_107
+      name: Player4 107
       rect:
         serializedVersion: 2
         x: 704
@@ -2545,15 +2545,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: ca4711d5d6ac26d4f848cbb9312377fc
+      spriteID: cbc37d7a957d20541a9ead56821938aa
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_108
+      name: Player4 108
       rect:
         serializedVersion: 2
         x: 768
@@ -2565,15 +2565,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 45e52d40ec1ff3f4ca4cd8a0ce6d9d36
+      spriteID: 0595174557cf1df46a1b793ec8036f2f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_109
+      name: Player4 109
       rect:
         serializedVersion: 2
         x: 832
@@ -2585,15 +2585,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4420b2570157a8c4ca9844c4d6431e33
+      spriteID: 73d508cebb8cd194b833e961d0f23e41
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_110
+      name: Player4 110
       rect:
         serializedVersion: 2
         x: 896
@@ -2605,15 +2605,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 20ebd1a6d4d63e34c97281534e2627fd
+      spriteID: f2702d6970c9c044898aba90bb7342f7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_111
+      name: Player4 111
       rect:
         serializedVersion: 2
         x: 960
@@ -2625,15 +2625,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: df0da23da52480c4cb81bc92864c0039
+      spriteID: 7fd1ef6c75b5b434ba32eb9d8981c375
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_112
+      name: Player4 112
       rect:
         serializedVersion: 2
         x: 0
@@ -2645,15 +2645,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 96c014c614afe0c4aa4a1d34a48ec2a7
+      spriteID: 0f8461fffb5e21c419a1a9b59d74a3e0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_113
+      name: Player4 113
       rect:
         serializedVersion: 2
         x: 128
@@ -2665,15 +2665,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 20afeb7f2a7c64f49af22099e4ff8620
+      spriteID: 79773056fa9f9014cbe2a5f88d49894f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_114
+      name: Player4 114
       rect:
         serializedVersion: 2
         x: 192
@@ -2685,15 +2685,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4bc2c8d72cae4a84c9add055868bf792
+      spriteID: bbd22df4885daa84eba701d36900394f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_115
+      name: Player4 115
       rect:
         serializedVersion: 2
         x: 256
@@ -2705,15 +2705,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: eed564eddf2c1bd4db5c7302da1825ad
+      spriteID: 3e5a580309815e842b4bfa104da96dd3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_116
+      name: Player4 116
       rect:
         serializedVersion: 2
         x: 320
@@ -2725,15 +2725,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 47b29641d17113f4cb81be93f5fa20f8
+      spriteID: cbca68a023575844bbbb841681d302db
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_117
+      name: Player4 117
       rect:
         serializedVersion: 2
         x: 384
@@ -2745,15 +2745,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e5e2b53da33ab9244b19b5d228d83392
+      spriteID: ff35f3f0aae401a4399260bd4a9c3518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_118
+      name: Player4 118
       rect:
         serializedVersion: 2
         x: 448
@@ -2765,15 +2765,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 97140480d1f718a4e9b693070e65a214
+      spriteID: 349dd865d0c286b4c9f376600099b0b3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_119
+      name: Player4 119
       rect:
         serializedVersion: 2
         x: 512
@@ -2785,15 +2785,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 923fd10e28f2d4f4e984d11ce45d8df0
+      spriteID: 62eabe54d47f6bc47abb401e886d7b3d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_120
+      name: Player4 120
       rect:
         serializedVersion: 2
         x: 576
@@ -2805,15 +2805,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 394e11fed1cf3e94594c029905e3b0cf
+      spriteID: 3390b92ff296d3449a0e17ba89565b78
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_121
+      name: Player4 121
       rect:
         serializedVersion: 2
         x: 640
@@ -2825,15 +2825,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 97e4b14d642bfa249a999620b2c0717b
+      spriteID: 68b1a60f25eff6b4ea6bbeac8525c1b2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_122
+      name: Player4 122
       rect:
         serializedVersion: 2
         x: 704
@@ -2845,15 +2845,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 507527ed429265948b19c1f1d0224ce5
+      spriteID: 52ae306e69861a4429920f5ba360a3e5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_123
+      name: Player4 123
       rect:
         serializedVersion: 2
         x: 768
@@ -2865,15 +2865,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6df4db8e8773b40409ddcdf84cb62948
+      spriteID: 713a2b4d38ca9f046a8157a78246e8c5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_124
+      name: Player4 124
       rect:
         serializedVersion: 2
         x: 832
@@ -2885,15 +2885,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c8010b1cb4f62eb4a825f1706f9754d7
+      spriteID: e7cc5ebb72ef7024299078b515d85665
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_125
+      name: Player4 125
       rect:
         serializedVersion: 2
         x: 896
@@ -2905,15 +2905,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 271d61c1d7d57724a8c19d9ca778247f
+      spriteID: 843cc546b749b6941a4c482259fde580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_126
+      name: Player4 126
       rect:
         serializedVersion: 2
         x: 960
@@ -2925,15 +2925,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f238f4cac33e3a84989e3017cf7decf9
+      spriteID: bf59c9a36808e5e46a7cfdb4b02d8fd4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_127
+      name: Player4 127
       rect:
         serializedVersion: 2
         x: 0
@@ -2945,15 +2945,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c9f45fd9f296c6446bad391a1b709054
+      spriteID: efaf99320cf5a5a4e8528605e462b808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_128
+      name: Player4 128
       rect:
         serializedVersion: 2
         x: 64
@@ -2965,15 +2965,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 002ccbb324ad74643a5936abf09b17cd
+      spriteID: 40608655ab9497c42b37f8ab6a20959a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_129
+      name: Player4 129
       rect:
         serializedVersion: 2
         x: 128
@@ -2985,15 +2985,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6aac48f686b1078438461aeb102140b9
+      spriteID: a918d09daee07d54fa1a9a5e7f8eceaf
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_130
+      name: Player4 130
       rect:
         serializedVersion: 2
         x: 192
@@ -3005,15 +3005,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8ba04dfeb6dd9d9488227179606cec92
+      spriteID: f6a4f72875a26664e941fceebfd284dc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_131
+      name: Player4 131
       rect:
         serializedVersion: 2
         x: 256
@@ -3025,15 +3025,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 90e5de771ebdd2a41a6c1e4b27331d28
+      spriteID: bea0db43f73cae343ae1dcb50b118b19
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_132
+      name: Player4 132
       rect:
         serializedVersion: 2
         x: 320
@@ -3045,15 +3045,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d6f310058b0b1804b98728da26cacbc2
+      spriteID: ac36bbdacd47bf54b9848240e3e6a346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_133
+      name: Player4 133
       rect:
         serializedVersion: 2
         x: 384
@@ -3065,15 +3065,15 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 89fa21b89cba42e4e8ddedd7c714b9b8
+      spriteID: 879758f6130a3414b92b3dcbd96d8aab
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Player4_134
+      name: Player4 134
       rect:
         serializedVersion: 2
         x: 448
@@ -3085,9 +3085,9 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6b321e57e27ee724b92f92f904360d54
+      spriteID: 8b047d2d99bf7354680787e19b8c40a6
       vertices: []
       indices: 
       edges: []
