@@ -384,7 +384,7 @@ public class PlayerPhysics : MonoBehaviour
         int numBelow = 0;
         for(int i = 0; i < contacts.Length; i++)
         {
-            if(contacts[i].point.y <= transform.position.y - box.offset.y - box.size.y / 2f)
+            if(contacts[i].point.y <= box.bounds.center.y + box.bounds.size.y / 2f)
             {
                 numBelow++;
             }
@@ -396,7 +396,7 @@ public class PlayerPhysics : MonoBehaviour
         int numAbove = 0;
         for (int i = 0; i < contacts.Length; i++)
         {
-            if (contacts[i].point.y >= transform.position.y - box.offset.y + box.size.y / 2f)
+            if (contacts[i].point.y >= box.bounds.center.y - box.bounds.size.y / 2f)
             {
                 numAbove++;
             }
@@ -408,7 +408,7 @@ public class PlayerPhysics : MonoBehaviour
         int numLeft = 0;
         for (int i = 0; i < contacts.Length; i++)
         {
-            if (contacts[i].point.x <= transform.position.x - box.offset.x - box.size.x / 2f)
+            if (contacts[i].point.x <= box.bounds.center.x - box.bounds.size.x / 2f)
             {
                 numLeft++;
             }
@@ -420,7 +420,7 @@ public class PlayerPhysics : MonoBehaviour
         int numRight = 0;
         for (int i = 0; i < contacts.Length; i++)
         {
-            if (contacts[i].point.x >= transform.position.x - box.offset.x + box.size.x / 2f)
+            if (contacts[i].point.x >= box.bounds.center.x + box.bounds.size.x / 2f)
             {
                 numRight++;
             }
