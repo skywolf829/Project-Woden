@@ -4,18 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/WolfgangStudios.unity
-  - enabled: 1
-    path: Assets/MenuScreen.unity
-  - enabled: 1
-    path: Assets/TestLevel.unity
-  - enabled: 1
-    path: Assets/AddEnemyMap.unity
-  - enabled: 1
-    path: Assets/CastleSpookstonLevel.unity
-  - enabled: 1
-    path: Assets/SarrakkenMap.unity
-  - enabled: 1
-    path: Assets/RealTestMap.unity
+  m_Scenes: []
+  m_configObjects: {}

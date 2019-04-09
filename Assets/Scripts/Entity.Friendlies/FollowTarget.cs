@@ -5,7 +5,7 @@ using System.Collections;
 public class FollowTarget : MonoBehaviour
 {
 	//will be the player we follow
-	GameObject target;
+	public GameObject target;
     float sarrakkenFixedx;
     float sarrakkenFixedy;
     
@@ -27,7 +27,6 @@ public class FollowTarget : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        target = GameObject.Find("Player");
         sarrakkenFixedx = 29.73f;
         sarrakkenFixedy = -13.37f;
     }
