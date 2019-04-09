@@ -130,6 +130,7 @@ public class PlayerPhysics : MonoBehaviour
                 dx = 0;
                 rb.velocity = new Vector2(rb.velocity.x, 0);
                 rb.gravityScale = wallGrabGravity;
+                p.anim.StartWallGrab();
             }
             if (touchingRight && xInput > 0 
                 && (!justLeftWallRight || (justLeftWallRight && lastXInput <= 0)))
@@ -142,6 +143,7 @@ public class PlayerPhysics : MonoBehaviour
                 dx = 0;
                 rb.velocity = new Vector2(rb.velocity.x, 0);
                 rb.gravityScale = wallGrabGravity;
+                p.anim.StartWallGrab();
             }
         }
         else if (p.crouching)
@@ -204,6 +206,7 @@ public class PlayerPhysics : MonoBehaviour
             else
             {
                 p.jumping = false;
+                if (!p.falling) p.anim.StartFalling();
                 p.falling = true;
             }
         }
@@ -215,6 +218,7 @@ public class PlayerPhysics : MonoBehaviour
                 p.wallGrabLeft = false;
                 wallLeaveTime = Time.time;
                 rb.gravityScale = normalGravity;
+                p.anim.StartFalling();
             }
             else if(p.wallGrabRight && !touchingRight)
             {
@@ -222,6 +226,7 @@ public class PlayerPhysics : MonoBehaviour
                 p.wallGrabRight = false;
                 wallLeaveTime = Time.time;
                 rb.gravityScale = normalGravity;
+                p.anim.StartFalling();
             }
             else if (p.controls.Intents.Contains(PlayerControls.IntentType.JUMP) &&
                 !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.JUMP))
@@ -235,6 +240,7 @@ public class PlayerPhysics : MonoBehaviour
                 rb.gravityScale = normalGravity;
                 p.jumping = true;
                 dy = jumpMaxSpeed;
+                p.anim.StartJump();
             }
             else if (p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH) &&
                 !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.CROUCH))
@@ -247,6 +253,7 @@ public class PlayerPhysics : MonoBehaviour
                 wallLeaveTime = Time.time;
                 p.falling = true;
                 rb.gravityScale = normalGravity;
+                p.anim.StartFalling();
             }
             else
             {
@@ -262,6 +269,7 @@ public class PlayerPhysics : MonoBehaviour
                 p.jumping = true;
                 jumpStartTime = Time.time;
                 dy = jumpMaxSpeed;
+                p.anim.StartJump();
             }
         }
         else
@@ -272,14 +280,17 @@ public class PlayerPhysics : MonoBehaviour
                 p.jumping = true;
                 jumpStartTime = Time.time;
                 dy = jumpMaxSpeed;
+                p.anim.StartJump();
             }
             if (touchingBottom && p.controls.Intents.Contains(PlayerControls.IntentType.CROUCH) &&
                 !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.CROUCH))
             {
                 p.crouching = true;
+                p.anim.StartCrouch();
             }
             if(!touchingBottom && !touchingTop && !touchingLeft && !touchingRight)
             {
+                if (!p.falling) p.anim.StartFalling();
                 p.falling = true;
             }
         }
@@ -373,7 +384,7 @@ public class PlayerPhysics : MonoBehaviour
         int numBelow = 0;
         for(int i = 0; i < contacts.Length; i++)
         {
-            if(contacts[i].point.y <= transform.position.y - box.size.y / 2f)
+            if(contacts[i].point.y <= box.bounds.center.y + box.bounds.size.y / 2f)
             {
                 numBelow++;
             }
@@ -385,7 +396,7 @@ public class PlayerPhysics : MonoBehaviour
         int numAbove = 0;
         for (int i = 0; i < contacts.Length; i++)
         {
-            if (contacts[i].point.y >= transform.position.y + box.size.y / 2f)
+            if (contacts[i].point.y >= box.bounds.center.y - box.bounds.size.y / 2f)
             {
                 numAbove++;
             }
@@ -397,7 +408,7 @@ public class PlayerPhysics : MonoBehaviour
         int numLeft = 0;
         for (int i = 0; i < contacts.Length; i++)
         {
-            if (contacts[i].point.x <= transform.position.x - box.size.x / 2f)
+            if (contacts[i].point.x <= box.bounds.center.x - box.bounds.size.x / 2f)
             {
                 numLeft++;
             }
@@ -409,7 +420,7 @@ public class PlayerPhysics : MonoBehaviour
         int numRight = 0;
         for (int i = 0; i < contacts.Length; i++)
         {
-            if (contacts[i].point.x >= transform.position.x + box.size.x / 2f)
+            if (contacts[i].point.x >= box.bounds.center.x + box.bounds.size.x / 2f)
             {
                 numRight++;
             }

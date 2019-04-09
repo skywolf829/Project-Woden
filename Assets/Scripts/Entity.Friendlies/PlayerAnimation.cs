@@ -5,28 +5,51 @@ using UnityEngine;
 [RequireComponent(typeof(Animator))]
 [RequireComponent(typeof(PlayerV2))]
 [RequireComponent(typeof(SpriteRenderer))]
+[RequireComponent(typeof(Rigidbody2D))]
 public class PlayerAnimation : MonoBehaviour
 {
     Animator anim;
     PlayerV2 p;
     SpriteRenderer sr;
+    Rigidbody2D rb;
 
     private void Awake()
     {
         anim = GetComponent<Animator>();
         p = GetComponent<PlayerV2>();
         sr = GetComponent<SpriteRenderer>();
+        rb = GetComponent<Rigidbody2D>();
     }
     public IEnumerator UpdateAnimation()
     {
-        anim.SetFloat("speed", Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
-        anim.SetBool("falling", p.falling && GetComponent<Rigidbody2D>().velocity.y < 0);
+        anim.SetFloat("speed", Mathf.Abs(rb.velocity.x));
+        anim.SetBool("falling", p.falling && rb.velocity.y < 0);
         anim.SetBool("crouching", p.crouching);
-        anim.SetBool("jumping", p.jumping || GetComponent<Rigidbody2D>().velocity.y > 0);
+        anim.SetBool("jumping", p.jumping || rb.velocity.y > 0);
         anim.SetBool("wallGrabbing", p.wallGrabbing);
         anim.SetBool("shooting", p.shooting);
         sr.flipX = p.wallGrabbing;
         yield return null;
+    }
+    public void StartJump()
+    {
+        anim.SetTrigger("startJump");
+    }
+    public void StartShooting()
+    {
+        anim.SetTrigger("startShooting");
+    }
+    public void StartCrouch()
+    {
+        anim.SetTrigger("startCrouch");
+    }
+    public void StartFalling()
+    {
+        anim.SetTrigger("startFalling");
+    }
+    public void StartWallGrab()
+    {
+        anim.SetTrigger("startWallGrab");
     }
     public void FaceLeft()
     {
