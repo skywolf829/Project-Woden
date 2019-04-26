@@ -146,8 +146,7 @@ public class PlayerControls : MonoBehaviour
         }
 
         Intents = new List<IntentType>();
-
-
+        
         if ((Input.GetAxisRaw("XboxLeftStickHorizontal") > movementDeadzone || (XboxLeftStickXPositiveKeyboardMapping != KeyCode.None && Input.GetKey(XboxLeftStickXPositiveKeyboardMapping))) && XboxLeftStickXPositive != IntentType.NONE)
             Intents.Add(XboxLeftStickXPositive);
         if ((Input.GetAxisRaw("XboxLeftStickHorizontal") < -movementDeadzone || (XboxLeftStickXNegativeKeyboardMapping != KeyCode.None && Input.GetKey(XboxLeftStickXNegativeKeyboardMapping))) && XboxLeftStickXNegative != IntentType.NONE)
@@ -181,9 +180,9 @@ public class PlayerControls : MonoBehaviour
             Intents.Add(XboxLeftBumper);
         if ((Input.GetButton("XboxRightBumper") || (XboxRightBumperKeyboardMapping != KeyCode.None &&  Input.GetKey(XboxRightBumperKeyboardMapping))) && XboxRightBumper != IntentType.NONE)
             Intents.Add(XboxRightBumper);
-        if ((Input.GetAxisRaw("XboxRightTrigger") > 0.1f|| (XboxRightTriggerKeyboardMapping != KeyCode.None &&  Input.GetKey(XboxRightTriggerKeyboardMapping))) && XboxRightTrigger != IntentType.NONE)
+        if ((Input.GetAxisRaw("XboxRightTrigger") > 0.01f|| (XboxRightTriggerKeyboardMapping != KeyCode.None &&  Input.GetKey(XboxRightTriggerKeyboardMapping))) && XboxRightTrigger != IntentType.NONE)
             Intents.Add(XboxRightTrigger);
-        if ((Input.GetAxisRaw("XboxLeftTrigger") > 0.1f || (XboxLeftTriggerKeyboardMapping != KeyCode.None &&  Input.GetKey(XboxLeftTriggerKeyboardMapping))) && XboxLeftTrigger != IntentType.NONE)
+        if ((Input.GetAxisRaw("XboxLeftTrigger") > 0.01f || (XboxLeftTriggerKeyboardMapping != KeyCode.None &&  Input.GetKey(XboxLeftTriggerKeyboardMapping))) && XboxLeftTrigger != IntentType.NONE)
             Intents.Add(XboxLeftTrigger);
 
         if ((Input.GetButton("XboxA") || (XboxAButtonKeyboardMapping != KeyCode.None && Input.GetKey(XboxAButtonKeyboardMapping))) && XboxAButton != IntentType.NONE)
