@@ -13,6 +13,9 @@ public class PlayerAnimation : MonoBehaviour
     SpriteRenderer sr;
     Rigidbody2D rb;
 
+    public bool inShot2Window = false;
+    public bool inShot3Window = false;
+
     private void Awake()
     {
         anim = GetComponent<Animator>();
@@ -35,9 +38,25 @@ public class PlayerAnimation : MonoBehaviour
     {
         anim.SetTrigger("startJump");
     }
+    public void StartBlink()
+    {
+        anim.SetTrigger("startBlink");
+    }
     public void StartShooting()
     {
         anim.SetTrigger("startShooting");
+    }
+    public void StartShooting2()
+    {
+        anim.SetTrigger("startShooting2");
+    }
+    public void StartShooting3()
+    {
+        anim.SetTrigger("startShooting3");
+    }
+    public void StartChargedAttack()
+    {
+        anim.SetTrigger("startChargedAttack");
     }
     public void StartCrouch()
     {
@@ -60,5 +79,33 @@ public class PlayerAnimation : MonoBehaviour
     {
         transform.localScale = new Vector3(transform.localScale.x > 0 ? transform.localScale.x : -1 * transform.localScale.x,
             transform.localScale.y, transform.localScale.z);
+    }
+    public void ShootingLock()
+    {
+        p.canUseAbility = false;
+    }
+    public void ReleaseShootingLock()
+    {
+        p.canUseAbility = true;
+    }
+    public void StartWindowForShot2()
+    {
+        inShot2Window = true;
+    }
+    public void EndWindowForShot2()
+    {
+        inShot2Window = false;
+    }
+    public void StartWindowForShot3()
+    {
+        inShot3Window = true;
+    }
+    public void EndWindowForShot3()
+    {
+        inShot3Window = false;
+    }
+    public void ResetAnimation()
+    {
+        anim.SetTrigger("Reset");
     }
 }

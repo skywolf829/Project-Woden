@@ -150,6 +150,10 @@ public class PlayerPhysics : MonoBehaviour
         {
             dx = 0;
         }
+        else if (p.shooting)
+        {
+            dx = 0;
+        }
         else
         {
             if (dx != 0 && xInput == 0)
@@ -384,7 +388,7 @@ public class PlayerPhysics : MonoBehaviour
         int numBelow = 0;
         for(int i = 0; i < contacts.Length; i++)
         {
-            if(contacts[i].point.y <= box.bounds.center.y + box.bounds.size.y / 2f)
+            if(contacts[i].point.y <= box.bounds.center.y - box.bounds.size.y / 2f)
             {
                 numBelow++;
             }
@@ -396,7 +400,7 @@ public class PlayerPhysics : MonoBehaviour
         int numAbove = 0;
         for (int i = 0; i < contacts.Length; i++)
         {
-            if (contacts[i].point.y >= box.bounds.center.y - box.bounds.size.y / 2f)
+            if (contacts[i].point.y >= box.bounds.center.y + box.bounds.size.y / 2f)
             {
                 numAbove++;
             }

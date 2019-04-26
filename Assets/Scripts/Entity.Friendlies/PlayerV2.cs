@@ -20,10 +20,12 @@ public class PlayerV2 : MonoBehaviour
     public bool falling;
     public bool jumping;
     public bool shooting;
+    public bool canUseAbility;
     public bool wallShooting;
     public bool wallGrabbing;
     public bool crouching;
     public bool facingRight;
+    public bool blinking;
     #endregion
 
     #region Wall grab variables
