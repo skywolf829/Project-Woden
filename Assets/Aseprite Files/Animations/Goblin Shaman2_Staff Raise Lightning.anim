@@ -168,14 +168,14 @@ AnimationClip:
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 1
+    intParameter: 2
     messageOptions: 0
   - time: 2.1
     functionName: CastLightningBall
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
-    intParameter: 1
+    intParameter: 3
     messageOptions: 0
   - time: 2.9833333
     functionName: EndStaffRaiseLightning

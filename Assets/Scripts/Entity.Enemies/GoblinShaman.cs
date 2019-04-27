@@ -17,6 +17,7 @@ public class GoblinShaman : EnemyV2
 
     string lastAttackType;
 
+    Vector3 savedPlayerPos;
     // Use this for initialization
     protected override void Start()
     {
@@ -236,15 +237,18 @@ public class GoblinShaman : EnemyV2
     public void CastLightningBall(int fromStaff)
     {
         GameObject g = Instantiate(LightningBall);
+        if (fromStaff == 1) savedPlayerPos = player.transform.GetChild(0).position;
+        else if (fromStaff == 0) savedPlayerPos = transform.GetChild(1).position
+                + (transform.localScale.x > 0 ? new Vector3(1, 0) : new Vector3(-1, 0));
         g.transform.position = fromStaff > 0 ?
             transform.GetChild(0).position :
             transform.GetChild(1).position;
-        g.SendMessage("SetTarget", player.transform.position - new Vector3(0, 0.5f, 0));
+        g.SendMessage("SetTarget", savedPlayerPos);
         lastAttackType = "lightning";
     }
     public void CastLightningAttack(int num)
     {
-        GameObject g = Instantiate(LightningAttack);        
+        GameObject g = Instantiate(LightningAttack);     
         g.transform.position = transform.GetChild(2).position + new Vector3(0, 1, 0) 
             + (transform.localScale.x > 0 ? new Vector3(3, 0) : new Vector3(-3, 0));
         g.SendMessage("SetAttack", num);

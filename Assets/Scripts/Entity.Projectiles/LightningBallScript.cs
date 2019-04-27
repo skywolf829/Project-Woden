@@ -30,7 +30,8 @@ public class LightningBallScript : EnemyProjectile
     {
         anim = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
-        if (c.gameObject.tag != "Enemy" && c.gameObject.tag != "Boss" && c.gameObject.tag != "Projectile" && !hit)
+        if (c.gameObject.tag != "Enemy" && c.gameObject.tag != "Boss" && c.gameObject.tag != "Projectile" && 
+            c.gameObject.tag != "EnemyProjectile" && c.gameObject.tag != "PlayerProjectile" && !hit)
         {
             hit = true;
             rb.velocity = new Vector2(0, 0);
