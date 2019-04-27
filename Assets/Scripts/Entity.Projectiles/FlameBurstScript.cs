@@ -10,6 +10,7 @@ public class FlameBurstScript : EnemyProjectile
     void Start()
     {
         damage = 20;
+        type = "fire";
     }
     public void SetAttack(int num)
     {
@@ -26,10 +27,11 @@ public class FlameBurstScript : EnemyProjectile
     }
     protected override void OnTriggerEnter2D(Collider2D c)
     {
-        if (c.gameObject.tag != "Enemy" && c.gameObject.tag != "Boss" && c.gameObject.tag != "Projectile" && !hit)
+        if (c.gameObject.tag != "Enemy" && c.gameObject.tag != "Boss" && c.gameObject.tag != "Projectile" 
+            && c.gameObject.tag != "EnemyProjectile" && c.gameObject.tag != "EnemyProjectile" && !hit)
         {
             hit = true;
-            if (c.gameObject.name == "Player")
+            if (c.gameObject.tag == "Player")
             {
                 c.BroadcastMessage("hitBy", type);
                 c.BroadcastMessage("applyDamage", damage);
