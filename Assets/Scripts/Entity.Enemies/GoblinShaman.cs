@@ -46,6 +46,7 @@ public class GoblinShaman : EnemyV2
     {
         while (true)
         {
+            updateHealthBar();
             if (!inNonIdleState && Time.time > idleUntil)
             {
                 transform.localScale = new Vector3(player.transform.position.x > transform.position.x ? 1: -1, 1, 1);
@@ -287,6 +288,7 @@ public class GoblinShaman : EnemyV2
         else anim.SetTrigger("lightningDeath");
         Destroy(collisionBox);
         Destroy(rb);
+        Destroy(healthBar);
     }
     public void DestroyAfterLightningDeath()
     {
@@ -299,5 +301,17 @@ public class GoblinShaman : EnemyV2
     void endAllCoroutines()
     {
         StopAllCoroutines();
+    }
+    protected override void updateHealthBar()
+    {
+        if (!death && healthBar && maxHealth != 0)
+        {
+            Vector2 healthBarPos = transform.GetChild(3).position;
+            healthBarPos += new Vector2(-(((1 - (float)health / maxHealth)) / 2), 0);
+            Vector3 healthBarScale = new Vector3((float)health / maxHealth, 1f, 1);
+
+            healthBar.transform.position = healthBarPos;
+            healthBar.transform.localScale = healthBarScale;
+        }
     }
 }

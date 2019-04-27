@@ -24,7 +24,7 @@ public class LightningBallScript : EnemyProjectile
     // Update is called once per frame
     protected override void Update()
     {
-        
+           
     }
     protected virtual void OnTriggerEnter2D(Collider2D c)
     {
