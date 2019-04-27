@@ -29,6 +29,8 @@ public class PlayerV2 : MonoBehaviour
     public bool facingRight;
     public bool blinking;
     public bool death;
+    public bool invincible;
+    public bool inHitStun;
     #endregion
 
     #region Wall grab variables
@@ -70,9 +72,9 @@ public class PlayerV2 : MonoBehaviour
                 if (!death)
                 {
                     yield return StartCoroutine(physics.UpdatePhysics());
-                    yield return StartCoroutine(abilities.UpdateAbilities());
-                    yield return StartCoroutine(resources.UpdateResources());
+                    if(!inHitStun) yield return StartCoroutine(abilities.UpdateAbilities());
                 }
+                yield return StartCoroutine(resources.UpdateResources());
                 yield return StartCoroutine(anim.UpdateAnimation());
                 yield return StartCoroutine(controls.UpdateControls());
                 lastUpdateTime = Time.time;

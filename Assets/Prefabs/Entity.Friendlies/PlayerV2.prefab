@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 872689600}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.024, y: 0.097, z: 0}
+  m_LocalPosition: {x: 0.024, y: 0.049, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 5931487914115717905}
@@ -284,6 +284,8 @@ MonoBehaviour:
   facingRight: 0
   blinking: 0
   death: 0
+  invincible: 0
+  inHitStun: 0
   wallGrabLeft: 0
   wallGrabRight: 0
   health: 0
@@ -447,6 +449,8 @@ MonoBehaviour:
   ManaBar: {fileID: 1331126342014170854, guid: 8db033c63cb436b44bc322a9dcb83f92, type: 3}
   healthRegen: 0
   manaRegen: 0
+  hitStunDuration: 0.25
+  hitStunFinishTime: 0
 --- !u!61 &869862685
 BoxCollider2D:
   m_ObjectHideFlags: 0

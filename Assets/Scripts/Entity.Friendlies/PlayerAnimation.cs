@@ -31,6 +31,7 @@ public class PlayerAnimation : MonoBehaviour
         anim.SetBool("jumping", p.jumping || rb.velocity.y > 0);
         anim.SetBool("wallGrabbing", p.wallGrabbing);
         anim.SetBool("shooting", p.shooting);
+        anim.SetBool("isDead", p.death);
         sr.flipX = p.wallGrabbing;
         yield return null;
     }
@@ -69,6 +70,14 @@ public class PlayerAnimation : MonoBehaviour
     public void StartWallGrab()
     {
         anim.SetTrigger("startWallGrab");
+    }
+    public void SetHitStun()
+    {
+        anim.SetTrigger("hitStun");
+    }
+    public void SetDeath()
+    {
+        anim.SetTrigger("death");
     }
     public void FaceLeft()
     {

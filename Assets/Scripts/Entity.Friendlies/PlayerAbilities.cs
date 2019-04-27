@@ -147,6 +147,7 @@ public class PlayerAbilities : MonoBehaviour
     public void OnBlinkStart()
     {
         p.blinking = true;
+        p.invincible = true;
         int xInput = 0;
         xInput += p.controls.Intents.Contains(PlayerControls.IntentType.RIGHT) ? 1 : 0;
         xInput -= p.controls.Intents.Contains(PlayerControls.IntentType.LEFT) ? 1 : 0;
@@ -155,6 +156,7 @@ public class PlayerAbilities : MonoBehaviour
     public void OnBlinkEnd()
     {
         p.blinking = false;
+        p.invincible = false;
     }
     public void DoBlinkTeleport()
     {

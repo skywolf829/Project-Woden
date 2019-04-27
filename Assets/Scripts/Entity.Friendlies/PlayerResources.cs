@@ -15,6 +15,9 @@ public class PlayerResources : MonoBehaviour
     string lastType = "";
 
     public float healthRegen, manaRegen;
+    public float hitStunDuration;
+
+    public float hitStunFinishTime;
 
     GameObject healthBar, manaBar;
 
@@ -34,24 +37,66 @@ public class PlayerResources : MonoBehaviour
 
     public void hitBy(string t)
     {
+        if (p.death) return;
         lastType = t;
     }
     public void applyDamage(int d)
     {
+        if (p.death || p.invincible) return;
         p.health -= d;
-        if (p.health < 0)
+        hitStunFinishTime = Time.time + hitStunDuration;
+        p.invincible = true;
+        p.anim.SetHitStun();
+        p.physics.WasHit();
+        p.inHitStun = true;
+        if (p.health <= 0)
         {
             p.health = 0;
             TriggerDeath();
         }
     }
+    public void FinishHitStun()
+    {
+        p.inHitStun = false;
+    }
 
     public IEnumerator UpdateResources()
     {
-        p.health += (Time.time - p.lastUpdateTime) * healthRegen;
-        p.health = Mathf.Min(p.maxHealth, p.health);
-        p.mana += (Time.time - p.lastUpdateTime) * manaRegen;
-        p.mana = Mathf.Min(p.maxMana, p.mana);
+        if (Time.time < hitStunFinishTime)
+        {
+            p.invincible = true;
+            float timeLeft = hitStunFinishTime - Time.time;
+            if ((int)(((timeLeft * 10f) % 10) % 2) == 1)
+            {
+                sr.enabled = false;
+            }
+            else
+            {
+                sr.enabled = true;
+            }
+        }
+        else
+        {
+            sr.enabled = true;
+            p.invincible = false;
+        }
+
+        if (Input.GetKey(KeyCode.F1))
+        {
+            p.health = p.maxHealth;
+            p.death = false;
+        }
+        if (Input.GetKey(KeyCode.F2))
+        {
+            p.mana = p.maxMana;
+        }
+        if (!p.death)
+        {
+            p.health += (Time.time - p.lastUpdateTime) * healthRegen;
+            p.health = Mathf.Min(p.maxHealth, p.health);
+            p.mana += (Time.time - p.lastUpdateTime) * manaRegen;
+            p.mana = Mathf.Min(p.maxMana, p.mana);
+        }
         updateHealthBar();
         updateManaBar();
         yield return null;
@@ -77,6 +122,7 @@ public class PlayerResources : MonoBehaviour
     }
     void TriggerDeath()
     {
-
+        p.death = true;
+        p.anim.SetDeath();
     }
 }

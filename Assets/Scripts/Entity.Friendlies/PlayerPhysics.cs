@@ -154,6 +154,10 @@ public class PlayerPhysics : MonoBehaviour
         {
             dx = 0;
         }
+        else if (p.inHitStun)
+        {
+            dx = 0;
+        }
         else
         {
             if (dx != 0 && xInput == 0)
@@ -276,7 +280,7 @@ public class PlayerPhysics : MonoBehaviour
                 p.anim.StartJump();
             }
         }
-        else
+        else if(!p.inHitStun)
         {
             if (touchingBottom && p.controls.Intents.Contains(PlayerControls.IntentType.JUMP) && 
                 !p.controls.PreviousIntents.Contains(PlayerControls.IntentType.JUMP))
@@ -302,6 +306,29 @@ public class PlayerPhysics : MonoBehaviour
         rb.velocity = new Vector2(rb.velocity.x, dy);
     }
 
+    public void WasHit()
+    {
+        if (p.wallGrabbing)
+        {
+            if (p.wallGrabLeft )
+            {
+                p.wallGrabbing = false;
+                p.wallGrabLeft = false;
+                wallLeaveTime = Time.time;
+                rb.gravityScale = normalGravity;
+                p.anim.StartFalling();
+            }
+            else if (p.wallGrabRight )
+            {
+                p.wallGrabbing = false;
+                p.wallGrabRight = false;
+                wallLeaveTime = Time.time;
+                rb.gravityScale = normalGravity;
+                p.anim.StartFalling();
+            }
+        }
+
+    }
     ContactPoint2D[] cleanContactPoints(ContactPoint2D[] contacts)
     {
         List<ContactPoint2D> cleanContactList = new List<ContactPoint2D>();
