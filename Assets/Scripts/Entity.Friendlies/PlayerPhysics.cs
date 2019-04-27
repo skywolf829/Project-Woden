@@ -329,6 +329,34 @@ public class PlayerPhysics : MonoBehaviour
         }
 
     }
+    public void TriggerDeath()
+    {
+        if (p.wallGrabbing)
+        {
+            if (p.wallGrabLeft)
+            {
+                p.wallGrabbing = false;
+                p.wallGrabLeft = false;
+                wallLeaveTime = Time.time;
+                rb.gravityScale = normalGravity;
+                p.anim.StartFalling();
+            }
+            else if (p.wallGrabRight)
+            {
+                p.wallGrabbing = false;
+                p.wallGrabRight = false;
+                wallLeaveTime = Time.time;
+                rb.gravityScale = normalGravity;
+                p.anim.StartFalling();
+            }
+        }
+        p.crouching = false;
+        p.jumping = false;
+        p.falling = false;
+        p.wallGrabbing = false;
+        p.wallGrabRight = p.wallGrabLeft = false;
+        rb.velocity = new Vector2(0, rb.velocity.y);
+    }
     ContactPoint2D[] cleanContactPoints(ContactPoint2D[] contacts)
     {
         List<ContactPoint2D> cleanContactList = new List<ContactPoint2D>();

@@ -52,7 +52,7 @@ public class PlayerResources : MonoBehaviour
         if (p.health <= 0)
         {
             p.health = 0;
-            TriggerDeath();
+            p.TriggerDeath();
         }
     }
     public void FinishHitStun()
@@ -119,10 +119,5 @@ public class PlayerResources : MonoBehaviour
 
         manaBar.transform.position = manaBarPos;
         manaBar.transform.localScale = manaBarScale;
-    }
-    void TriggerDeath()
-    {
-        p.death = true;
-        p.anim.SetDeath();
     }
 }

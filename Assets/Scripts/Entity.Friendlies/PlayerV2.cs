@@ -62,7 +62,13 @@ public class PlayerV2 : MonoBehaviour
         lastUpdateTime = Time.time;
         StartCoroutine(UpdateLoop());
     }
-
+    public void TriggerDeath()
+    {
+        death = true;
+        abilities.TriggerDeath();
+        physics.TriggerDeath();
+        anim.TriggerDeath();
+    }
     IEnumerator UpdateLoop()
     {
         while (true)
