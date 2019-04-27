@@ -31,7 +31,7 @@ public class LightningAttackScript : EnemyProjectile
             damage = 150;
         }
     }
-    public void Destroy()
+    public void TriggerDestroy()
     {
         Destroy(gameObject);
     }

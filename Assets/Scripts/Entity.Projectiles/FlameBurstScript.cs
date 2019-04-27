@@ -36,11 +36,11 @@ public class FlameBurstScript : EnemyProjectile
             }
         }
     }
-    public void Destroy()
-    {
+    public void TriggerDestroy()
+    { 
         if(attackNo < 10)
         {
-            RaycastHit[] rchs = Physics.RaycastAll(new Ray(transform.position, new Vector3(dir, 0, 0)));
+            RaycastHit2D[] rchs = Physics2D.RaycastAll(transform.GetChild(0).position, new Vector3(dir, 0, 0));
             List<Vector3> wallContactPoints = new List<Vector3>();
             for(int i = 0; i < rchs.Length; i++)
             {
@@ -48,15 +48,14 @@ public class FlameBurstScript : EnemyProjectile
                     wallContactPoints.Add(rchs[i].point);
                 } 
             }
-
             if(wallContactPoints.Count > 0)
             {
                 float minDist = float.PositiveInfinity;
                 for(int i = 0; i < wallContactPoints.Count; i++)
                 {
-                    if(Vector3.Distance(transform.position, wallContactPoints[i]) < minDist)
+                    if(Vector3.Distance(transform.GetChild(0).position, wallContactPoints[i]) < minDist)
                     {
-                        minDist = Vector3.Distance(transform.position, wallContactPoints[i]);
+                        minDist = Vector3.Distance(transform.GetChild(0).position, wallContactPoints[i]);
                     }
                 }
                 if(minDist > 1)
@@ -72,9 +71,9 @@ public class FlameBurstScript : EnemyProjectile
     }
     void SpawnNewFlameBurst()
     {
-        Vector3 possiblePosition = transform.position + new Vector3(dir, 0, 0);
+        Vector3 possiblePosition = transform.GetChild(0).position + new Vector3(dir, 0, 0);
 
-        RaycastHit[] rchs = Physics.RaycastAll(new Ray(possiblePosition, new Vector3(0, -1, 0)));
+        RaycastHit2D[] rchs = Physics2D.RaycastAll(possiblePosition, new Vector3(0, -1, 0));
         List<Vector3> groundContactPoints = new List<Vector3>();
         for (int i = 0; i < rchs.Length; i++)
         {
@@ -83,21 +82,21 @@ public class FlameBurstScript : EnemyProjectile
                 groundContactPoints.Add(rchs[i].point);
             }
         }
-
         if (groundContactPoints.Count > 0)
         {
             float minDist = float.PositiveInfinity;
             for (int i = 0; i < groundContactPoints.Count; i++)
             {
-                if (Vector3.Distance(transform.position, groundContactPoints[i]) < minDist)
+                if (Vector3.Distance(possiblePosition, groundContactPoints[i]) < minDist)
                 {
-                    minDist = Vector3.Distance(transform.position, groundContactPoints[i]);
+                    minDist = Vector3.Distance(possiblePosition, groundContactPoints[i]);
                 }
             }
             if (minDist < 10)
             {
                 GameObject g = Instantiate(gameObject);
-                g.transform.position = possiblePosition - new Vector3(0, minDist + 0.5f, 0);
+                g.transform.position = possiblePosition - new Vector3(0, minDist -
+                    Vector3.Distance(g.transform.position, g.transform.GetChild(1).position), 0);
                 g.GetComponent<FlameBurstScript>().SetAttack(attackNo + 1);
                 g.GetComponent<FlameBurstScript>().SetDir(dir);
             }

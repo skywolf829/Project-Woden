@@ -47,6 +47,7 @@ public class GoblinShaman : EnemyV2
         {
             if (!inNonIdleState && Time.time > idleUntil)
             {
+                transform.localScale = new Vector3(player.transform.position.x > transform.position.x ? 1: -1, 1, 1);
                 float playerDist = Vector3.Distance(player.transform.position, transform.position);
                 float randomNum = Random.Range(0, 100);
                 Coroutine c;
@@ -192,10 +193,9 @@ public class GoblinShaman : EnemyV2
 
     public void CastFlameBurst(int fromStaff)
     {
-        Vector3 possiblePosition = (fromStaff > 0 ? player.transform.position : transform.position) 
-            + (transform.localScale.x > 0? new Vector3(1, 0, 0) : new Vector3(-1, 0, 0));
+        Vector3 possiblePosition = (fromStaff > 0 ? player.transform.GetChild(0).position : transform.GetChild(1).position);
 
-        RaycastHit[] rchs = Physics.RaycastAll(new Ray(possiblePosition, new Vector3(0, -1, 0)));
+        RaycastHit2D[] rchs = Physics2D.RaycastAll(new Vector2(possiblePosition.x, possiblePosition.y), new Vector2(0, -1));
         List<Vector3> groundContactPoints = new List<Vector3>();
         for (int i = 0; i < rchs.Length; i++)
         {
@@ -210,9 +210,9 @@ public class GoblinShaman : EnemyV2
             float minDist = float.PositiveInfinity;
             for (int i = 0; i < groundContactPoints.Count; i++)
             {
-                if (Vector3.Distance(transform.position, groundContactPoints[i]) < minDist)
+                if (Vector3.Distance(possiblePosition, groundContactPoints[i]) < minDist)
                 {
-                    minDist = Vector3.Distance(transform.position, groundContactPoints[i]);
+                    minDist = Vector3.Distance(possiblePosition, groundContactPoints[i]);
                 }
             }
             if (minDist < 10)
@@ -220,7 +220,7 @@ public class GoblinShaman : EnemyV2
                 GameObject g = Instantiate(FlameBurst);
                 g.GetComponent<FlameBurstScript>().SetAttack(fromStaff > 0 ? 10 : 1);
                 g.GetComponent<FlameBurstScript>().SetDir((transform.localScale.x > 0 ? 1 : -1));
-                g.transform.position = possiblePosition - new Vector3(0, minDist + 0.5f, 0);
+                g.transform.position = possiblePosition - new Vector3(0, minDist - 1, 0);
                 if(fromStaff == 3)
                 {
                     g.transform.position -= new Vector3(0.5f, 0, 0);
@@ -236,16 +236,17 @@ public class GoblinShaman : EnemyV2
     public void CastLightningBall(int fromStaff)
     {
         GameObject g = Instantiate(LightningBall);
-        g.transform.position = fromStaff > 0?
+        g.transform.position = fromStaff > 0 ?
             transform.GetChild(0).position :
-            transform.position + (transform.localScale.x > 0 ? new Vector3(3, 0) : new Vector3(-3, 0));
-        g.SendMessage("SetTarget", player.transform.position);
+            transform.GetChild(1).position;
+        g.SendMessage("SetTarget", player.transform.position - new Vector3(0, 0.5f, 0));
         lastAttackType = "lightning";
     }
     public void CastLightningAttack(int num)
     {
         GameObject g = Instantiate(LightningAttack);        
-        g.transform.position = transform.position + (transform.localScale.x > 0 ? new Vector3(3, 0) : new Vector3(-3, 0));
+        g.transform.position = transform.GetChild(2).position + new Vector3(0, 1, 0) 
+            + (transform.localScale.x > 0 ? new Vector3(3, 0) : new Vector3(-3, 0));
         g.SendMessage("SetAttack", num);
         lastAttackType = "lightning";
     }
@@ -272,6 +273,7 @@ public class GoblinShaman : EnemyV2
     public void EndWalking()
     {
         walking = false;
+        rb.velocity = new Vector3(0, 0, 0);
     }
     protected override void TriggerDeathStart()
     {

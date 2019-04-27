@@ -48,7 +48,7 @@ public abstract class EnemyV2 : MonoBehaviour
         }
         else print("Missing healthbar on " + gameObject.name);
 
-        player = GameObject.Find("Player");
+        player = GameObject.FindWithTag("Player");
         playerBox = new Collider2D();
 
         enemies = GameObject.FindGameObjectsWithTag("Enemy");
