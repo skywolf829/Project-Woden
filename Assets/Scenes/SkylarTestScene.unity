@@ -15225,6 +15225,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: GoblinShaman
       objectReference: {fileID: 0}
+    - target: {fileID: 1288382724684710446, guid: 2bc73912bca599b43b8a0083c6a38a40,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1288382724684710435, guid: 2bc73912bca599b43b8a0083c6a38a40,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15280,10 +15285,92 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1288382724684710444, guid: 2bc73912bca599b43b8a0083c6a38a40,
-        type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2bc73912bca599b43b8a0083c6a38a40, type: 3}
+--- !u!1001 &2157019924225630775
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2157019922914932392, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_Name
+      value: GoblinLug
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932369, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932369, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -11.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932369, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932369, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932369, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932369, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932369, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932369, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932369, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932369, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932369, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932373, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -1.0573773
+      objectReference: {fileID: 0}
+    - target: {fileID: 2157019922914932373, guid: 8139c0e28a269aa48958fe21409fc40e,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 1.7500772
+      objectReference: {fileID: 0}
+    - target: {fileID: 1094714153, guid: 8139c0e28a269aa48958fe21409fc40e, type: 3}
+      propertyPath: m_Offset.y
+      value: -1.0655341
+      objectReference: {fileID: 0}
+    - target: {fileID: 1094714153, guid: 8139c0e28a269aa48958fe21409fc40e, type: 3}
+      propertyPath: m_Size.y
+      value: 1.7663908
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8139c0e28a269aa48958fe21409fc40e, type: 3}
