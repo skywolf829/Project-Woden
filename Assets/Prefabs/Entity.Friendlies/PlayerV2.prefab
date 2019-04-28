@@ -1,5 +1,65 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &872689600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 872689601}
+  m_Layer: 0
+  m_Name: ManaBarPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &872689601
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 872689600}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.024, y: 0.049, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5931487914115717905}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1806229826
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1806229827}
+  m_Layer: 0
+  m_Name: HealthBarPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1806229827
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1806229826}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.024, y: 0.16, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 5931487914115717905}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2087368904
 GameObject:
   m_ObjectHideFlags: 0
@@ -49,6 +109,8 @@ GameObject:
   - component: {fileID: 5931487914115787184}
   - component: {fileID: 5931487914115787185}
   - component: {fileID: 5931487914115787190}
+  - component: {fileID: 869862684}
+  - component: {fileID: 869862685}
   m_Layer: 0
   m_Name: PlayerV2
   m_TagString: Player
@@ -68,6 +130,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2087368905}
+  - {fileID: 1806229827}
+  - {fileID: 872689601}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -209,6 +273,7 @@ MonoBehaviour:
   physics: {fileID: 0}
   anim: {fileID: 0}
   abilities: {fileID: 0}
+  resources: {fileID: 0}
   falling: 0
   jumping: 0
   shooting: 0
@@ -218,8 +283,15 @@ MonoBehaviour:
   crouching: 0
   facingRight: 0
   blinking: 0
+  death: 0
+  invincible: 0
+  inHitStun: 0
   wallGrabLeft: 0
   wallGrabRight: 0
+  health: 0
+  maxHealth: 0
+  mana: 0
+  maxMana: 0
   lastUpdateTime: 0
 --- !u!114 &5931487914115787187
 MonoBehaviour:
@@ -360,3 +432,48 @@ MonoBehaviour:
   XboxLeftStickInKeyboardMapping: 0
   Intents: 
   PreviousIntents: 
+--- !u!114 &869862684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931487914115787191}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f97401387f2ee2a448c8ab638404d6a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HealthBar: {fileID: 9210127648484509588, guid: 1ac086eedf662674c8dd9cb526392ffe,
+    type: 3}
+  ManaBar: {fileID: 1331126342014170854, guid: 8db033c63cb436b44bc322a9dcb83f92, type: 3}
+  healthRegen: 0
+  manaRegen: 0
+  hitStunDuration: 0.25
+  hitStunFinishTime: 0
+--- !u!61 &869862685
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5931487914115787191}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0018308163, y: -0.5492182}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.4951434, y: 0.90156364}
+  m_EdgeRadius: 0

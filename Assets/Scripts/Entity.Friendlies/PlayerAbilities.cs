@@ -12,7 +12,7 @@ public class PlayerAbilities : MonoBehaviour
     public GameObject ChargedElement1, ChargedElement2, ChargedElement3, ChargedElement4;
     public GameObject ChanneledElement1, ChanneledElement2, ChanneledElement3, ChanneledElement4;
 
-    List<GameObject> abilityHistory;
+    List<string> abilityHistory;
 
     float abilityReleaseTime = 0;
     public bool secondAttackQueued, thirdAttackQueued;
@@ -22,7 +22,7 @@ public class PlayerAbilities : MonoBehaviour
     private void Awake()
     {
         p = GetComponent<PlayerV2>();
-        abilityHistory = new List<GameObject>();
+        abilityHistory = new List<string>();
     }
 
     public IEnumerator UpdateAbilities()
@@ -147,6 +147,7 @@ public class PlayerAbilities : MonoBehaviour
     public void OnBlinkStart()
     {
         p.blinking = true;
+        p.invincible = true;
         int xInput = 0;
         xInput += p.controls.Intents.Contains(PlayerControls.IntentType.RIGHT) ? 1 : 0;
         xInput -= p.controls.Intents.Contains(PlayerControls.IntentType.LEFT) ? 1 : 0;
@@ -155,6 +156,7 @@ public class PlayerAbilities : MonoBehaviour
     public void OnBlinkEnd()
     {
         p.blinking = false;
+        p.invincible = false;
     }
     public void DoBlinkTeleport()
     {
@@ -178,7 +180,7 @@ public class PlayerAbilities : MonoBehaviour
     {
         GameObject g = null;
         if (elementToShoot == 1)
-            g = Instantiate(Element1);
+            g = Instantiate(Element1);        
         else if (elementToShoot == 2)
             g = Instantiate(Element2);
         else if (elementToShoot == 3)
@@ -195,8 +197,22 @@ public class PlayerAbilities : MonoBehaviour
         
         p.canUseAbility = false;
         secondAttackQueued = thirdAttackQueued = false;
+        abilityHistory.Add(g.name);
+        if(abilityHistory.Count > 20)
+        {
+            abilityHistory.RemoveAt(0);
+        }
     }
 
-
+    public void TriggerDeath()
+    {
+        p.shooting = false;
+        p.wallShooting = false;
+        secondAttackQueued = false;
+        thirdAttackQueued = false;
+        p.blinking = false;
+        p.invincible = false;
+        p.canUseAbility = false;
+    }
 
 }

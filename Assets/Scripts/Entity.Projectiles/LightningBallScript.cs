@@ -7,6 +7,11 @@ public class LightningBallScript : EnemyProjectile
     float speed = 4;
     float dx, dy;
 
+    public void Start()
+    {
+        type = "lightning";
+        damage = 20;
+    }
     public void SetTarget(Vector3 target)
     {
         rb = GetComponent<Rigidbody2D>();
@@ -24,7 +29,7 @@ public class LightningBallScript : EnemyProjectile
     // Update is called once per frame
     protected override void Update()
     {
-        
+           
     }
     protected virtual void OnTriggerEnter2D(Collider2D c)
     {
@@ -36,7 +41,7 @@ public class LightningBallScript : EnemyProjectile
             hit = true;
             rb.velocity = new Vector2(0, 0);
             anim.SetTrigger("hit");
-            if (c.gameObject.name == "Player")
+            if (c.gameObject.tag == "Player")
             {
                 c.BroadcastMessage("hitBy", type);
                 c.BroadcastMessage("applyDamage", damage);

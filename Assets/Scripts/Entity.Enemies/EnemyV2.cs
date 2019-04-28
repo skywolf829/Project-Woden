@@ -44,7 +44,7 @@ public abstract class EnemyV2 : MonoBehaviour
 
         if (HealthBar)
         {
-            healthBar = GameObject.Instantiate<GameObject>(HealthBar);
+            healthBar = Instantiate(HealthBar);
         }
         else print("Missing healthbar on " + gameObject.name);
 
@@ -99,11 +99,12 @@ public abstract class EnemyV2 : MonoBehaviour
         else
         {
             health -= d;
-            if (health > maxHealth)
-            {
-                health = maxHealth;
-            }
-        }        
+        }
+
+        if (health > maxHealth)
+        {
+            health = maxHealth;
+        }
     }
     protected virtual void OnTriggerEnter2D(Collider2D c)
     {

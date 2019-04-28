@@ -41,10 +41,11 @@ public class LightningAttackScript : EnemyProjectile
     }
     protected override void OnTriggerEnter2D(Collider2D c)
     {
-        if (!hit && c.gameObject.tag != "Friendly" && c.gameObject.tag != "Projectile")
+        if (c.gameObject.tag != "Enemy" && c.gameObject.tag != "Boss" && c.gameObject.tag != "Projectile"
+            && c.gameObject.tag != "EnemyProjectile" && c.gameObject.tag != "EnemyProjectile" && !hit)
         {
             hit = true;
-            if (c.gameObject.tag == "Enemy")
+            if (c.gameObject.tag == "Player")
             {
                 c.BroadcastMessage("hitBy", type);
                 c.BroadcastMessage("applyDamage", damage);
