@@ -1,0 +1,6724 @@
+fileFormatVersion: 2
+guid: ab941607f5752b04296028deaf27b2b0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Goblin Lug 0
+    21300002: Goblin Lug 1
+    21300004: Goblin Lug 2
+    21300006: Goblin Lug 3
+    21300008: Goblin Lug 4
+    21300010: Goblin Lug 5
+    21300012: Goblin Lug 6
+    21300014: Goblin Lug 7
+    21300016: Goblin Lug 8
+    21300018: Goblin Lug 9
+    21300020: Goblin Lug 10
+    21300022: Goblin Lug 11
+    21300024: Goblin Lug 12
+    21300026: Goblin Lug 13
+    21300028: Goblin Lug 14
+    21300030: Goblin Lug 15
+    21300032: Goblin Lug 16
+    21300034: Goblin Lug 17
+    21300036: Goblin Lug 18
+    21300038: Goblin Lug 19
+    21300040: Goblin Lug 20
+    21300042: Goblin Lug 21
+    21300044: Goblin Lug 22
+    21300046: Goblin Lug 23
+    21300048: Goblin Lug 24
+    21300050: Goblin Lug 25
+    21300052: Goblin Lug 26
+    21300054: Goblin Lug 27
+    21300056: Goblin Lug 28
+    21300058: Goblin Lug 29
+    21300060: Goblin Lug 30
+    21300062: Goblin Lug 31
+    21300064: Goblin Lug 32
+    21300066: Goblin Lug 33
+    21300068: Goblin Lug 34
+    21300070: Goblin Lug 35
+    21300072: Goblin Lug 36
+    21300074: Goblin Lug 37
+    21300076: Goblin Lug 38
+    21300078: Goblin Lug 39
+    21300080: Goblin Lug 40
+    21300082: Goblin Lug 41
+    21300084: Goblin Lug 42
+    21300086: Goblin Lug 43
+    21300088: Goblin Lug 44
+    21300090: Goblin Lug 45
+    21300092: Goblin Lug 46
+    21300094: Goblin Lug 47
+    21300096: Goblin Lug 48
+    21300098: Goblin Lug 49
+    21300100: Goblin Lug 50
+    21300102: Goblin Lug 51
+    21300104: Goblin Lug 52
+    21300106: Goblin Lug 53
+    21300108: Goblin Lug 54
+    21300110: Goblin Lug 55
+    21300112: Goblin Lug 56
+    21300114: Goblin Lug 57
+    21300116: Goblin Lug 58
+    21300118: Goblin Lug 59
+    21300120: Goblin Lug 60
+    21300122: Goblin Lug 61
+    21300124: Goblin Lug 62
+    21300126: Goblin Lug 63
+    21300128: Goblin Lug 64
+    21300130: Goblin Lug 65
+    21300132: Goblin Lug 66
+    21300134: Goblin Lug 67
+    21300136: Goblin Lug 68
+    21300138: Goblin Lug 69
+    21300140: Goblin Lug 70
+    21300142: Goblin Lug 71
+    21300144: Goblin Lug 72
+    21300146: Goblin Lug 73
+    21300148: Goblin Lug 74
+    21300150: Goblin Lug 75
+    21300152: Goblin Lug 76
+    21300154: Goblin Lug 77
+    21300156: Goblin Lug 78
+    21300158: Goblin Lug 79
+    21300160: Goblin Lug 80
+    21300162: Goblin Lug 81
+    21300164: Goblin Lug 82
+    21300166: Goblin Lug 83
+    21300168: Goblin Lug 84
+    21300170: Goblin Lug 85
+    21300172: Goblin Lug 86
+    21300174: Goblin Lug 87
+    21300176: Goblin Lug 88
+    21300178: Goblin Lug 89
+    21300180: Goblin Lug 90
+    21300182: Goblin Lug 91
+    21300184: Goblin Lug 92
+    21300186: Goblin Lug 93
+    21300188: Goblin Lug 94
+    21300190: Goblin Lug 95
+    21300192: Goblin Lug 96
+    21300194: Goblin Lug 97
+    21300196: Goblin Lug 98
+    21300198: Goblin Lug 99
+    21300200: Goblin Lug 100
+    21300202: Goblin Lug 101
+    21300204: Goblin Lug 102
+    21300206: Goblin Lug 103
+    21300208: Goblin Lug 104
+    21300210: Goblin Lug 105
+    21300212: Goblin Lug 106
+    21300214: Goblin Lug 107
+    21300216: Goblin Lug 108
+    21300218: Goblin Lug 109
+    21300220: Goblin Lug 110
+    21300222: Goblin Lug 111
+    21300224: Goblin Lug 112
+    21300226: Goblin Lug 113
+    21300228: Goblin Lug 114
+    21300230: Goblin Lug 115
+    21300232: Goblin Lug 116
+    21300234: Goblin Lug 117
+    21300236: Goblin Lug 118
+    21300238: Goblin Lug 119
+    21300240: Goblin Lug 120
+    21300242: Goblin Lug 121
+    21300244: Goblin Lug 122
+    21300246: Goblin Lug 123
+    21300248: Goblin Lug 124
+    21300250: Goblin Lug 125
+    21300252: Goblin Lug 126
+    21300254: Goblin Lug 127
+    21300256: Goblin Lug 128
+    21300258: Goblin Lug 129
+    21300260: Goblin Lug 130
+    21300262: Goblin Lug 131
+    21300264: Goblin Lug 132
+    21300266: Goblin Lug 133
+    21300268: Goblin Lug 134
+    21300270: Goblin Lug 135
+    21300272: Goblin Lug 136
+    21300274: Goblin Lug 137
+    21300276: Goblin Lug 138
+    21300278: Goblin Lug 139
+    21300280: Goblin Lug 140
+    21300282: Goblin Lug 141
+    21300284: Goblin Lug 142
+    21300286: Goblin Lug 143
+    21300288: Goblin Lug 144
+    21300290: Goblin Lug 145
+    21300292: Goblin Lug 146
+    21300294: Goblin Lug 147
+    21300296: Goblin Lug 148
+    21300298: Goblin Lug 149
+    21300300: Goblin Lug 150
+    21300302: Goblin Lug 151
+    21300304: Goblin Lug 152
+    21300306: Goblin Lug 153
+    21300308: Goblin Lug 154
+    21300310: Goblin Lug 155
+    21300312: Goblin Lug 156
+    21300314: Goblin Lug 157
+    21300316: Goblin Lug 158
+    21300318: Goblin Lug 159
+    21300320: Goblin Lug 160
+    21300322: Goblin Lug 161
+    21300324: Goblin Lug 162
+    21300326: Goblin Lug 163
+    21300328: Goblin Lug 164
+    21300330: Goblin Lug 165
+    21300332: Goblin Lug 166
+    21300334: Goblin Lug 167
+    21300336: Goblin Lug 168
+    21300338: Goblin Lug 169
+    21300340: Goblin Lug 170
+    21300342: Goblin Lug 171
+    21300344: Goblin Lug 172
+    21300346: Goblin Lug 173
+    21300348: Goblin Lug 174
+    21300350: Goblin Lug 175
+    21300352: Goblin Lug 176
+    21300354: Goblin Lug 177
+    21300356: Goblin Lug 178
+    21300358: Goblin Lug 179
+    21300360: Goblin Lug 180
+    21300362: Goblin Lug 181
+    21300364: Goblin Lug 182
+    21300366: Goblin Lug 183
+    21300368: Goblin Lug 184
+    21300370: Goblin Lug 185
+    21300372: Goblin Lug 186
+    21300374: Goblin Lug 187
+    21300376: Goblin Lug 188
+    21300378: Goblin Lug 189
+    21300380: Goblin Lug 190
+    21300382: Goblin Lug 191
+    21300384: Goblin Lug 192
+    21300386: Goblin Lug 193
+    21300388: Goblin Lug 194
+    21300390: Goblin Lug 195
+    21300392: Goblin Lug 196
+    21300394: Goblin Lug 197
+    21300396: Goblin Lug 198
+    21300398: Goblin Lug 199
+    21300400: Goblin Lug 200
+    21300402: Goblin Lug 201
+    21300404: Goblin Lug 202
+    21300406: Goblin Lug 203
+    21300408: Goblin Lug 204
+    21300410: Goblin Lug 205
+    21300412: Goblin Lug 206
+    21300414: Goblin Lug 207
+    21300416: Goblin Lug 208
+    21300418: Goblin Lug 209
+    21300420: Goblin Lug 210
+    21300422: Goblin Lug 211
+    21300424: Goblin Lug 212
+    21300426: Goblin Lug 213
+    21300428: Goblin Lug 214
+    21300430: Goblin Lug 215
+    21300432: Goblin Lug 216
+    21300434: Goblin Lug 217
+    21300436: Goblin Lug 218
+    21300438: Goblin Lug 219
+    21300440: Goblin Lug 220
+    21300442: Goblin Lug 221
+    21300444: Goblin Lug 222
+    21300446: Goblin Lug 223
+    21300448: Goblin Lug 224
+    21300450: Goblin Lug 225
+    21300452: Goblin Lug 226
+    21300454: Goblin Lug 227
+    21300456: Goblin Lug 228
+    21300458: Goblin Lug 229
+    21300460: Goblin Lug 230
+    21300462: Goblin Lug 231
+    21300464: Goblin Lug 232
+    21300466: Goblin Lug 233
+    21300468: Goblin Lug 234
+    21300470: Goblin Lug 235
+    21300472: Goblin Lug 236
+    21300474: Goblin Lug 237
+    21300476: Goblin Lug 238
+    21300478: Goblin Lug 239
+    21300480: Goblin Lug 240
+    21300482: Goblin Lug 241
+    21300484: Goblin Lug 242
+    21300486: Goblin Lug 243
+    21300488: Goblin Lug 244
+    21300490: Goblin Lug 245
+    21300492: Goblin Lug 246
+    21300494: Goblin Lug 247
+    21300496: Goblin Lug 248
+    21300498: Goblin Lug 249
+    21300500: Goblin Lug 250
+    21300502: Goblin Lug 251
+    21300504: Goblin Lug 252
+    21300506: Goblin Lug 253
+    21300508: Goblin Lug 254
+    21300510: Goblin Lug 255
+    21300512: Goblin Lug 256
+    21300514: Goblin Lug 257
+    21300516: Goblin Lug 258
+    21300518: Goblin Lug 259
+    21300520: Goblin Lug 260
+    21300522: Goblin Lug 261
+    21300524: Goblin Lug 262
+    21300526: Goblin Lug 263
+    21300528: Goblin Lug 264
+    21300530: Goblin Lug 265
+    21300532: Goblin Lug 266
+    21300534: Goblin Lug 267
+    21300536: Goblin Lug 268
+    21300538: Goblin Lug 269
+    21300540: Goblin Lug 270
+    21300542: Goblin Lug 271
+    21300544: Goblin Lug 272
+    21300546: Goblin Lug 273
+    21300548: Goblin Lug 274
+    21300550: Goblin Lug 275
+    21300552: Goblin Lug 276
+    21300554: Goblin Lug 277
+    21300556: Goblin Lug 278
+    21300558: Goblin Lug 279
+    21300560: Goblin Lug 280
+    21300562: Goblin Lug 281
+    21300564: Goblin Lug 282
+    21300566: Goblin Lug 283
+    21300568: Goblin Lug 284
+    21300570: Goblin Lug 285
+    21300572: Goblin Lug 286
+    21300574: Goblin Lug 287
+    21300576: Goblin Lug 288
+    21300578: Goblin Lug 289
+    21300580: Goblin Lug 290
+    21300582: Goblin Lug 291
+    21300584: Goblin Lug 292
+    21300586: Goblin Lug 293
+    21300588: Goblin Lug 294
+    21300590: Goblin Lug 295
+    21300592: Goblin Lug 296
+    21300594: Goblin Lug 297
+    21300596: Goblin Lug 298
+    21300598: Goblin Lug 299
+    21300600: Goblin Lug 300
+    21300602: Goblin Lug 301
+    21300604: Goblin Lug 302
+    21300606: Goblin Lug 303
+    21300608: Goblin Lug 304
+    21300610: Goblin Lug 305
+    21300612: Goblin Lug 306
+    21300614: Goblin Lug 307
+    21300616: Goblin Lug 308
+    21300618: Goblin Lug 309
+    21300620: Goblin Lug 310
+    21300622: Goblin Lug 311
+    21300624: Goblin Lug 312
+    21300626: Goblin Lug 313
+    21300628: Goblin Lug 314
+    21300630: Goblin Lug 315
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goblin Lug 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319e79bb573561b41862a766802a975b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e5a4eed98355041a14e904ac30a4c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7df7c92fd825b47a118fc6e8d9b79b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc40c44c60e10a4bb5b54f296fafdd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4ee629d8b1b5d4e884fd8c5f20d091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 5
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817b3f57726bd2a4a8c3c65d0926f562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 6
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9001905849203bb46b59dfb1f3fa01a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 7
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69089895631381419956d20c0c3e122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 8
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4d145be7f7a264e962124e0d86720e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 9
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753b1ea11189a849b80476b4bcba911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 10
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24d1249405b13243b10293175473826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 11
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d615fdcd97a93b24a83c08d5d67238b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 12
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f11838b290648748b4012e1a980acc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 13
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab928b8435297c488a9eaac134fec3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 14
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dba36fe2a117b4db85e6d54b364866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 15
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df3850c7fb373746be20309dceddbb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 16
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fccd30805f14474d83b444d0451aebd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 17
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 3968
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4d5870323fbd8458cb123b4784cc8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abd55d1fc26c7d4b82e1b951371bb02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47fab57b972cf047b1cb65499bc85c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490108c6edb8c07489736e4d72b1478b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5a4b64bbc256941b756aeb167d075b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727d5fa0347f9147a938900694926b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 23
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0575cefb3e740040a75615f991b63b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 24
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcab88e0834680499f810016f3658a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 25
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6658642e5654f404399d41983ebfd17c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 26
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d071c871a6e1c5443bcf20e76721fa73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 27
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf6ff5b5aed95848a4ba03d35531a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 28
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c148c2f4c7adb4ba20cf5fe3702782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 29
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98cd442aaef2934c9dbb21ea3edcdba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 30
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f215f6efbfc2d45836d2f2e32458b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 31
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d03bf4eb497ec4498468a107c99fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 32
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960a01d079560a846aa8c97bd1367871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 33
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39baa91d9d556e6418dbff4912175c92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 34
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89011a77c43bfe3469a0c808b72ba09c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 35
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 3840
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d95543a53c883459ef6c631a036121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47b0f9231fbe74459fdf0c56200b8b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae91e154bebe0c945b6266afb775cf13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef5cfaee6584a04a9f7b586c6070f26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 39
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9896d3e0888c8e449a28483caaec6bbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 40
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc6b66b87528cd4ebbc51900fc12ca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 41
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7cae1e81ccc314387a7f322fb7f0b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 42
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b0d7692e53b1544abd58f984c48aa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 43
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0363cde05056ae5498af317290f48279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 44
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dad77c19e5b62d44a7a6471fab282f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 45
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a40f216ee0e7ba47a529bc6bd6d5d88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 46
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f204040856d454091fb379fe77ad3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 47
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7360bc676db52d4eb00bf46e4c18de4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 48
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13701f8fb9e5f924b812117bea7a3527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 49
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdbc2fc92774ff4cbfea1d80890bf4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 50
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7a18f72f6f9564a9ad42180dc449ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 51
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96da40c00053e0478ec534e6df0eb79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 52
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e5972319f8011438b1cfb2d56d096b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 53
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 3712
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720f1ede94f7a004393dbfa6a5179bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a0a4a5e1b4b4347a09a7a8fa1612a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fad04a579c2df4f81a93c0df6f6ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c99b1aacbede94db6bbd318c526867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 57
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9861680bdd69a8469646cff8f427e0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 58
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd58d2a1091b194b9854d92d5877852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 59
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a12f8794d288de4ba4585b93c65009b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 60
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06f5e8555e5c404e882ad9272ce4e37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 61
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5d1e2e9c8a3d249a0e5b2a1638ddd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c917e12b38a5034a9f1539f0d1171a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 63
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee63211fb0428949ba35668279104c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 64
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ee13ecd8b9eb34089c9c5716608226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 65
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331e8824a46a4f34182d58b605fe517d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 66
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed9eb7b97b9a254ca75a357163ba8ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 67
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb86dfcf58c7954eaff6b8227574a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 68
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1cfc8709f487a4c8bd7d9deba5b371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 69
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c55d9b56118a641a4ff22b9e995706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 70
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f4bb6bcf6c93a4e89aaf4bb8b94fd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 71
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 3584
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2916a19b3a3f96d47b71129154823492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef6ddccbc71eda4aa2fb824ab39c234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e01dcd7b7df840980e99a51e20d80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd744dd06f4ca4889ca4a1415d062c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 75
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3997e8c7db4b05a4296cd314d02c88cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 76
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9b9f233a691fa4d98630f55e1929a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 77
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07e9885e64eea340bfeec3308a1710e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 78
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec21b93b0d695c42843c71319a07081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 79
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f725cad7efe4e9f4fb4db6e2b863786c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 80
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a62b1d4967ae84384783b48031b6c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 81
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a009a7c5b1fe9bd47a468844d551bfa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 82
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d57002a2d314b940b768eae17380144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 83
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12086e23bf2446b4996a1b63276f99ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 84
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925c20d068c3fcc46a69635fdd63ff60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 85
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a1626f49d208e42994126e2f27c2d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 86
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086ba925dd016284794dd8ad0625684b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 87
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e42b35b191595445850cc75b07db8e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 88
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a473b2cc6474c4741bc72a4923e25f92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 89
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 3456
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5478b203fea2013488518fa4b62c3480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14843073f68aaf6429c71cbde5beeb89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f381ce438c17d4b90aa73af48fe1e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed7729a3e357774b9abf99133ad6485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dde692b44d1ab429be0de2e6347078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc49c8fbc2ab0da4a81df99cb0d8b61e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 95
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6534e4ad9fab45641bdf2646a9be01ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 96
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2410372e10d4193439110b2ebe871dbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 97
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed18c1bbd17cb0e44b0f92e8c8bac4c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 98
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a24d9b2de6e9b45877b47d61157a47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 99
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb4b70c10e5d3747b8e29e4a488dfcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 100
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc43897d0b41db54bb504bfe2ce25b6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 101
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee256ade2599ed45b9580753dd8af8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 102
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165c4e3255fc8b544ade8a8d5ba54780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 103
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f021e91b4c41246af9e4361d8fca26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 104
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d3c75b0432eb141b262693605cdcb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 105
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98e764dd1698554a9dba249b884b7ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 106
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973b09358f2366d449d63e4116cae443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 107
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 3328
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f85c8c0e0c130409569e4974b14dd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c31f81d218b1a4ab97cfc1057a1a43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a283e52fd6b789746ba72f08c7775037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5003bbb4baaa644a176ac8f5ecb213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 111
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9330492ca090a6343a584af61f7232cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 112
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6574daef6304d4942a9ddeb61724bcef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 113
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3781081f37bec242bf87ef08616cfc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 114
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e235f6f53d3484eb2ba0e1e13cc428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 115
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5b422784291b40b0a2151817af992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 116
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b53828c33047f44847a6bc5e1a0ddc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 117
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc121cd993eb814faed7120ac638ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 118
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c50885bd953b14abafd586be1ae1a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 119
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51828121248c98418e153984deccde7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 120
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2d8b8f5a0ddb24b97a91d4312fc29f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 121
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d438255911a9fca4ea58fff206ea5c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 122
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2501865ac31f6464883eaaaedefb8cc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 123
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004537c965a2f8c49ab48799f0b41bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 124
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1515e49010d703f428657fe02f899f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 125
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 3200
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7704c937894e7e4cb48b996e6e189b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9008e99a56e6fcf429be9b9fcc5031e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e307585008eb0b04e814090e135e07e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 128
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9db8e59f5ab3445b3c6f458b7f4c7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 129
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b2e5a6403fff64ebf70428c54cdf45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 130
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121acf6d704ba6643b1185b0afc44612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 131
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7400133d355904dba21dff5347d599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 132
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c56c54d8e5b3c241bf4a110f51dff9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 133
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cadf6e5888f86b4eb34cddc95d9d6be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 134
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68cd84fda0f8e544813d4d48ca4d8bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 135
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f91737058bbea34eaad290fb2bb52ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 136
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb05db41b17c584aa8e35637ee30c90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 137
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3680e4499916c0349a03ad4c229ff423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 138
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e172887be2ed55940b8ca4b6f2aadf60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 139
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba7d975ed57672418cb0b63c78de458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 140
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca709053f9054439332fe1593eecc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 141
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb4a8aa9a0f1ad48abe5e54da78ec59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 142
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b389906ba73cf140897cf4c3b575bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 143
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 3072
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea380e58d5bfaf04e8eb4d9dd459d11a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5110afdc88caa47ae613f9ec0056ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 145
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c124da2acb43d4b810c0872f3e70ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 146
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d532c2bad03f55b4aa35e1b0124144ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 147
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc651cb537e01d45ac09f612e744b52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 148
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a76edd5bf6ed8141b4454a287c8fcb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 149
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa80b596ff829e4e867c5a524b8c559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 150
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73848ebc95655c64284c202d4a7ae4bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 151
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209536004b397df4c89cab72a80ade65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 152
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445a4ab1c3191e84d8f5169668d3dbf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 153
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e821b88bed57028448b571179fba3f2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 154
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228c1d95ee3e27445b312d1a8a46cb9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 155
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557ab215b2f05ca448d74601fe5804e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 156
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a33d0355507eea47ae27f15d307c50a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 157
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cccfb64f9154d448463d93ac5aeb0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 158
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357c97a5a5bd721488141bdf00390853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 159
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ed18ddb6896774793c3eb348c2432a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 160
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01f265f82a1ef4478ac650b11ea5b94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 161
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2944
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab844255d51b7843b9f01c7e3fe0f23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbbf14ddfee82a4a8153c27c279e73b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 163
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fed7e3bb4f809640b451c3730a0775c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 164
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b5c81b53fe1f14aa82b46e932f8ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 165
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86eff074c9bdd8b4993c96ca81551bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 166
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a49c48d44df62c449cbf18f45909467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 167
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11390be97528996438692d4230db7d8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 168
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0403acdbd364f428559292b54eaef6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 169
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5291ae07a43ac749a046c3a22d6a8a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 170
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166b2ccbe45087447af461ac85247e5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 171
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570d70456518cbc4caec328101d92974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 172
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446031e9041b99041b3e646578186976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 173
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a263f8e34ef35d541a2b166a7b1ed2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 174
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db465c5bd9d0aa841ab3b7ee082fcd69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 175
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fc1114968c3a449bd609bdb35caabf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 176
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed1fd1c730a014409fc7c2173e4408b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 177
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac864a1ec5aa9104e822d30d7ffa73ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 178
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019bac8897b18044bb1566f442a8759d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 179
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2816
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba73754007eece24086a146cf48c3a23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321fb7c656ccfe7479ff868127552d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324280a0fcac4f74e82f8297dc59efe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 182
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8989f15ad5a27c6439de6122f14a93b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 183
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3b5fc5a3acdf84e86d009ce0e41285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 184
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06716e7d5acd96d43a0663799354dfd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 185
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d40ca737cf7148448a5a978ca685904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 186
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f79537ce03cfe48b8c3319e40107f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 187
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8679ab5deb5f2ce419cf5b08be633a3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 188
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d8b5ae62c2584cb66fe199a5015b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 189
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a56a342b63ba641a0f3036175e7dd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 190
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade927b670b4c3a448e1811e293e6cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 191
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565cfb0ed798707438ff6356a7a26c49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 192
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b03c7cc0b6313458b39ebec73c76fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 193
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d757c1101431da49b20fdec759da6c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 194
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe6d5d78115d62409fa0297a765d5d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 195
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30648e33a96d601429e84a255a562e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 196
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257faf156724928468620ce46dbfbfea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 197
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2688
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99a7d32f5d3e1141a72981033fcbfe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026a6bf756a00a843b9db75af8417c1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf4f0e09487ac741bb5a2f405decc02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 200
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd448f20341f62e44a85fde9c55d6797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 201
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a588739bcd441e4688405d95b4fbc6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 202
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b71e1334d662f41b46053a538fd461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 203
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063f4e61c5deea1428c05e197f02f610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 204
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9515d60f2611b49b6f2f1f143f631c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 205
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95443b249ae48df4da5c5fd08b9d6f5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 206
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f013683d5b2404cab6577d468364fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 207
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df27d2b035d983f42bbd4dcaf9ca1a79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 208
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37313a3c6c7c952438099e8ff1dc5f4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 209
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e46ae6532ad39d44a6d2d9a5ce404f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 210
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5de4b34fe5d69419046641ab685bde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 211
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafc9ebaa323e054384ece6c7b326ccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 212
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b25d59516111ac458895cf2dd339bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 213
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce9ec474c27ed34b9d99ddd18bead2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 214
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b111c99dedd18c4eb271e05e0d7603a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 215
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2560
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433625d1670b9294f8e207e061023840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bae2cea50c8ee4e9b50c38f6088e33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 217
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27c56f877bfd3541858dcbb296304e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 218
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66859c1f8cd2da84fb5bae3f222018d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 219
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d9b7bf4be3fbf4aa19cef611530366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 220
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afabd4ab1eb41114988cca50c1527a8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 221
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09ae207977428449884e531464775b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 222
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56d910c9c4749544a0cab082e53f584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 223
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e833f919d4b9a4facfa169a196ea2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 224
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75e65d5e0acc3345974bcaa61e5607a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 225
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7500e8de82d657439e83179d0afa22f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 226
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e80290be57f9ca41b2d9abf8bb3c49a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 227
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8b889b86cfb1d4c87151bb2bc16cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 228
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeaf55d4077fcd49aa37a6c4ecd7685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 229
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabab516cef4ce94aac07ca71d4f6c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 230
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8e56f2229b93a4e98701449fd4b0b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 231
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0fa24b54b143a4ea7e9e9c27a77a18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 232
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d7b79ab1333924e8c727aee7b70a10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 233
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2432
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23030bd12eb2ff247a6d7d1bbb13df31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 234
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36e5f1e84033cf4ab2a15db9de6b00a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 235
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4e73e26913e3a43ace661dcb582aa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 236
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d09d7306d5685f4cb4ec166d11cae49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 237
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ce1bbfa4a7d44d9f1ebaca4f9d0bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 238
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b654477388737c4b9e2cb79504bdbd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 239
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9032f82115a0a4a9b1912778a28fdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 240
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e73b66a6fe77a43b4c40644fdf67fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 241
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67571c2fb2e9d764ba64f50071b1d440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 242
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674ce74288ad3df48a4eb18c233e4b73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 243
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb10dd38e84d56478e7755a05d44436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 244
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb9ff483f0cb6f41ab52d0a6dd6cad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 245
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f942cb29afe6f2d40918ae1909d3854b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 246
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c43c8579bf3ac4b97268648d60bddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 247
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc7563217f58564c91dbc8921a7e79c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 248
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c79f750fcc37146a015da1e9fb753f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 249
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df68a77cfcc868e48acb46ee411f8da8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 250
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6132d28ae282e44f832f62e70c4450c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 251
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2304
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2072363a9299cc5499c1b3d496dd740d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4965a03f5d90ffc48bf0eb76455cb26e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 253
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3109577dc412e63479c1b1246a864061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7ada6d280c4fd4e91cf7e1f0df1d41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 255
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68fc39940976b94d896e30a85819fd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 256
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ed2ec980f2bb640a976fab2fea275e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 257
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0032bfae04bea074cab1a805cb24e6ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 258
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eb54e43abc96542a796a49ddc087f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 259
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1919d736a5d4904c9256fea4f7c4059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 260
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ff78feb7ae4564a98be8cc252587d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 261
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e992154d00a48345958c29153d701e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 262
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1730bf61706b6bd4b8de23fbc6a80e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 263
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95e8a617bb656a46ab5a9e3f0a19911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 264
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2063fb22b6f629b48b5417410758bbc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 265
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5798ed7dcf064d41b42dd82a4a17a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 266
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f8b45e4ebaf334488ca9671bea0442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 267
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e32d56618ab38d4cae6a4937586a0f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 268
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60204dbe8befd8b46b18c9e937a6e07a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 269
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2176
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a2bbe51758f4f49b0aede97f35800c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e112cca1af4db41a147dc12c760116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 271
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ca416fde1cf3544848377010d15ba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 272
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57084dc666e990644bddd4aeb7ae4a1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 273
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0e17da44fd79441b164928a3225041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 274
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20e9d0946176114588c82e36ba43edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 275
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aecc74fc70918045b7ea1ddeb433f15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 276
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8712f2af77492244da8f39077c2c3ee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 277
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c43ab4fb90fc7e42a6d4fdffb52171c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 278
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952abdbf3147bae4ab45cdf63701a0fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 279
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2a60d921f19b9448c9ed39d5b1bf92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 280
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dd2f95faa393140985f08816dcc01d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 281
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66f4e88a87b4c24db66b8d1f815b7bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 282
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e0205a6ee2fc74f9e4fe54fa62656b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 283
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99d487ae0ee61040826bd9e0951af0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 284
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b2752d8dc95ce42a1ef14a47f72b0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 285
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2032e07ce77ac9048b2db8e4779fc51e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 286
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a808d1bcc9c01124cb7942235cdc2f09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 287
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2048
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30115ba3a0a9924aa40972a94c91679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e3661cc1826a44d959999241233c23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 289
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68828c16ca8a5754e907014f5035f75a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 290
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc73085efbe8ba84db89ac08d59e83df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 291
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d2f9d27341127429e7d5c25963da7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 292
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebc313a525148c46a2461728762aded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 293
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf566043e8654d46b93039b4a8c498c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 294
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2fa569fe1a0424a9ca2cf7268d0bc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 295
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd673cfbc4df944fa3bb42142b95f08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 296
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b2609c92ca96641b9cdd2ef9f0ae89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 297
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76272704a3d67cc4f9c1c6be0876652f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 298
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb1cf85f809df84cb305681214a0f7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 299
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4f78a77935a084eae41319fc627c33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 300
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b8ea960afd316408a53814693d54ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 301
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae030df42562a04ea1686c788734d91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 302
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed6bef328375040b08bb651bdc5e20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 303
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d01ff763376cd4daf3cb0f2ec055af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 304
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc6b88244aaa314d8231cb6f241025e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 305
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1920
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f7bb1a489ded14f97ad427b216a40f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 306
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca59f2c28027e3944ab7c8d99edc3b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 307
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd86fdc1de8733447bf4060419088edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 308
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa14090a46754842b3bc688d774dbba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 309
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbba09a1a0c6a60448dc41e32ed915b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 310
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d6b201293456749b63435b7bd88ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 311
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ec349b519111428a6fb65b3fc1f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 312
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c486ac7657dd1c6458cc7b8b74666394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 313
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e7aba6b1c08764b8538aadf8202009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 314
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7334cc36765ef914fa0fd3b3471acb13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goblin Lug 315
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1792
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd9c3965e79b1f4d97c887875d9a722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c73325584268ba429743d0da5112aa8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
