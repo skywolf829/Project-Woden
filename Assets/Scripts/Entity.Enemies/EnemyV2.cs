@@ -34,6 +34,8 @@ public abstract class EnemyV2 : MonoBehaviour
     public BoxCollider2D damageBox;
     public GameObject HealthBar;
 
+    protected Vector3 lastCollisionPosition;
+
     protected virtual void Start()
     {
         facingRight = true;
@@ -81,6 +83,10 @@ public abstract class EnemyV2 : MonoBehaviour
     public void hitBy(string t)
     {
         lastTypeHitBy = t;
+    }
+    public void damageCollision(Vector3 v)
+    {
+        lastCollisionPosition = v;
     }
     public virtual void applyDamage(int d)
     {

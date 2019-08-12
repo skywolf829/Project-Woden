@@ -5,7 +5,6 @@ using UnityEngine;
 public class GoblinLug : EnemyV2
 {
 
-    List<Coroutine> currentCoroutines = new List<Coroutine>();
     bool inNonIdleState = false;
     bool idleAnim, step, walking, slashing, duckAttacking, stomping, doubleSlashing, slashDucking;
     float moveSpeed;
@@ -106,7 +105,6 @@ public class GoblinLug : EnemyV2
                         c = StartCoroutine(StompState());
                     }
                 }
-                currentCoroutines.Add(c);
                 inNonIdleState = true;
             }
             else if (!inNonIdleState && !death)

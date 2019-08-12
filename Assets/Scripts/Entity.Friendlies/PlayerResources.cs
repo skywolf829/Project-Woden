@@ -33,6 +33,8 @@ public class PlayerResources : MonoBehaviour
 
         healthBar = Instantiate(HealthBar);
         manaBar = Instantiate(ManaBar);
+        healthBar.transform.SetParent(transform);
+        manaBar.transform.SetParent(transform);
     }
 
     public void hitBy(string t)

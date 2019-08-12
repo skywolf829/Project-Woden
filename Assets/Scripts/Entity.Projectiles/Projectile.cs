@@ -88,6 +88,7 @@ public class Projectile : MonoBehaviour {
 			if(c.gameObject.tag == "Enemy" || c.gameObject.tag == "Boss" ){
 				c.BroadcastMessage("hitBy", type);
 				c.BroadcastMessage("applyDamage", damage);
+                c.BroadcastMessage("damageCollisionPosition", transform.position);
 			}
 			Destroy (gameObject, dissipateSpeed);
 		}

@@ -7,7 +7,6 @@ public class GoblinShaman : EnemyV2
    
     
     public GameObject FlameBurst, LightningBall, LightningAttack;
-    List<Coroutine> currentCoroutines = new List<Coroutine>();
     bool inNonIdleState = false;
 
     bool flamePunching, lightningAttacking, lightningPunching, staffRaiseFlaming, staffRaiseLightning, walking;
@@ -106,7 +105,6 @@ public class GoblinShaman : EnemyV2
                         c = StartCoroutine(LightningPunchState());
                     }
                 }
-                currentCoroutines.Add(c);
                 inNonIdleState = true;
             }
             yield return null;
