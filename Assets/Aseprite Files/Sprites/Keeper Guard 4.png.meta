@@ -1,0 +1,7026 @@
+fileFormatVersion: 2
+guid: a24617482234379469e1e7b13bb802a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 409496610489023517
+    second: Keeper Guard 4 0
+  - first:
+      213: -1698280679835773122
+    second: Keeper Guard 4 1
+  - first:
+      213: -8945545276415407958
+    second: Keeper Guard 4 2
+  - first:
+      213: 9013284909556892250
+    second: Keeper Guard 4 3
+  - first:
+      213: 8202780765659502451
+    second: Keeper Guard 4 4
+  - first:
+      213: -3092090566445392500
+    second: Keeper Guard 4 5
+  - first:
+      213: 5517010999596001765
+    second: Keeper Guard 4 6
+  - first:
+      213: 7045001464985903558
+    second: Keeper Guard 4 7
+  - first:
+      213: 6413383770197935009
+    second: Keeper Guard 4 8
+  - first:
+      213: -8377816516075628479
+    second: Keeper Guard 4 9
+  - first:
+      213: 4009901857864516409
+    second: Keeper Guard 4 10
+  - first:
+      213: 7701714280550287282
+    second: Keeper Guard 4 11
+  - first:
+      213: 6432726329129176721
+    second: Keeper Guard 4 12
+  - first:
+      213: 392168115175881664
+    second: Keeper Guard 4 13
+  - first:
+      213: 2320544005142226338
+    second: Keeper Guard 4 14
+  - first:
+      213: 6494183927086440506
+    second: Keeper Guard 4 15
+  - first:
+      213: 1961107317037762156
+    second: Keeper Guard 4 16
+  - first:
+      213: 8409083317637704092
+    second: Keeper Guard 4 17
+  - first:
+      213: -22380288399257767
+    second: Keeper Guard 4 18
+  - first:
+      213: -480684270213601441
+    second: Keeper Guard 4 19
+  - first:
+      213: 1033119364368111485
+    second: Keeper Guard 4 20
+  - first:
+      213: -6371121515947918849
+    second: Keeper Guard 4 21
+  - first:
+      213: -2173924939872655508
+    second: Keeper Guard 4 22
+  - first:
+      213: -7043311527620430288
+    second: Keeper Guard 4 23
+  - first:
+      213: -8745103563779853255
+    second: Keeper Guard 4 24
+  - first:
+      213: -1735303644756011239
+    second: Keeper Guard 4 25
+  - first:
+      213: -7490719681760080425
+    second: Keeper Guard 4 26
+  - first:
+      213: 4461123210379749017
+    second: Keeper Guard 4 27
+  - first:
+      213: 6896851114719024238
+    second: Keeper Guard 4 28
+  - first:
+      213: -6672916244517554590
+    second: Keeper Guard 4 29
+  - first:
+      213: -8588898005312609779
+    second: Keeper Guard 4 30
+  - first:
+      213: -9158342406319480958
+    second: Keeper Guard 4 31
+  - first:
+      213: 1140420627981795400
+    second: Keeper Guard 4 32
+  - first:
+      213: 5786660271536818522
+    second: Keeper Guard 4 33
+  - first:
+      213: -5655781726519300894
+    second: Keeper Guard 4 34
+  - first:
+      213: 2957417076783454639
+    second: Keeper Guard 4 35
+  - first:
+      213: 6361054248302628928
+    second: Keeper Guard 4 36
+  - first:
+      213: 6568305232803831450
+    second: Keeper Guard 4 37
+  - first:
+      213: -4070816457853062221
+    second: Keeper Guard 4 38
+  - first:
+      213: 3752862644585467232
+    second: Keeper Guard 4 39
+  - first:
+      213: 4515037503549124047
+    second: Keeper Guard 4 40
+  - first:
+      213: -3253479557767227520
+    second: Keeper Guard 4 41
+  - first:
+      213: -7332159484805942306
+    second: Keeper Guard 4 42
+  - first:
+      213: 1804762274910216355
+    second: Keeper Guard 4 43
+  - first:
+      213: -210148400843353469
+    second: Keeper Guard 4 44
+  - first:
+      213: -4857419451719716161
+    second: Keeper Guard 4 45
+  - first:
+      213: 1006846194073439803
+    second: Keeper Guard 4 46
+  - first:
+      213: 980291441533003747
+    second: Keeper Guard 4 47
+  - first:
+      213: -1965962169562501887
+    second: Keeper Guard 4 48
+  - first:
+      213: 5952569591383113932
+    second: Keeper Guard 4 49
+  - first:
+      213: -4449764889992741810
+    second: Keeper Guard 4 50
+  - first:
+      213: -6557916759226268586
+    second: Keeper Guard 4 51
+  - first:
+      213: 8393897325495522871
+    second: Keeper Guard 4 52
+  - first:
+      213: 1782177571124310825
+    second: Keeper Guard 4 53
+  - first:
+      213: 4157576052250657316
+    second: Keeper Guard 4 54
+  - first:
+      213: -12662805922759067
+    second: Keeper Guard 4 55
+  - first:
+      213: 6511175157277505473
+    second: Keeper Guard 4 56
+  - first:
+      213: -7344946345770536259
+    second: Keeper Guard 4 57
+  - first:
+      213: -6055203361102434883
+    second: Keeper Guard 4 58
+  - first:
+      213: 768941614622083353
+    second: Keeper Guard 4 59
+  - first:
+      213: -6557085857353759434
+    second: Keeper Guard 4 60
+  - first:
+      213: -1185148837677876354
+    second: Keeper Guard 4 61
+  - first:
+      213: 6863508616909583816
+    second: Keeper Guard 4 62
+  - first:
+      213: 4384306710593928840
+    second: Keeper Guard 4 63
+  - first:
+      213: 8865107369664056276
+    second: Keeper Guard 4 64
+  - first:
+      213: -6449926373497970619
+    second: Keeper Guard 4 65
+  - first:
+      213: 7305099408332589897
+    second: Keeper Guard 4 66
+  - first:
+      213: -2583227643472627254
+    second: Keeper Guard 4 67
+  - first:
+      213: 7526838504799827978
+    second: Keeper Guard 4 68
+  - first:
+      213: 4104958366286801959
+    second: Keeper Guard 4 69
+  - first:
+      213: -212278356534687614
+    second: Keeper Guard 4 70
+  - first:
+      213: -5233423126533213290
+    second: Keeper Guard 4 71
+  - first:
+      213: 2054766099741427673
+    second: Keeper Guard 4 72
+  - first:
+      213: 5367981101823557976
+    second: Keeper Guard 4 73
+  - first:
+      213: -975820404504555119
+    second: Keeper Guard 4 74
+  - first:
+      213: 2686590435816305255
+    second: Keeper Guard 4 75
+  - first:
+      213: 7962128823630090278
+    second: Keeper Guard 4 76
+  - first:
+      213: -6857720376862598314
+    second: Keeper Guard 4 77
+  - first:
+      213: 5033324079598274289
+    second: Keeper Guard 4 78
+  - first:
+      213: 839926225110060320
+    second: Keeper Guard 4 79
+  - first:
+      213: -1511687497154350492
+    second: Keeper Guard 4 80
+  - first:
+      213: 1042960804951419776
+    second: Keeper Guard 4 81
+  - first:
+      213: -6553723478461043506
+    second: Keeper Guard 4 82
+  - first:
+      213: 6826147986008745212
+    second: Keeper Guard 4 83
+  - first:
+      213: 8025911948448171129
+    second: Keeper Guard 4 84
+  - first:
+      213: 2725512542201249270
+    second: Keeper Guard 4 85
+  - first:
+      213: -7964694232203008702
+    second: Keeper Guard 4 86
+  - first:
+      213: 6161328368115289314
+    second: Keeper Guard 4 87
+  - first:
+      213: -2318560318133176128
+    second: Keeper Guard 4 88
+  - first:
+      213: -4395041617185683152
+    second: Keeper Guard 4 89
+  - first:
+      213: 6375315167482538356
+    second: Keeper Guard 4 90
+  - first:
+      213: 5273562982524935106
+    second: Keeper Guard 4 91
+  - first:
+      213: 8558716358621015285
+    second: Keeper Guard 4 92
+  - first:
+      213: -4551256451792314709
+    second: Keeper Guard 4 93
+  - first:
+      213: 4622118216192007722
+    second: Keeper Guard 4 94
+  - first:
+      213: -1284442274648232273
+    second: Keeper Guard 4 95
+  - first:
+      213: 4889581577015844740
+    second: Keeper Guard 4 96
+  - first:
+      213: -78599334256592441
+    second: Keeper Guard 4 97
+  - first:
+      213: 3390333393135330885
+    second: Keeper Guard 4 98
+  - first:
+      213: -4015125655454215796
+    second: Keeper Guard 4 99
+  - first:
+      213: -7677946334713655336
+    second: Keeper Guard 4 100
+  - first:
+      213: -8007715767606595449
+    second: Keeper Guard 4 101
+  - first:
+      213: -5430588741445485175
+    second: Keeper Guard 4 102
+  - first:
+      213: 3395750298227091540
+    second: Keeper Guard 4 103
+  - first:
+      213: 8390907469839010882
+    second: Keeper Guard 4 104
+  - first:
+      213: 6329809807510158339
+    second: Keeper Guard 4 105
+  - first:
+      213: 3063406518628936320
+    second: Keeper Guard 4 106
+  - first:
+      213: -8285480768575683698
+    second: Keeper Guard 4 107
+  - first:
+      213: -3145809754053569482
+    second: Keeper Guard 4 108
+  - first:
+      213: -4957154773282728833
+    second: Keeper Guard 4 109
+  - first:
+      213: 5202362769718407738
+    second: Keeper Guard 4 110
+  - first:
+      213: -1861419751261151842
+    second: Keeper Guard 4 111
+  - first:
+      213: 5891815096115037368
+    second: Keeper Guard 4 112
+  - first:
+      213: -2760439833783078554
+    second: Keeper Guard 4 113
+  - first:
+      213: -8818867616432198467
+    second: Keeper Guard 4 114
+  - first:
+      213: 3656557976911576437
+    second: Keeper Guard 4 115
+  - first:
+      213: 4271985605559041469
+    second: Keeper Guard 4 116
+  - first:
+      213: 2259653879128052613
+    second: Keeper Guard 4 117
+  - first:
+      213: 7246063435660602304
+    second: Keeper Guard 4 118
+  - first:
+      213: 8772452065794500424
+    second: Keeper Guard 4 119
+  - first:
+      213: 6809303013463556544
+    second: Keeper Guard 4 120
+  - first:
+      213: 4855120859467359955
+    second: Keeper Guard 4 121
+  - first:
+      213: -3292051358236949561
+    second: Keeper Guard 4 122
+  - first:
+      213: -2630936352188259824
+    second: Keeper Guard 4 123
+  - first:
+      213: -3785378579004965244
+    second: Keeper Guard 4 124
+  - first:
+      213: 3359152163319864831
+    second: Keeper Guard 4 125
+  - first:
+      213: 3542602629216713238
+    second: Keeper Guard 4 126
+  - first:
+      213: 4132710809760116459
+    second: Keeper Guard 4 127
+  - first:
+      213: -6134070352810920691
+    second: Keeper Guard 4 128
+  - first:
+      213: -8325241710773689969
+    second: Keeper Guard 4 129
+  - first:
+      213: -9190483873833733869
+    second: Keeper Guard 4 130
+  - first:
+      213: 7295683550473819967
+    second: Keeper Guard 4 131
+  - first:
+      213: -7339953763416029157
+    second: Keeper Guard 4 132
+  - first:
+      213: 6042098953642651528
+    second: Keeper Guard 4 133
+  - first:
+      213: -1943515728145174452
+    second: Keeper Guard 4 134
+  - first:
+      213: -8237716864463856988
+    second: Keeper Guard 4 135
+  - first:
+      213: -7631997779867108296
+    second: Keeper Guard 4 136
+  - first:
+      213: -8557234465717450300
+    second: Keeper Guard 4 137
+  - first:
+      213: 1875374548107787026
+    second: Keeper Guard 4 138
+  - first:
+      213: -8309632244018868844
+    second: Keeper Guard 4 139
+  - first:
+      213: -1427177252293544914
+    second: Keeper Guard 4 140
+  - first:
+      213: -3673861438737124118
+    second: Keeper Guard 4 141
+  - first:
+      213: -1260597925009817301
+    second: Keeper Guard 4 142
+  - first:
+      213: -4779562050462086662
+    second: Keeper Guard 4 143
+  - first:
+      213: 8334562321478606338
+    second: Keeper Guard 4 144
+  - first:
+      213: 7638171701112732203
+    second: Keeper Guard 4 145
+  - first:
+      213: 8919433442132466644
+    second: Keeper Guard 4 146
+  - first:
+      213: -1519718337527388055
+    second: Keeper Guard 4 147
+  - first:
+      213: -1910780932517834958
+    second: Keeper Guard 4 148
+  - first:
+      213: -273903383006913375
+    second: Keeper Guard 4 149
+  - first:
+      213: 7662848081075988538
+    second: Keeper Guard 4 150
+  - first:
+      213: 7202364303207631776
+    second: Keeper Guard 4 151
+  - first:
+      213: -6421732751416122008
+    second: Keeper Guard 4 152
+  - first:
+      213: -7396345999983924624
+    second: Keeper Guard 4 153
+  - first:
+      213: -2140029248386137875
+    second: Keeper Guard 4 154
+  - first:
+      213: -1296714242543621437
+    second: Keeper Guard 4 155
+  - first:
+      213: -6317953496207758852
+    second: Keeper Guard 4 156
+  - first:
+      213: -7281591235329590579
+    second: Keeper Guard 4 157
+  - first:
+      213: 5627434803558152916
+    second: Keeper Guard 4 158
+  - first:
+      213: 2262929035793337403
+    second: Keeper Guard 4 159
+  - first:
+      213: 4163503801322250785
+    second: Keeper Guard 4 160
+  - first:
+      213: -1731037470933072816
+    second: Keeper Guard 4 161
+  - first:
+      213: 8661126616817073851
+    second: Keeper Guard 4 162
+  - first:
+      213: -1795509253121112948
+    second: Keeper Guard 4 163
+  - first:
+      213: -3826711028711858992
+    second: Keeper Guard 4 164
+  - first:
+      213: 3002787627218488125
+    second: Keeper Guard 4 165
+  - first:
+      213: -3934522536935169084
+    second: Keeper Guard 4 166
+  - first:
+      213: -4596381628589357066
+    second: Keeper Guard 4 167
+  - first:
+      213: 3073550031801901669
+    second: Keeper Guard 4 168
+  - first:
+      213: -8734541873747809213
+    second: Keeper Guard 4 169
+  - first:
+      213: -2076637388591409110
+    second: Keeper Guard 4 170
+  - first:
+      213: -1279129162486275057
+    second: Keeper Guard 4 171
+  - first:
+      213: 2727603091434069608
+    second: Keeper Guard 4 172
+  - first:
+      213: -5546399586714175215
+    second: Keeper Guard 4 173
+  - first:
+      213: -8853721239241490434
+    second: Keeper Guard 4 174
+  - first:
+      213: -4782448523328054322
+    second: Keeper Guard 4 175
+  - first:
+      213: 7983452579721837632
+    second: Keeper Guard 4 176
+  - first:
+      213: 2366724533927950419
+    second: Keeper Guard 4 177
+  - first:
+      213: 4132048265182376472
+    second: Keeper Guard 4 178
+  - first:
+      213: 8042883350388726882
+    second: Keeper Guard 4 179
+  - first:
+      213: -5568822223817137546
+    second: Keeper Guard 4 180
+  - first:
+      213: -6858090448267388882
+    second: Keeper Guard 4 181
+  - first:
+      213: -5483672682707610932
+    second: Keeper Guard 4 182
+  - first:
+      213: -2530937098280992820
+    second: Keeper Guard 4 183
+  - first:
+      213: 3565273406498168755
+    second: Keeper Guard 4 184
+  - first:
+      213: 1900085495835544163
+    second: Keeper Guard 4 185
+  - first:
+      213: 1228581927467956385
+    second: Keeper Guard 4 186
+  - first:
+      213: 4743371605866664126
+    second: Keeper Guard 4 187
+  - first:
+      213: -8977277087197406005
+    second: Keeper Guard 4 188
+  - first:
+      213: -2973638409492503198
+    second: Keeper Guard 4 189
+  - first:
+      213: 1870751785996745079
+    second: Keeper Guard 4 190
+  - first:
+      213: 5925258901157171800
+    second: Keeper Guard 4 191
+  - first:
+      213: 2081512777759664889
+    second: Keeper Guard 4 192
+  - first:
+      213: 2890495056702082017
+    second: Keeper Guard 4 193
+  - first:
+      213: 5489456096630640618
+    second: Keeper Guard 4 194
+  - first:
+      213: -9196340236996734924
+    second: Keeper Guard 4 195
+  - first:
+      213: 1497806556067224230
+    second: Keeper Guard 4 196
+  - first:
+      213: 3410830441700606559
+    second: Keeper Guard 4 197
+  - first:
+      213: -8281560929405748778
+    second: Keeper Guard 4 198
+  - first:
+      213: 6088935158741755016
+    second: Keeper Guard 4 199
+  - first:
+      213: -176588124583813797
+    second: Keeper Guard 4 200
+  - first:
+      213: 1607455679928789049
+    second: Keeper Guard 4 201
+  - first:
+      213: 5915351400824540870
+    second: Keeper Guard 4 202
+  - first:
+      213: -8222150835108837472
+    second: Keeper Guard 4 203
+  - first:
+      213: -4495766908707942243
+    second: Keeper Guard 4 204
+  - first:
+      213: -25345976839669740
+    second: Keeper Guard 4 205
+  - first:
+      213: -1711605875371448253
+    second: Keeper Guard 4 206
+  - first:
+      213: -3913481050258751334
+    second: Keeper Guard 4 207
+  - first:
+      213: -6633777077238411347
+    second: Keeper Guard 4 208
+  - first:
+      213: -2280861787673787499
+    second: Keeper Guard 4 209
+  - first:
+      213: -6492794424578698639
+    second: Keeper Guard 4 210
+  - first:
+      213: -6284924988478764170
+    second: Keeper Guard 4 211
+  - first:
+      213: -4762192769984969850
+    second: Keeper Guard 4 212
+  - first:
+      213: 1411370791526637264
+    second: Keeper Guard 4 213
+  - first:
+      213: -2334874938697880068
+    second: Keeper Guard 4 214
+  - first:
+      213: -3065724426441102422
+    second: Keeper Guard 4 215
+  - first:
+      213: -8791215971560577277
+    second: Keeper Guard 4 216
+  - first:
+      213: 9220041276890408156
+    second: Keeper Guard 4 217
+  - first:
+      213: 1081910072565874694
+    second: Keeper Guard 4 218
+  - first:
+      213: 4817034667930449659
+    second: Keeper Guard 4 219
+  - first:
+      213: -3673536785287773873
+    second: Keeper Guard 4 220
+  - first:
+      213: -2896820804254895410
+    second: Keeper Guard 4 221
+  - first:
+      213: 7972505606788742342
+    second: Keeper Guard 4 222
+  - first:
+      213: 5836334162438240371
+    second: Keeper Guard 4 223
+  - first:
+      213: 7874555918299877763
+    second: Keeper Guard 4 224
+  - first:
+      213: -8236005578043099660
+    second: Keeper Guard 4 225
+  - first:
+      213: 7432966180789427486
+    second: Keeper Guard 4 226
+  - first:
+      213: -7825232174105825414
+    second: Keeper Guard 4 227
+  - first:
+      213: -1288370014451998349
+    second: Keeper Guard 4 228
+  - first:
+      213: -4912572602401758283
+    second: Keeper Guard 4 229
+  - first:
+      213: -1814162109324194750
+    second: Keeper Guard 4 230
+  - first:
+      213: -1465029579674162505
+    second: Keeper Guard 4 231
+  - first:
+      213: -1172969458585572645
+    second: Keeper Guard 4 232
+  - first:
+      213: 6376040770117021761
+    second: Keeper Guard 4 233
+  - first:
+      213: 1805564489753900317
+    second: Keeper Guard 4 234
+  - first:
+      213: -2129811686859577419
+    second: Keeper Guard 4 235
+  - first:
+      213: -2463916964422310016
+    second: Keeper Guard 4 236
+  - first:
+      213: 2218438175086808596
+    second: Keeper Guard 4 237
+  - first:
+      213: -858378735766900254
+    second: Keeper Guard 4 238
+  - first:
+      213: -7801146541631227277
+    second: Keeper Guard 4 239
+  - first:
+      213: -4051378365499199653
+    second: Keeper Guard 4 240
+  - first:
+      213: 5004094796511422131
+    second: Keeper Guard 4 241
+  - first:
+      213: -1780820401237313800
+    second: Keeper Guard 4 242
+  - first:
+      213: -460466756141990481
+    second: Keeper Guard 4 243
+  - first:
+      213: 165172680677014126
+    second: Keeper Guard 4 244
+  - first:
+      213: 7772659101457952109
+    second: Keeper Guard 4 245
+  - first:
+      213: -5216537793219688897
+    second: Keeper Guard 4 246
+  - first:
+      213: 8907434432926991106
+    second: Keeper Guard 4 247
+  - first:
+      213: 242830705802475202
+    second: Keeper Guard 4 248
+  - first:
+      213: -4858979355579131553
+    second: Keeper Guard 4 249
+  - first:
+      213: -9086037829790314679
+    second: Keeper Guard 4 250
+  - first:
+      213: 1541284278057790318
+    second: Keeper Guard 4 251
+  - first:
+      213: -8213427339032329625
+    second: Keeper Guard 4 252
+  - first:
+      213: -2955979287431597401
+    second: Keeper Guard 4 253
+  - first:
+      213: 111384187116242165
+    second: Keeper Guard 4 254
+  - first:
+      213: -2899813601500655682
+    second: Keeper Guard 4 255
+  - first:
+      213: 2072536303192669404
+    second: Keeper Guard 4 256
+  - first:
+      213: 4832222598755425969
+    second: Keeper Guard 4 257
+  - first:
+      213: -7977170831018712795
+    second: Keeper Guard 4 258
+  - first:
+      213: 5707578758185359805
+    second: Keeper Guard 4 259
+  - first:
+      213: 6720995247555068079
+    second: Keeper Guard 4 260
+  - first:
+      213: -6854762545128359141
+    second: Keeper Guard 4 261
+  - first:
+      213: 4945539540947623469
+    second: Keeper Guard 4 262
+  - first:
+      213: -7151413179915617277
+    second: Keeper Guard 4 263
+  - first:
+      213: -509326715748591524
+    second: Keeper Guard 4 264
+  - first:
+      213: 3874868624059735400
+    second: Keeper Guard 4 265
+  - first:
+      213: 7395331650109249287
+    second: Keeper Guard 4 266
+  - first:
+      213: 5201873795818485965
+    second: Keeper Guard 4 267
+  - first:
+      213: 3841153185961946036
+    second: Keeper Guard 4 268
+  - first:
+      213: -266054343457847291
+    second: Keeper Guard 4 269
+  - first:
+      213: -8576915157110469892
+    second: Keeper Guard 4 270
+  - first:
+      213: 551254932211756189
+    second: Keeper Guard 4 271
+  - first:
+      213: 6962194454636063791
+    second: Keeper Guard 4 272
+  - first:
+      213: 6881418209923166920
+    second: Keeper Guard 4 273
+  - first:
+      213: -5043759070411353091
+    second: Keeper Guard 4 274
+  - first:
+      213: 1564238150588508923
+    second: Keeper Guard 4 275
+  - first:
+      213: -9045829980923035339
+    second: Keeper Guard 4 276
+  - first:
+      213: 905539303261846131
+    second: Keeper Guard 4 277
+  - first:
+      213: 3068163029191121655
+    second: Keeper Guard 4 278
+  - first:
+      213: -2811233399011470062
+    second: Keeper Guard 4 279
+  - first:
+      213: -181459918498091375
+    second: Keeper Guard 4 280
+  - first:
+      213: 6370863117762052619
+    second: Keeper Guard 4 281
+  - first:
+      213: -2616437216136818339
+    second: Keeper Guard 4 282
+  - first:
+      213: 3374127277045997275
+    second: Keeper Guard 4 283
+  - first:
+      213: -7509389819866729378
+    second: Keeper Guard 4 284
+  - first:
+      213: 1695644677393541138
+    second: Keeper Guard 4 285
+  - first:
+      213: -8349302301654692945
+    second: Keeper Guard 4 286
+  - first:
+      213: -4834250714550375177
+    second: Keeper Guard 4 287
+  - first:
+      213: 5572716920419443691
+    second: Keeper Guard 4 288
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 3136
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Keeper Guard 4 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a039e6ca677144eb3fd2ac06a83f48
+      internalID: 409496610489023517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b01d34d8470b0429ca274b8a7699fa
+      internalID: -1698280679835773122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a9c2807479b3c49a38718e5bf29e31
+      internalID: -8945545276415407958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c50e58638f2cc645bb0c748a7ea44d4
+      internalID: 9013284909556892250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb522a39befb0140b3cc3e484958af9
+      internalID: 8202780765659502451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463df421fb44ce843973d4993fc69d9f
+      internalID: -3092090566445392500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe02587773b8c1b4bb822d1dc94320c1
+      internalID: 5517010999596001765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49070c3dae98524f9833b91a43942af
+      internalID: 7045001464985903558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a288c80a9b144495f6a74a6a7a72f
+      internalID: 6413383770197935009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3029ee3abf9ae644a8347432f7b6b05
+      internalID: -8377816516075628479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 10
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b103834a0fe7cff4cb0fe311532fe675
+      internalID: 4009901857864516409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2676990d036122f478aa79ee097538c0
+      internalID: 7701714280550287282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 12
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7007103076c90ab498034dd5f519357d
+      internalID: 6432726329129176721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 13
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc921b9da4fa39d47aed76ac743fb6b5
+      internalID: 392168115175881664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354fe0ca90862bf46b444a30bbe05bf3
+      internalID: 2320544005142226338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 15
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d3dc38b280cbc45b817605df6e2224
+      internalID: 6494183927086440506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911b0095b65e2984c85a881086347f6e
+      internalID: 1961107317037762156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e293d2aa6b21eb4fb466d8a0a36d780
+      internalID: 8409083317637704092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2c890bca427414691ba75db9912248
+      internalID: -22380288399257767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ade99cfe18c77e439af457049b52bd6
+      internalID: -480684270213601441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31acd08b13153894b9ef0bf696f3f900
+      internalID: 1033119364368111485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20a0ba2415a0cf42a2462923a2f50aa
+      internalID: -6371121515947918849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178cd5da6c916fc44ab11dbddb6b217e
+      internalID: -2173924939872655508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028300992b713a6418e1011cba2941d3
+      internalID: -7043311527620430288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 24
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183c19c81f26bfb4e8e970de431f9dd0
+      internalID: -8745103563779853255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 25
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da77baf15c5ec9d46a866b3cdfbcc1bb
+      internalID: -1735303644756011239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 26
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090bdb0c358c68743874a31bb0a47127
+      internalID: -7490719681760080425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 27
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579a4976134e59748944e41d9274cd69
+      internalID: 4461123210379749017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 28
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15251d9c7688ce8439ecbcd1aa694429
+      internalID: 6896851114719024238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b017aa794d5fc4f8c9ced5d610a0e7
+      internalID: -6672916244517554590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb45d237293634469743b1f62c60e40
+      internalID: -8588898005312609779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a264b62e8017ca4782dd81263285afb
+      internalID: -9158342406319480958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b33114a027a81b499feaf7a7c762f24
+      internalID: 1140420627981795400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 33
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e62c8088b48e84d98fee90ea818251
+      internalID: 5786660271536818522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 34
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f757a5ccba8b42e44a864293e0344eff
+      internalID: -5655781726519300894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 35
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc123a19440d11488df65c65baa0731
+      internalID: 2957417076783454639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 36
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea144f7e9cfa1c349b39b9c152fab09a
+      internalID: 6361054248302628928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 37
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198bd2381ed06a14a9ca31aa4d3cbaaa
+      internalID: 6568305232803831450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 38
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09049daef0343d49b03e2bbd657bb39
+      internalID: -4070816457853062221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 39
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb0d3e26269d704c9ae958ee3238567
+      internalID: 3752862644585467232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 40
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b403eec38040844bbcb99d9c02e95fa
+      internalID: 4515037503549124047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 41
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8794533a4177fe408c38c3246f5f7ad
+      internalID: -3253479557767227520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 42
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fdb1445179a98439284916b98f9293
+      internalID: -7332159484805942306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 43
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448bd82c2660a934485b7039bb8ff384
+      internalID: 1804762274910216355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c32dd245eb21714ab26d48da3018513
+      internalID: -210148400843353469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 45
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1b038eb8e4b6645b025b85a0ddcbe4
+      internalID: -4857419451719716161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 46
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b02e5ca85ca00479c751684cd687ad
+      internalID: 1006846194073439803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4134f166c1f354e44a1c8118ae9ece83
+      internalID: 980291441533003747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56ab0adbecd0d54388bad1dd5168c14
+      internalID: -1965962169562501887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa88f5f4d91a6d468cdef556c74ddce
+      internalID: 5952569591383113932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 50
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29788291ff0ae7b40b1322379ae83c9c
+      internalID: -4449764889992741810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 51
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4cd0a10d313804bb1e31d5af6bb2a3
+      internalID: -6557916759226268586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a598fd39384e0d647b0798e09bc7b953
+      internalID: 8393897325495522871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 53
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c900a155d8ab97479a173d5d205181a
+      internalID: 1782177571124310825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 54
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92d36f2ddda3504f8ede155b097b6a5
+      internalID: 4157576052250657316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 55
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e91bf5cd35dcad4088f3f8029159694
+      internalID: -12662805922759067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 56
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1152
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc1a7ce7954fcb4e986c7326728d4dd
+      internalID: 6511175157277505473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 57
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eb402490399274e8cb2d0d0796fc68
+      internalID: -7344946345770536259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 58
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bc15772defe744cb640cdc9419d076
+      internalID: -6055203361102434883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 59
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b671752b108856b4aa6fac42102305e6
+      internalID: 768941614622083353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 60
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1056
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a780b130db9dd4f4e8abb11b8034cd25
+      internalID: -6557085857353759434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 61
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a787e10341cc70e449fc0e6186ac27b0
+      internalID: -1185148837677876354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 62
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d91263bfc942ce4fa188b3264aba4b1
+      internalID: 6863508616909583816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 63
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c49c6399b2292b4d9dba651a99c47fc
+      internalID: 4384306710593928840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 64
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0068ff7cd20099541994deaaeb698f8d
+      internalID: 8865107369664056276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 65
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d9e78ec5911004b803e56b8c919cbd
+      internalID: -6449926373497970619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 66
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1612668908a33de4faad8919394c55ff
+      internalID: 7305099408332589897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 67
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 960
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fbdea0f0261804485cdcb35a11612d
+      internalID: -2583227643472627254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fef6baf449103489977513859decec
+      internalID: 7526838504799827978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f456ce795884640929083228678259
+      internalID: 4104958366286801959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5564e3d5c680ed469514260a86ef15f
+      internalID: -212278356534687614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d057785e1b0a914aa274d99df6c2cf0
+      internalID: -5233423126533213290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 72
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029d7edd2ee05404197ad0a878d75025
+      internalID: 2054766099741427673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 73
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1038bd23d04af54b92b02886d7a5b16
+      internalID: 5367981101823557976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 74
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc149473f50ad6a438ce6b9d2e2a4bcd
+      internalID: -975820404504555119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 75
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de36abb377495e849bd5ae22375f62a3
+      internalID: 2686590435816305255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 76
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642eaa42e92602e4baaee73e3ed47de8
+      internalID: 7962128823630090278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 77
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d588829b19a6b44fac319c9ba3885fd
+      internalID: -6857720376862598314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 78
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e860ead2f1bf8684b8a9c776177d60e9
+      internalID: 5033324079598274289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 79
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f0472e672b1347b305ad8686beae0
+      internalID: 839926225110060320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 80
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bda5f413cca0ec49a43e38868b2f1b8
+      internalID: -1511687497154350492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 81
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefea455085758a448bdad3e34456ecc
+      internalID: 1042960804951419776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 82
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a0f5b888fdf9142b481a054d858b69
+      internalID: -6553723478461043506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c31d85d7d105da45b4274e4fe6cc71a
+      internalID: 6826147986008745212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cc783595dac514aa024b6712c5d33c
+      internalID: 8025911948448171129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a385a0ae2494448931bb320c0ac54d
+      internalID: 2725512542201249270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 86
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5121b4273f9ce442a16aa7e157a42c9
+      internalID: -7964694232203008702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e39aad2dd834f94faf606bfa7bfb34f
+      internalID: 6161328368115289314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 88
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b28bbbadbc01948b9761b9495c1515
+      internalID: -2318560318133176128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 89
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c6550d042a6cb45bf4519b0df2430c
+      internalID: -4395041617185683152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 90
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d56430ba82a7f438a6322743fd61d0
+      internalID: 6375315167482538356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af598ecae78f0742bcb2d7bf97dcc1a
+      internalID: 5273562982524935106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 92
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b958fefa0f9919646b903fce6b1cb44c
+      internalID: 8558716358621015285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 93
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60892cd055c14c46a67e77b08d5319e
+      internalID: -4551256451792314709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 94
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6750910707993044480591b87679ee3c
+      internalID: 4622118216192007722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 95
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f549f18e29e754db7ee683bcbe2796
+      internalID: -1284442274648232273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 96
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e995a45000f82042bbbc7b3ff8cc854
+      internalID: 4889581577015844740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 97
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 768
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685cca27d03e6b442b88c62c95b124cd
+      internalID: -78599334256592441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104ac155ef90a434daa8f1a9f73560a8
+      internalID: 3390333393135330885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 99
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ec6368b6aca5247aa06aaaa53448d7
+      internalID: -4015125655454215796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dad31d90ce4e044ae91a15eba59bf2
+      internalID: -7677946334713655336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b37ab698f683a04ab9ca97e7f3be352
+      internalID: -8007715767606595449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca72ed8b0241a0e4387a8e244162008e
+      internalID: -5430588741445485175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa7f34711efbda45993a58876b775b6
+      internalID: 3395750298227091540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 104
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d189b3fe00eccb419451b04f16a258b
+      internalID: 8390907469839010882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 105
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e9132e89fe0ae4b9a520fc04d23968
+      internalID: 6329809807510158339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 106
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0adbbc8ddd12c47b720b92170bc654
+      internalID: 3063406518628936320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 107
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8b0b24df53dd44c928ae2ab3fd7eb9
+      internalID: -8285480768575683698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 108
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f93c191140ee02469d7ccab4d569019
+      internalID: -3145809754053569482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 109
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86e8d0d6aa145447b6b1c156665a2a3
+      internalID: -4957154773282728833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 110
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c103b785b67e24797fbee8f48cf679
+      internalID: 5202362769718407738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 111
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81f525ad7f0c1a45ae3e6f6cb174f06
+      internalID: -1861419751261151842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 112
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da08a271d816e547bcd003058684680
+      internalID: 5891815096115037368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 113
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ff3c9c0c5f7cd4aa3be71f75eae2c8
+      internalID: -2760439833783078554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 114
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033502756b1636a49b371b00f2ac3fe5
+      internalID: -8818867616432198467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d269999a1cabd4a80aae015c3c0cb3
+      internalID: 3656557976911576437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d981262586178f48a7160c1911ebb86
+      internalID: 4271985605559041469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 117
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecbf1def1b6ee94485b925e5f344c63
+      internalID: 2259653879128052613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 118
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad9d10846180004a8f930593d53ce09
+      internalID: 7246063435660602304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491bc4248d76d7b4194febd7b98cfb58
+      internalID: 8772452065794500424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1a186c48616db40a42421c6b8f4906
+      internalID: 6809303013463556544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 121
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13034b4410f682341853259de2c299f4
+      internalID: 4855120859467359955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 122
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e17dc7461c77843bab7d8f0cefd7f3
+      internalID: -3292051358236949561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 123
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9643f719d403ccf439a7003ae6d3eb2c
+      internalID: -2630936352188259824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaba668b0a706254398bd5d83ead1f85
+      internalID: -3785378579004965244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2576165bb520e747a82db16369a61bb
+      internalID: 3359152163319864831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4836bcb99d7554885b2a546d174b23
+      internalID: 3542602629216713238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 127
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438538da988919e48a182ad880619de4
+      internalID: 4132710809760116459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 128
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d563f99fd33c82743a1154f76f12294c
+      internalID: -6134070352810920691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 129
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94b630e668594b41a309057eab9b893
+      internalID: -8325241710773689969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 130
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cd601940cff2c40a24ba16d0b49d71
+      internalID: -9190483873833733869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 131
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e55790b8f75b64b9074e9fff286eab
+      internalID: 7295683550473819967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 132
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3ffe3620c591d42b5fcdcddc87a68c
+      internalID: -7339953763416029157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 133
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8fbc817e9476040af34874aab2015e
+      internalID: 6042098953642651528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 134
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08194f76afc5dd749a5272568e59ae4c
+      internalID: -1943515728145174452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 135
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2200ec573d7854ca08e95fd4d40c60
+      internalID: -8237716864463856988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29771209db0052a43937a167b4a066ce
+      internalID: -7631997779867108296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 137
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966bf2f1af311de4bbc47b141457fd4c
+      internalID: -8557234465717450300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 138
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd9a94fdeb49cf4481b6cd62d3e9b6d
+      internalID: 1875374548107787026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 139
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e6a8aac58713c4b819a5a2b944afbe
+      internalID: -8309632244018868844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 140
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18aef4395c7f434aa83012b695248a1
+      internalID: -1427177252293544914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 141
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757a8f3c138e4c746a225780727b1409
+      internalID: -3673861438737124118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e99745c17488b741a8154e2f49ed1bc
+      internalID: -1260597925009817301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12f1fe1d4f229c4ab60790be4b24444
+      internalID: -4779562050462086662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 144
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5e5b8f343df3c4ab8439448e1c59d4
+      internalID: 8334562321478606338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 145
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadbcce32e0870c4bb325caad471ba4d
+      internalID: 7638171701112732203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 146
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb2a661dc029fe49a7dafb3a27f8a27
+      internalID: 8919433442132466644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 147
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6631bf3865d970342800c621ab347845
+      internalID: -1519718337527388055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 148
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061e4d2fc6703454287da95fcdaa8f55
+      internalID: -1910780932517834958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 149
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be909b63f02892646aa2fb5a99611023
+      internalID: -273903383006913375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 150
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2fb4ba8ff14d6478ecab2e254b01d7
+      internalID: 7662848081075988538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 151
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342952f42ed99944988a37307a737c43
+      internalID: 7202364303207631776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 152
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e90be45a669924885aa3ecaa57cd0b
+      internalID: -6421732751416122008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 153
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8483db3ca58e2f42aa65f5ccd0e420b
+      internalID: -7396345999983924624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 154
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd530f28f66a4c488315c57aa8d0cb5
+      internalID: -2140029248386137875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 155
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b034280867221e54ebfb631d045fb61d
+      internalID: -1296714242543621437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 156
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1cfa5b7d5b8cc48bfc1dec4956db91
+      internalID: -6317953496207758852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ffe815fdb16124b9ab6b3f9160f595
+      internalID: -7281591235329590579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 158
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3195fa291495ef4ba463a8e7d455a36
+      internalID: 5627434803558152916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 159
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed59815557f8fac4abd5b2deb22ceb7d
+      internalID: 2262929035793337403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 160
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e14db74878ed746b4f9ef9b23a5f11
+      internalID: 4163503801322250785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 161
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c902e4a96831644bb24825755e51d8
+      internalID: -1731037470933072816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 162
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74ab4573a690e74fb7dee524e62876b
+      internalID: 8661126616817073851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 163
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545a7c5918f43d441afbb3ead2e591b6
+      internalID: -1795509253121112948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 164
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef489e72234721f4981383f387a6fed7
+      internalID: -3826711028711858992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 165
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eef3617908c35e43bd8f23321235839
+      internalID: 3002787627218488125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 166
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6039b7e723a9adc4da9011c20b6ce108
+      internalID: -3934522536935169084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 167
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a213c61921eb342866ab99e0b72d5d
+      internalID: -4596381628589357066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 168
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df57515d8994b0b499fd7a6ea4b8c20f
+      internalID: 3073550031801901669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 169
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d14cf245ce3e745bb82a3d85e54fa8
+      internalID: -8734541873747809213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 170
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634728ea365358b498ccefbd62515259
+      internalID: -2076637388591409110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 171
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 384
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ecf6adfcec0b84ca2adb893f502667
+      internalID: -1279129162486275057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ff464f7b14e1489860c39e0a6134a
+      internalID: 2727603091434069608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 173
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c571dc96be7fa145b028857f0260ac6
+      internalID: -5546399586714175215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ba63dfce89136418ad9c2ed8877e89
+      internalID: -8853721239241490434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 175
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf60d3fb61410d45b3296dda8bc1a0c
+      internalID: -4782448523328054322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 176
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9959582db68944f8373801af53ca32
+      internalID: 7983452579721837632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 177
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ade8394cfb91746b00d83ecb10218a
+      internalID: 2366724533927950419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 178
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93577a7a518bec2488b401ab371c3803
+      internalID: 4132048265182376472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 179
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb1ea07d7698ff44bbfb0f923f824d5
+      internalID: 8042883350388726882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 180
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49214aa821a905541b0689203c1bceea
+      internalID: -5568822223817137546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9176a70017303ac4da9990492bb3a76c
+      internalID: -6858090448267388882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6ad896286e7dd46a625ab0574fc6ff
+      internalID: -5483672682707610932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 183
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2703b5f9ea5b24684304fce5667b21
+      internalID: -2530937098280992820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 184
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a96da5ae7adb84db25fcbba178ea7d
+      internalID: 3565273406498168755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 185
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a441db869f67e44890d74409c17df2
+      internalID: 1900085495835544163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 186
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82df9b93825d9934a84d1ae65a5c1ea5
+      internalID: 1228581927467956385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 187
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6966747bbf0bc4aa327653983213cd
+      internalID: 4743371605866664126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 188
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473127994b0b60440a2a63d3448a5463
+      internalID: -8977277087197406005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b96f3468b8a7a478282fd337c7e189
+      internalID: -2973638409492503198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 190
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f1f4e6d5841804dab96f1495e6c5ac
+      internalID: 1870751785996745079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 191
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c767c7858dee129468529d4e770d2f02
+      internalID: 5925258901157171800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 192
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deae2f329052af74895cf105dcb0890e
+      internalID: 2081512777759664889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 193
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1509a05130abe4995fe000a87ae31b
+      internalID: 2890495056702082017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 194
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2767b409827498241b3300a934eba23f
+      internalID: 5489456096630640618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 195
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108197f48cd1a6642843522cedd692ab
+      internalID: -9196340236996734924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 196
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe7ae061adf7fd43a9af2e272eded0f
+      internalID: 1497806556067224230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 197
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015c0c4ea99f7964186e0ce6fd5b4c44
+      internalID: 3410830441700606559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 198
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3612baf0f2a7d6b4ab92d5f7bfc56c47
+      internalID: -8281560929405748778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 199
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cb0b9e772f0664cb6461bde09591dc
+      internalID: 6088935158741755016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 200
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f685b0215d5d64d4c810c7920b2bfc19
+      internalID: -176588124583813797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 201
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc459db65de6424c92f0e4be3a42f93
+      internalID: 1607455679928789049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 202
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83d012d705659043853eb75dda8bfe6
+      internalID: 5915351400824540870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 203
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9e88e7afe4c8e4f986f1d0bb0125ee
+      internalID: -8222150835108837472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 204
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf85a0c202bab904ab1482570f8f966c
+      internalID: -4495766908707942243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df966be0c265b6488e185506d30db56
+      internalID: -25345976839669740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f810e5d0d17e94490ed1cc1dec03bf
+      internalID: -1711605875371448253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a5fca93279b4340acc5e90a7c6774a
+      internalID: -3913481050258751334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 208
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cb091d2556a4149a21c0a7c4842699
+      internalID: -6633777077238411347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 209
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba008fcf9cc218489e4ff39a1d54023
+      internalID: -2280861787673787499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 210
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f61a0e29fda54e4e8ab3b12ee013cac
+      internalID: -6492794424578698639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 211
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3970fa7803e8fc04b8be1c5a4721a7e5
+      internalID: -6284924988478764170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 212
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614f8d5e5dade25469adb0ace8451ecc
+      internalID: -4762192769984969850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 213
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde44801d29128e49a861d57949dd38f
+      internalID: 1411370791526637264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 214
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3017dfc7b10364586cfeddb0b86424
+      internalID: -2334874938697880068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 215
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f04242e7475474e8217caba9b08134
+      internalID: -3065724426441102422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 216
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197a9334efbe8b94c9e483acf043e1a7
+      internalID: -8791215971560577277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 217
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1e299d31488c6428fedfaa2356a5a6
+      internalID: 9220041276890408156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 218
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677cfbf07bf0e6343bf1ad91c8b791a8
+      internalID: 1081910072565874694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 219
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90df968df5e4ca4885542504cf628b7
+      internalID: 4817034667930449659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 220
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 96
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7b3779a2fb36f468b685179c237032
+      internalID: -3673536785287773873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec0b4d39ecc7bb45af3e62d12c89b74
+      internalID: -2896820804254895410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 222
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57fc919446189c4889c777a4cd80fd7
+      internalID: 7972505606788742342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 223
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bed6ec21a59f84782a355c9fd0513b
+      internalID: 5836334162438240371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 224
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cad666cc246974197abfa0bddcdacf
+      internalID: 7874555918299877763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 225
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dedd73601ea0242b43a1a74a186f0c
+      internalID: -8236005578043099660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 226
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d59e83fd9a753468090c6736369661
+      internalID: 7432966180789427486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 227
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 192
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f684e0dfb56e594da7f2eb2d792c21c
+      internalID: -7825232174105825414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 228
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 288
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cad317491bd0540b8e0d6ca1ecd8fa
+      internalID: -1288370014451998349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 229
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77451b104c03b854390e926b9b56e420
+      internalID: -4912572602401758283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aca2da27bb762846982608b8073b1fa
+      internalID: -1814162109324194750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de7f9c22cf10714aae5fdbe63ce5b6d
+      internalID: -1465029579674162505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f2950d3ca0d4c4cbd5f6015bdadd45
+      internalID: -1172969458585572645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed18eaadd7b687445aa07d576bb27a5f
+      internalID: 6376040770117021761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 234
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a896c574cfa34e4ca9531ff6ca12401
+      internalID: 1805564489753900317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 235
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc6c197aa758034c92223967d184daf
+      internalID: -2129811686859577419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 236
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323ed621ba6d1604fb2bb15883b9e39b
+      internalID: -2463916964422310016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 237
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce052c12868feb7469389d2b75a4a81e
+      internalID: 2218438175086808596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 238
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a54e212ea2b9440a9a0cee45b0b590
+      internalID: -858378735766900254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 239
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192d6a4fa27901a4e9d98a70c78a17c4
+      internalID: -7801146541631227277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 240
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d27831d553264c8ba5078dd89efdb
+      internalID: -4051378365499199653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 241
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d76f23dde68d5d47840d9a22dc3024f
+      internalID: 5004094796511422131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 242
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333c7ba892682b741997b09960a3e2b0
+      internalID: -1780820401237313800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 243
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18c077f7538a07449dae887df06e4c4
+      internalID: -460466756141990481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 244
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c2571cbbeb61e4288d0dd2ca0504a6
+      internalID: 165172680677014126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 245
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8b0b12a4608074fa84c25ca290e424
+      internalID: 7772659101457952109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 246
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878f0ddbabface542b20090c86592de4
+      internalID: -5216537793219688897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 247
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3d0f83c2ce7d04ba45edaad5e0da92
+      internalID: 8907434432926991106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 248
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e1b2c7a7a1c9340b399149d1d442a6
+      internalID: 242830705802475202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 249
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9e97a6c216d8d45a711fe0ac05466b
+      internalID: -4858979355579131553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 250
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e97f9db016967c41acc5ec1c48e7ca7
+      internalID: -9086037829790314679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 251
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d60155e5e0f74418e912b59e69d6dd
+      internalID: 1541284278057790318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 252
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9bbd2ca060e2746bd8ebbf4bc22137
+      internalID: -8213427339032329625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 253
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c0a9939a732b2428849073562828af
+      internalID: -2955979287431597401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 254
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f853b463b5f99f349be61d8dc13598e1
+      internalID: 111384187116242165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 255
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f563cc3f5641b264d90368e6d2b18321
+      internalID: -2899813601500655682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 256
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88baa9edf50325241ba6fbe4c93770c8
+      internalID: 2072536303192669404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 257
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f674679b8455ed24682571e06dad2146
+      internalID: 4832222598755425969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 258
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77261c8e4b3ecf04ca5efe7167ecc8f9
+      internalID: -7977170831018712795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 259
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3449cbd9bbd5d064bb7928809498a77e
+      internalID: 5707578758185359805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 260
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a683c5b823705114b818ded58f1ea33c
+      internalID: 6720995247555068079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc5a5e400f3ae740aaf7b3d8f8ca22b
+      internalID: -6854762545128359141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 262
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f08cda243ca3da41b58079308a35bef
+      internalID: 4945539540947623469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 263
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db44d503c683fd642a74669d20177ed1
+      internalID: -7151413179915617277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 264
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 576
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0ec4977b616d64ba17c848c85b00f9
+      internalID: -509326715748591524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 265
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9616c7dbcdde304baaaeb0475f11206
+      internalID: 3874868624059735400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bde92aee3abdb74090c18c55f47a017
+      internalID: 7395331650109249287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 267
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c76e492e2b6d540b544182029cf1b0
+      internalID: 5201873795818485965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 268
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac7c8ce2a2bd254da1f2f2196ac3ab8
+      internalID: 3841153185961946036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 269
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792f322f4deb84a44a2f4395a4b84349
+      internalID: -266054343457847291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 270
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748cd68842fe24c4eb518fd63037160f
+      internalID: -8576915157110469892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 271
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded7b7710a9b0564d8b66c28ad9de38d
+      internalID: 551254932211756189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 272
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa7bf2bb3f222b4b873b0980b98534c
+      internalID: 6962194454636063791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 273
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1153adb36444d8c45ba75200916952f8
+      internalID: 6881418209923166920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 274
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a79b1fc3b956c49a8b02c7711ca8e6
+      internalID: -5043759070411353091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 275
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f01ad72aa6a70b4582fdf7dd4bb0a08
+      internalID: 1564238150588508923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 276
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f936122f8c2436940a3b71fc80e88905
+      internalID: -9045829980923035339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 277
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f30620fdc35b5418c01cf704946cff
+      internalID: 905539303261846131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 278
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac517a21969409f44a0b3bb4089b38e9
+      internalID: 3068163029191121655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 279
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b967a1cde6ff24790363eea56e8d3d
+      internalID: -2811233399011470062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 280
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59109433fb8a874a8a276f4998442c2
+      internalID: -181459918498091375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 281
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e41a60e083175439c219753566ded9
+      internalID: 6370863117762052619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 282
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 672
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7255f16ea24474192851313bb2fc0a
+      internalID: -2616437216136818339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 283
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6163d67245e9d4e95e470ed51f8d89
+      internalID: 3374127277045997275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 284
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 0
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c070e6457035f114c83037d4981d7fd3
+      internalID: -7509389819866729378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 285
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00dde24d1132d64b95bbe89eeda24ba
+      internalID: 1695644677393541138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 286
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d17ba13a7e1e04f837b5febe966b68
+      internalID: -8349302301654692945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 287
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005bc04b47566274188cba615eeb4e9c
+      internalID: -4834250714550375177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keeper Guard 4 288
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 480
+        width: 224
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926334e1b65335c41a391a0e385cef20
+      internalID: 5572716920419443691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 84b63ab46f55257448e20a17b8c36e25
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
